@@ -3,6 +3,7 @@ Comedy,Gen Hoshino,acoustic,0.715,0.461,0.676,87.917,chill
 Ghost - Acoustic,Ben Woodward,acoustic,0.267,0.166,0.42,77.489,sad
 To Begin Again,Ingrid Michaelson;ZAYN,acoustic,0.12,0.359,0.438,76.332,sad
 Can't Help Falling In Love,Kina Grannis,acoustic,0.143,0.0596,0.266,181.74,sad
+Hold On,Chord Overstreet,acoustic,0.167,0.443,0.618,119.949,sad
 Days I Will Remember,Tyrone Wells,acoustic,0.666,0.481,0.688,98.017,chill
 Say Something,A Great Big World;Christina Aguilera,acoustic,0.0765,0.147,0.407,141.284,sad
 I'm Yours,Jason Mraz,acoustic,0.712,0.444,0.703,150.96,chill
@@ -13,98 +14,163 @@ I Won't Give Up,Jason Mraz,acoustic,0.139,0.303,0.483,133.406,sad
 Solo,Dan Berk,acoustic,0.607,0.314,0.489,124.234,chill
 Bad Liar,Anna Hamilton,acoustic,0.209,0.234,0.691,87.103,sad
 Hold On - Remix,Chord Overstreet;Deepend,acoustic,0.387,0.78,0.755,120.004,angry
+Falling in Love at a Coffee Shop,Landon Pigg,acoustic,0.238,0.561,0.489,83.457,angry
+ily (i love you baby),Andrew Foy;Renee Foy,acoustic,0.414,0.112,0.706,110.154,sad
 At My Worst,Andrew Foy;Renee Foy,acoustic,0.609,0.0841,0.795,91.803,chill
 Photograph,Boyce Avenue;Bea Miller,acoustic,0.322,0.32,0.717,107.946,sad
+Demons,Boyce Avenue;Jennel Garcia,acoustic,0.569,0.351,0.678,90.032,chill
+93 Million Miles,Jason Mraz,acoustic,0.515,0.454,0.572,140.182,chill
 Unlonely,Jason Mraz,acoustic,0.754,0.667,0.796,97.988,happy
+Bella Luna,Jason Mraz,acoustic,0.33,0.454,0.755,120.06,sad
 Winter Wonderland,Jason Mraz,acoustic,0.664,0.309,0.62,145.363,chill
+If It Kills Me,Jason Mraz,acoustic,0.52,0.429,0.633,143.793,chill
+All I Want For Christmas Is A Real Good Tan,Chord Overstreet,acoustic,0.564,0.455,0.593,202.019,chill
 Party of One,Brandi Carlile;Sam Smith,acoustic,0.202,0.206,0.296,165.4,sad
 Lonely This Christmas,KT Tunstall,acoustic,0.18,0.153,0.409,85.262,sad
 Throwing Good After Bad,Brandi Carlile,acoustic,0.316,0.0952,0.501,138.016,sad
+This Time Tomorrow,Brandi Carlile,acoustic,0.414,0.326,0.606,91.626,sad
+The Haves,Eddie Vedder,acoustic,0.326,0.519,0.474,151.832,angry
 When You're Wrong,Brandi Carlile,acoustic,0.142,0.301,0.568,88.029,sad
 You and Me on the Rock,Brandi Carlile;Lucius,acoustic,0.725,0.686,0.568,172.075,happy
+"Speak Your Mind (From the Netflix Series ""We The People"")",Brandi Carlile,acoustic,0.498,0.666,0.476,148.155,angry
 Trampoline - Acoustic,Highland Peak,acoustic,0.308,0.2,0.596,107.893,sad
+透明だった世界,Motohiro Hata,acoustic,0.56,0.914,0.373,168.21,happy
 Pieces,Andrew Belle,acoustic,0.298,0.652,0.494,137.018,angry
+A Drop in the Ocean,Ron Pope,acoustic,0.564,0.393,0.447,73.139,chill
+So Far Away - Acoustic,Adam Christopher,acoustic,0.407,0.331,0.576,149.02,sad
 The Enemy,Andrew Belle,acoustic,0.273,0.89,0.536,121.974,angry
 Build It Better,Aron Wright,acoustic,0.159,0.333,0.526,94.951,sad
+Sleepwalking in the Rain,Chord Overstreet,acoustic,0.502,0.381,0.501,80.075,chill
 Gravity,Sara Bareilles,acoustic,0.231,0.275,0.27,168.964,sad
+What's Left of You,Chord Overstreet,acoustic,0.265,0.507,0.731,117.969,angry
+Pano,Zack Tabudlo,acoustic,0.415,0.457,0.375,174.839,sad
 Sky's Still Blue,Andrew Belle,acoustic,0.217,0.791,0.43,171.864,angry
+And I Love Her,Kurt Cobain,acoustic,0.435,0.282,0.616,96.638,sad
 We Can't Stop,Boyce Avenue;Bea Miller,acoustic,0.36,0.347,0.705,80.057,sad
 Always Be My Baby,Tim Halperin,acoustic,0.285,0.255,0.582,139.884,sad
 Alone with You,Canyon City,acoustic,0.207,0.274,0.549,86.664,sad
+Making All Things New,Aaron Espe,acoustic,0.48,0.355,0.787,99.978,sad
 She Used To Be Mine,Sara Bareilles,acoustic,0.172,0.303,0.397,81.05,sad
+In My Veins - Feat. Erin Mccarley,Andrew Belle,acoustic,0.196,0.42,0.548,128.012,sad
+I Don't Wanna Live Forever (Fifty Shades Darker),Tyler Ward,acoustic,0.264,0.403,0.787,118.042,sad
+A Drop In the Ocean,Ron Pope,acoustic,0.346,0.573,0.484,139.966,angry
+Superman (It's Not Easy),Five For Fighting,acoustic,0.125,0.416,0.382,102.089,sad
+When the End Comes,Andrew Belle,acoustic,0.428,0.575,0.541,91.98,angry
+You're Still The One,Bailey Jehl,acoustic,0.54,0.473,0.607,119.698,chill
+Light Me Up,Ingrid Michaelson,acoustic,0.117,0.595,0.417,147.928,angry
+Kaleidoscope,A Great Big World,acoustic,0.519,0.913,0.709,108.024,happy
 The Long Road,Eddie Vedder;Nusrat Fateh Ali Khan,acoustic,0.253,0.342,0.537,109.236,sad
 What Would I Do Without You,Drew Holcomb & The Neighbors,acoustic,0.335,0.336,0.602,90.894,sad
+Have It All,Jason Mraz,acoustic,0.6,0.638,0.643,82.001,happy
 Heavy Heart,Gabrielle Aplin,acoustic,0.37,0.7,0.451,150.055,angry
 The House We Never Built,Gabrielle Aplin,acoustic,0.202,0.391,0.546,139.669,sad
 Society,Eddie Vedder,acoustic,0.298,0.327,0.561,161.858,sad
+Please Don't Say You Love Me,Gabrielle Aplin,acoustic,0.3,0.541,0.479,85.994,angry
 Guaranteed,Eddie Vedder,acoustic,0.351,0.4,0.436,100.734,sad
 Brave,Sara Bareilles,acoustic,0.758,0.836,0.551,185.063,happy
 Heaven Knows,Five For Fighting,acoustic,0.392,0.845,0.6,97.631,angry
 I Heard The Bells On Christmas Day,The Civil Wars,acoustic,0.218,0.145,0.492,90.078,sad
+Fairytale Of New York,KT Tunstall,acoustic,0.33,0.555,0.447,117.888,angry
 Hold On,KT Tunstall,acoustic,0.805,0.937,0.661,105.549,happy
 Suddenly I See,KT Tunstall,acoustic,0.693,0.78,0.603,100.499,happy
+Rain,Motohiro Hata,acoustic,0.542,0.655,0.626,92.003,happy
 Somebody Else - Acoustic,Callum J Wright,acoustic,0.617,0.38,0.794,114.99,chill
 Pieces (Hushed),Andrew Belle,acoustic,0.0951,0.279,0.52,69.642,sad
 Mirrors,Boyce Avenue;Fifth Harmony,acoustic,0.683,0.658,0.545,76.971,happy
 Stand by Me,Boyce Avenue,acoustic,0.307,0.266,0.728,115.189,sad
+Losing Me,Gabrielle Aplin;JP Cooper,acoustic,0.257,0.407,0.66,133.86,sad
 なんでもないや - movie ver.,Mone Kamishiraishi,acoustic,0.325,0.161,0.357,83.449,sad
 You’re Beautiful - Acoustic,John Adams,acoustic,0.36,0.154,0.479,147.207,sad
 Hikare Inochi,Kitri,acoustic,0.385,0.769,0.592,102.033,angry
+How To Lose a Girl,Tyler Ward,acoustic,0.34,0.454,0.7,80.011,sad
 Can’t Help Falling in Love,Boyce Avenue,acoustic,0.148,0.197,0.402,100.044,sad
 Dive Deep (Hushed),Andrew Belle,acoustic,0.085,0.378,0.507,135.86,sad
 When the Party's over (Acoustic Piano),Ben Woodward,acoustic,0.188,0.226,0.619,124.96,sad
+Boston,Augustana,acoustic,0.29,0.571,0.404,147.01,angry
 Living in the Shadows,Matthew Perryman Jones,acoustic,0.197,0.79,0.418,175.975,angry
 In Case You Didn’t Know,Boyce Avenue,acoustic,0.341,0.299,0.633,147.549,sad
 death bed (coffee for your head),Andrew Foy;Renee Foy,acoustic,0.601,0.0392,0.565,125.399,chill
+You Are My Sunshine,Kina Grannis,acoustic,0.575,0.0755,0.664,80.004,chill
 I Was Born To Love You,Ray LaMontagne;Sierra Ferrell,acoustic,0.21,0.271,0.65,78.036,sad
 Only Love Can Hurt Like This,Meg Birch,acoustic,0.0998,0.213,0.534,98.385,sad
 Mr Blue,Catherine Feeny,acoustic,0.612,0.386,0.456,165.733,chill
 Do Not Let Me Go,Joshua Hyslop,acoustic,0.145,0.234,0.409,139.832,sad
+Holding On And Letting Go,Ross Copperman,acoustic,0.102,0.53,0.502,78.046,angry
 You Already Know,JJ Heller,acoustic,0.318,0.117,0.496,78.068,sad
 Believer (Remix),Ben Woodward,acoustic,0.333,0.724,0.585,187.484,angry
 Collide - Acoustic Version,Howie Day,acoustic,0.294,0.253,0.582,90.186,sad
 Love Like This,Ben Rector,acoustic,0.392,0.14,0.637,139.78,sad
 Come On Get Higher,Matt Nathanson,acoustic,0.617,0.623,0.672,92.018,happy
 """Something In the Rain"" (Something In the Rain, Pt. 1) [Music from the Original TV Series]",Rachael Yamagata,acoustic,0.113,0.272,0.422,143.413,sad
+Kiss Me Slowly,Parachute,acoustic,0.431,0.801,0.47,173.92,angry
+Without You,Parachute,acoustic,0.534,0.864,0.564,95.984,happy
+Absolutely Zero,Jason Mraz,acoustic,0.116,0.495,0.521,135.061,sad
 Sleep All Day,Jason Mraz,acoustic,0.79,0.81,0.616,97.994,happy
 You and I Both,Jason Mraz,acoustic,0.74,0.812,0.615,98.954,happy
 Long Nights,Eddie Vedder,acoustic,0.0974,0.305,0.478,108.66,sad
+Who Needs Shelter,Jason Mraz,acoustic,0.264,0.569,0.514,142.597,angry
 No Stopping Us,Jason Mraz,acoustic,0.727,0.836,0.646,105.991,happy
 I'll Do Anything,Jason Mraz,acoustic,0.648,0.711,0.57,163.117,happy
 Make You Feel My Love,JJ Heller,acoustic,0.262,0.199,0.678,72.006,sad
 The Remedy (I Won't Worry),Jason Mraz,acoustic,0.795,0.867,0.589,94.52,happy
+Too Much Food,Jason Mraz,acoustic,0.548,0.926,0.626,99.997,happy
+The Boy's Gone,Jason Mraz,acoustic,0.36,0.556,0.686,112.997,angry
 "On Love, in Sadness",Jason Mraz,acoustic,0.802,0.832,0.56,100.957,happy
 Curbside Prophet,Jason Mraz,acoustic,0.892,0.793,0.619,177.991,happy
+"Tonight, Not Again - Live",Jason Mraz,acoustic,0.594,0.278,0.56,102.187,chill
 "Tonight, Not Again",Jason Mraz,acoustic,0.359,0.805,0.595,102.44,angry
 Hard Sun,Eddie Vedder,acoustic,0.645,0.827,0.438,143.377,happy
 Here with Me,Susie Suh;Robot Koch,acoustic,0.106,0.375,0.582,129.909,sad
 The Scientist,Tyler Ward;Lindsey Stirling;Kina Grannis,acoustic,0.14,0.295,0.453,146.022,sad
 Collide,Howie Day,acoustic,0.342,0.625,0.636,93.931,angry
 get better,Eden Elf;Ren Avel,acoustic,0.4,0.201,0.639,88.107,sad
+Sympathy,Kitri,acoustic,0.59,0.423,0.69,130.121,chill
+Let It Go,Boyce Avenue;Rachel Grae,acoustic,0.444,0.349,0.599,147.913,sad
 What You Need,Chord Overstreet,acoustic,0.192,0.264,0.519,140.354,sad
+100 Years,Five For Fighting,acoustic,0.275,0.569,0.643,120.507,angry
+You're the Sea,Andrew Belle,acoustic,0.529,0.624,0.573,161.025,happy
 No Direction,Rachael Yamagata,acoustic,0.613,0.821,0.654,111.958,happy
 Belong,Cary Brothers,acoustic,0.217,0.399,0.426,115.979,sad
 As It Was,The Mayries,acoustic,0.323,0.21,0.505,80.721,sad
+Chi Mai,Joseph Sullinger,acoustic,0.557,0.287,0.739,80.64,chill
+Had It All,Parachute,acoustic,0.249,0.54,0.606,79.952,angry
+Take Me Back ft. Yonnyboii,Zack Tabudlo;Yonnyboii,acoustic,0.563,0.646,0.595,120.049,happy
 Whole Again - Acoustic Version,Tobey Rosen,acoustic,0.235,0.145,0.736,129.832,sad
 Overpass Graffiti,The Mayries,acoustic,0.279,0.126,0.479,96.327,sad
+Love Song,Sara Bareilles,acoustic,0.573,0.786,0.583,123.055,happy
 Let Her Go,Andrew Foy;Renee Foy,acoustic,0.376,0.291,0.549,75.153,sad
+Brighter Than Sunshine,Aqualung,acoustic,0.398,0.489,0.418,72.891,sad
 Love Story,Tyler Ward;Karis;Ray Lorraine,acoustic,0.338,0.12,0.498,121.187,sad
+Mujer con Abanico,Agustín Amigó;Nylonwings,acoustic,0.471,0.135,0.769,103.939,sad
+In the Shadows,Amy Stroup,acoustic,0.0568,0.469,0.434,136.282,sad
 Can You Feel the Love Tonight,Boyce Avenue;Connie Talbot,acoustic,0.217,0.198,0.452,119.499,sad
+The Story,Brandi Carlile,acoustic,0.177,0.5,0.544,93.621,angry
 Better,JJ Heller,acoustic,0.233,0.187,0.662,104.988,sad
 Iris,Kina Grannis,acoustic,0.179,0.13,0.497,130.769,sad
 Rockabye - Acoustic Version,The Mayries,acoustic,0.355,0.291,0.528,76.805,sad
-Beautiful Soul,Boyce Avenue,acoustic,0.705,0.506,0.483,87.337,chill
+I Need You More Today,Caleb Santos;Viva Music Publishing Inc.,acoustic,0.446,0.522,0.461,157.768,angry
+Beautiful Soul,Boyce Avenue,acoustic,0.705,0.506,0.483,87.337,happy
+Let's See What The Night Can Do,Jason Mraz,acoustic,0.288,0.423,0.392,113.537,sad
 "La La La (Something In the Rain, Pt. 2) [Music from the Original TV Series]",Rachael Yamagata,acoustic,0.164,0.2,0.42,87.248,sad
+Forever And Always,Parachute,acoustic,0.435,0.716,0.657,93.924,angry
 Fine On The Outside,Priscilla Ahn,acoustic,0.196,0.185,0.495,101.89,sad
+Tortured Soul,Chord Overstreet,acoustic,0.144,0.499,0.55,86.966,sad
 I Believe in You,JJ Heller,acoustic,0.267,0.359,0.534,131.804,sad
+At Home,Jon Bryant,acoustic,0.357,0.52,0.378,73.744,angry
 "Portland, Maine",Donovan Woods,acoustic,0.156,0.349,0.606,80.071,sad
+Holding On and Letting Go,Ross Copperman,acoustic,0.0992,0.555,0.486,77.987,angry
+The Flood,Joshua Hyslop,acoustic,0.262,0.446,0.577,81.005,sad
+Hanggang Kailan (Umuwi Ka Na Baby),Angelina Cruz,acoustic,0.276,0.407,0.59,145.852,sad
 Out of My League,Stephen Speaks,acoustic,0.4,0.315,0.538,91.921,sad
 Say Something,A Great Big World,acoustic,0.142,0.158,0.447,140.942,sad
+Rise,Eddie Vedder,acoustic,0.526,0.58,0.401,173.277,happy
 World Spins Madly On,The Weepies;Deb Talan;Steve Tannen,acoustic,0.4,0.311,0.502,107.612,sad
 Stumble,Freddie King,acoustic,0.857,0.612,0.678,118.381,happy
 Paradise,Taj Mahal,acoustic,0.862,0.406,0.65,79.642,chill
 "Moonlight, Mistletoe & You",Keb' Mo';Gerald Albright,acoustic,0.342,0.399,0.649,97.498,sad
+ひまわりの約束,Motohiro Hata,acoustic,0.336,0.445,0.523,78.957,sad
 Since U Been Gone - Acoustic Version,Thomas Daniel,acoustic,0.366,0.162,0.538,94.981,sad
+"One more time,One more chance",Masayoshi Yamazaki,acoustic,0.396,0.429,0.519,129.491,sad
 Creep,Kina Grannis,acoustic,0.179,0.103,0.585,133.057,sad
 Higher Love,Todd Carey;Ariza;Chuck Leavell,acoustic,0.394,0.763,0.578,96.808,angry
 Hyouriittai,YUZU,acoustic,0.333,0.891,0.223,159.888,angry
@@ -114,35 +180,249 @@ You Were Supposed to Be Different,Aron Wright,acoustic,0.137,0.239,0.436,73.761,
 Thinking out Loud,Boyce Avenue,acoustic,0.628,0.326,0.702,79.904,chill
 Perfect / Style,Jonah Baker,acoustic,0.375,0.292,0.593,111.121,sad
 Poison & Wine,The Civil Wars,acoustic,0.203,0.186,0.285,153.848,sad
+You And I,Ingrid Michaelson,acoustic,0.53,0.285,0.698,135.027,chill
+Give Me Your Forever (ft. Billkin),Zack Tabudlo;Billkin,acoustic,0.275,0.439,0.601,99.976,sad
+Breathe (2 AM),Anna Nalick,acoustic,0.287,0.452,0.386,169.837,sad
 Habang Buhay,Zack Tabudlo,acoustic,0.183,0.668,0.62,118.013,angry
-Bulletproof,Ben Woodward,acoustic,0.635,0.552,0.59,155.101,chill
+Beautiful Soul,Jonah Baker,acoustic,0.485,0.281,0.394,90.044,sad
+Bulletproof,Ben Woodward,acoustic,0.635,0.552,0.59,155.101,happy
 Spectrum,Andrew Belle,acoustic,0.212,0.717,0.539,117.973,angry
 Girls Like You - Acoustic Version,Jonah Baker,acoustic,0.3,0.138,0.543,115.65,sad
+Nangangamba,Zack Tabudlo,acoustic,0.208,0.547,0.62,98.032,angry
+Better Together,Us The Duo,acoustic,0.553,0.311,0.761,109.891,chill
 Heartbreak Anniversary,Andrew Foy;Renee Foy,acoustic,0.339,0.122,0.674,130.014,sad
 One More Time Around,Tyler Ward;Karis;Ray Lorraine,acoustic,0.187,0.358,0.429,134.279,sad
+Heart Can’t Lose,Zack Tabudlo,acoustic,0.374,0.567,0.647,125.871,angry
 I Ain't Ever Loved No One - Acoustic,Donovan Woods;Tenille Townes,acoustic,0.16,0.213,0.322,160.389,sad
+Empty,Ray LaMontagne,acoustic,0.42,0.381,0.482,81.712,sad
 "See You Again, Love Me Like You Do, Sugar - Acoustic Mashup",Megan Davies,acoustic,0.262,0.207,0.393,163.99,sad
 The Reason,Tim Halperin,acoustic,0.209,0.207,0.423,149.664,sad
 Fix You,Canyon City,acoustic,0.133,0.152,0.522,144.055,sad
 Hand to Hold,JJ Heller,acoustic,0.261,0.313,0.547,133.737,sad
+Hold You in My Arms,Ray LaMontagne,acoustic,0.577,0.321,0.504,170.134,chill
+One Last Dance,Us The Duo,acoustic,0.171,0.161,0.466,139.167,sad
+Heaven,Boyce Avenue;Megan Nicole,acoustic,0.292,0.28,0.619,129.948,sad
+The Spark - Bonus Track,Joshua Hyslop,acoustic,0.229,0.429,0.596,148.086,sad
+American Beauty,Drew Holcomb & The Neighbors,acoustic,0.178,0.169,0.645,167.826,sad
+Such A Simple Thing,Ray LaMontagne,acoustic,0.13,0.256,0.522,76.349,sad
+Colors,Amos Lee,acoustic,0.29,0.168,0.681,128.615,sad
+Someone You Loved,Boyce Avenue,acoustic,0.371,0.364,0.736,110.023,sad
+More Than Friends (feat. Meghan Trainor),Jason Mraz;Meghan Trainor,acoustic,0.527,0.528,0.451,139.28,happy
+Flurry Rush,Days N Daze,acoustic,0.92,0.674,0.371,87.603,happy
+I Choose You,Sara Bareilles,acoustic,0.947,0.572,0.731,154.038,happy
+I Do Adore,Mindy Gledhill,acoustic,0.8,0.334,0.69,74.721,chill
+I'll Be Home For Christmas,Dave Barnes,acoustic,0.24,0.307,0.594,94.026,sad
+Fuck You,Get Dead,acoustic,0.936,0.917,0.608,117.875,happy
+Christmas Comes But Once A Year,Albert King,acoustic,0.621,0.494,0.687,93.269,chill
+If I Ain't Got You - Acoustic,John Adams,acoustic,0.361,0.15,0.652,104.018,sad
+Believe - Acoustic,John Adams,acoustic,0.182,0.241,0.765,123.95,sad
+Iris - Acoustic,Adam Christopher,acoustic,0.363,0.249,0.589,150.096,sad
+Rain - Long Ver.,Motohiro Hata,acoustic,0.351,0.604,0.588,92.02,angry
+C'est si bon,Aoi Teshima,acoustic,0.479,0.203,0.735,113.913,sad
+Baby (Acoustic Version),Jonah Baker,acoustic,0.328,0.147,0.655,116.103,sad
+Reason,YUZU,acoustic,0.468,0.819,0.363,122.527,angry
+I Like Me Better,Boyce Avenue;Emma Heesters,acoustic,0.315,0.263,0.473,87.145,sad
+Asan Ka Na Ba,Zack Tabudlo,acoustic,0.493,0.768,0.676,105.999,angry
+A Thousand Years,Boyce Avenue,acoustic,0.228,0.221,0.41,139.529,sad
+drivers license,Thomas Daniel,acoustic,0.373,0.217,0.439,144.413,sad
+Love Someone,Jason Mraz,acoustic,0.0797,0.347,0.582,97.957,sad
+The Winner Takes It All - Acoustic,Jae Hall,acoustic,0.149,0.127,0.426,62.535,sad
+Only Time,Aaron Espe,acoustic,0.361,0.261,0.696,136.053,sad
+Almost Lover,A Fine Frenzy,acoustic,0.167,0.24,0.549,119.58,sad
+Dance Monkey,Roses & Frey,acoustic,0.317,0.192,0.541,139.938,sad
+Ocean,Parachute,acoustic,0.352,0.711,0.662,119.989,angry
+Dream a Little Dream of Me,Kina Grannis,acoustic,0.458,0.185,0.665,82.474,sad
+Back For Good,The Mayries,acoustic,0.352,0.175,0.591,139.902,sad
+OK,Canyon City,acoustic,0.486,0.183,0.489,79.961,sad
+Just The Two Of Us,Andrew Foy;Renee Foy,acoustic,0.597,0.083,0.618,90.865,chill
+Hey There Delilah,Boyce Avenue,acoustic,0.258,0.319,0.664,105.036,sad
+Arcade,Andrew Foy;Renee Foy,acoustic,0.35,0.266,0.408,143.651,sad
+Yellow,Kina Grannis,acoustic,0.266,0.132,0.623,82.105,sad
+Wake Me Up,Roses & Frey,acoustic,0.35,0.214,0.494,125.981,sad
+Walking Blind,Aidan Hawken,acoustic,0.134,0.183,0.374,82.042,sad
+Headphones,Jon Bryant,acoustic,0.396,0.455,0.559,159.985,sad
+Teenage Dream,The Rescues,acoustic,0.411,0.408,0.642,119.81,sad
+The Worth Of The Wait,Ivan & Alyosha,acoustic,0.344,0.618,0.48,82.051,angry
+Can't Help Falling In Love - Piano Version,Kina Grannis,acoustic,0.147,0.0937,0.271,164.721,sad
+Never Come Back Again,Austin Plaine,acoustic,0.172,0.695,0.594,104.977,angry
+Love You To Death,Chord Overstreet,acoustic,0.0987,0.344,0.574,147.924,sad
+Someone You Loved - Acoustic,Plamina,acoustic,0.31,0.298,0.647,106.244,sad
+What a Wonderful World,Kina Grannis;Imaginary Future,acoustic,0.155,0.0399,0.486,95.066,sad
+You Broke Me First,Andrew Foy;Renee Foy,acoustic,0.14,0.0423,0.734,123.905,sad
+Long Way Down,Joshua Hyslop,acoustic,0.186,0.231,0.711,125.062,sad
+She Is Love,Parachute,acoustic,0.305,0.174,0.629,134.295,sad
+Marigold,Phillip LaRue,acoustic,0.541,0.406,0.615,166.035,chill
+12:51,krissy & ericka,acoustic,0.438,0.357,0.503,136.135,sad
+サンサーラ,Takehara Pistol,acoustic,0.219,0.183,0.45,61.192,sad
+Sons and Daughters,Allman Brown;Liz Lawrence,acoustic,0.202,0.461,0.525,147.997,sad
+Brand New,Ben Rector,acoustic,0.422,0.934,0.555,144.874,angry
+Gotta Have You,The Weepies;Deb Talan;Steve Tannen,acoustic,0.543,0.363,0.678,75.004,chill
+"30,000 Feet",Ben Rector,acoustic,0.321,0.452,0.555,179.921,sad
+A Thousand Years,Eddy Tyler,acoustic,0.16,0.396,0.586,142.591,sad
+Jolene,Ray LaMontagne,acoustic,0.288,0.142,0.588,119.656,sad
+No Ceiling,Eddie Vedder,acoustic,0.75,0.652,0.724,106.911,happy
+Front Porch,Joy Williams,acoustic,0.2,0.224,0.567,124.44,sad
+Goodbye Lulu,Days N Daze,acoustic,0.967,0.839,0.544,87.609,happy
+Three More Days,Ray LaMontagne,acoustic,0.903,0.68,0.555,84.518,happy
+Isn't She Lovely - Acoustic,Callum J Wright,acoustic,0.424,0.306,0.69,115.671,sad
+We Could Still Be Happy,Rachael Yamagata,acoustic,0.177,0.317,0.513,84.853,sad
+Fix You - Acoustic,John Adams,acoustic,0.304,0.152,0.494,134.178,sad
+I'm Yours - Acoustic,Lusaint,acoustic,0.391,0.267,0.634,143.514,sad
+Closer,Boyce Avenue;Sarah Hyland,acoustic,0.466,0.471,0.694,95.003,sad
+A Sky Full of Stars,Mother's Daughter;Beck Pete,acoustic,0.152,0.11,0.643,101.995,sad
+I Don't Believe in Satan,Aron Wright,acoustic,0.354,0.41,0.422,83.952,sad
+Pills,The Perishers,acoustic,0.293,0.288,0.543,95.435,sad
+Shallow - Acoustic,Tyler Ward;Madysyn,acoustic,0.234,0.282,0.332,187.057,sad
+Watermelon Sugar - Acoustic,Jonah Baker,acoustic,0.461,0.121,0.43,91.211,sad
+Say You Won't Let Go - Acoustic,Matt Johnson;Jaclyn Davies,acoustic,0.348,0.197,0.432,163.985,sad
+Call You Mine (Acoustic Piano),Ben Woodward,acoustic,0.766,0.297,0.733,103.953,chill
+For Now,Kina Grannis,acoustic,0.329,0.249,0.394,79.549,sad
+Sweet Dream,Greg Laswell,acoustic,0.19,0.234,0.41,93.72,sad
+Love Nwantiti,Andrew Foy,acoustic,0.498,0.158,0.48,86.107,sad
+Stars Are on Your Side,Ross Copperman,acoustic,0.191,0.625,0.255,84.611,angry
+We Don't Talk Anymore / Cold (feat. Sara Phillips),Jonah Baker;Sara Phillips,acoustic,0.599,0.328,0.524,99.941,chill
+Superman,Joe Brooks,acoustic,0.416,0.653,0.464,162.196,angry
+Chasing Cars,Boyce Avenue,acoustic,0.0877,0.331,0.659,105.01,sad
+Calm Me Down,Zack Tabudlo,acoustic,0.437,0.49,0.592,99.994,sad
+KISSして,Masaharu Fukuyama,acoustic,0.644,0.851,0.467,93.873,happy
+Binibini (Last Day On Earth) (feat. James TW),Zack Tabudlo;James TW,acoustic,0.101,0.391,0.564,130.03,sad
+Left for America,Ciaran Lavery,acoustic,0.25,0.384,0.498,79.856,sad
+Ramparts,John Frusciante,acoustic,0.73,0.428,0.386,172.311,chill
+Hold On - Acoustic,Chord Overstreet,acoustic,0.246,0.259,0.702,120.102,sad
+Dust to Dust,The Civil Wars,acoustic,0.2,0.265,0.747,138.017,sad
+Good night,Masaharu Fukuyama,acoustic,0.221,0.498,0.522,145.908,sad
+As You Are,Zack Tabudlo,acoustic,0.447,0.438,0.715,81.07,sad
+It Aint Me,Sara Farell,acoustic,0.421,0.415,0.354,175.537,sad
+The Lotto,Ingrid Michaelson;AJR,acoustic,0.872,0.748,0.687,88.944,happy
+Tamacun,Rodrigo y Gabriela,acoustic,0.971,0.914,0.588,128.553,happy
+Make It Without You,Andrew Belle,acoustic,0.161,0.205,0.456,117.663,sad
+Dream,Priscilla Ahn,acoustic,0.158,0.248,0.512,109.692,sad
+"Big Love, Small Moments",JJ Heller,acoustic,0.278,0.282,0.582,118.019,sad
+I Am Not Alone,Priscilla Ahn,acoustic,0.228,0.18,0.568,112.033,sad
+Stand Your Ground,Joshua Hyslop,acoustic,0.686,0.271,0.71,131.88,chill
+Perfect Man,Front Porch Step,acoustic,0.338,0.704,0.574,117.086,angry
+あ。っという間はあるさ,Takehara Pistol,acoustic,0.94,0.895,0.64,115.941,happy
+Tell The World,Eric Hutchinson,acoustic,0.706,0.854,0.669,120.035,happy
+Ain't No Reason,Brett Dennen,acoustic,0.432,0.358,0.615,146.06,sad
+A Month from Now,Rail Yard Ghosts,acoustic,0.739,0.619,0.415,77.009,happy
+What If,Five For Fighting,acoustic,0.592,0.895,0.565,149.919,happy
+Pussy Cat,The Bridge City Sinners,acoustic,0.644,0.702,0.586,177.598,happy
+Polaroid Picture,Frank Turner,acoustic,0.341,0.604,0.564,113.091,angry
+I Bet On Flying High,Matt Costa,acoustic,0.346,0.359,0.543,109.735,sad
+Mirrors - Acoustic,Jonah Baker,acoustic,0.445,0.287,0.638,128.025,sad
+To the Wonder (feat. Kina Grannis),Aqualung;Kina Grannis,acoustic,0.259,0.46,0.515,140.067,sad
+Stay - Acoustic,Jonah Baker,acoustic,0.297,0.221,0.622,131.827,sad
+太陽さん,Ichiko Aoba,acoustic,0.362,0.0353,0.44,181.988,sad
+Oh What A Love,Kina Grannis,acoustic,0.0647,0.064,0.457,147.824,sad
+Leave The Lights On,Meiko,acoustic,0.661,0.821,0.649,121.938,happy
+I Won't Let You Down,Erin McCarley,acoustic,0.0919,0.329,0.495,72.992,sad
+Look For The Good (Single Version),Jason Mraz,acoustic,0.746,0.615,0.71,90.263,happy
+Stargazing,Isabella Celander,acoustic,0.525,0.204,0.69,139.587,chill
+Bad Liar,Roses & Frey,acoustic,0.176,0.195,0.596,82.114,sad
+Is It You,Rachael Yamagata,acoustic,0.445,0.743,0.66,130.025,angry
+Slow Down Time,Us The Duo,acoustic,0.433,0.657,0.733,109.954,angry
+2002 - Acoustic,Amber Leigh Irish,acoustic,0.611,0.296,0.589,165.799,chill
+Sweeter,Jess Penner,acoustic,0.551,0.377,0.686,92.042,chill
+Heat Waves - Acoustic,Daniel Robinson,acoustic,0.495,0.338,0.659,145.877,sad
+アジアの純真,Yosui Inoue;Tamio Okuda,acoustic,0.871,0.83,0.732,111.664,happy
+If the World Was Ending - Acoustic,Jonah Baker;Celine,acoustic,0.457,0.202,0.522,147.992,sad
+Comes And Goes (In Waves),Greg Laswell,acoustic,0.155,0.698,0.565,120.013,angry
+ながれ星,Masaharu Fukuyama,acoustic,0.238,0.408,0.474,143.881,sad
+Dusk Till Dawn - Acoustic,Blame Jones,acoustic,0.29,0.244,0.543,126.341,sad
+Don't Wanna Leave You,Ben Woodward,acoustic,0.549,0.644,0.672,148.135,happy
+Passenger Seat,Stephen Speaks,acoustic,0.644,0.769,0.515,153.046,happy
+Love,Matt White,acoustic,0.759,0.684,0.759,107.948,happy
+Hallelujah,Boyce Avenue,acoustic,0.163,0.21,0.62,98.558,sad
+Ashes,Madi Diaz,acoustic,0.0676,0.254,0.497,110.864,sad
+明日の☆SHOW,Masaharu Fukuyama,acoustic,0.516,0.603,0.644,113.413,happy
+Love Me Like You Do,Boyce Avenue,acoustic,0.248,0.254,0.45,92.644,sad
+Lost Sparks,Canyon City,acoustic,0.264,0.3,0.548,135.902,sad
+Who We Are,Tristan Prettyman,acoustic,0.153,0.507,0.521,108.168,angry
+Heart (Original Version),Masaharu Fukuyama,acoustic,0.693,0.842,0.587,97.013,happy
+It'll Be Alright,JJ Heller,acoustic,0.181,0.324,0.543,139.883,sad
+Everybody,Ingrid Michaelson,acoustic,0.48,0.636,0.742,95.002,angry
+Kabilugan Ng Buwan,Mark Oblea,acoustic,0.313,0.402,0.707,94.99,sad
+Keep Breathing,Ingrid Michaelson,acoustic,0.187,0.308,0.52,125.93,sad
+Fast Car,Boyce Avenue;Kina Grannis,acoustic,0.508,0.251,0.392,204.961,chill
+Just the Way You Are,Boyce Avenue,acoustic,0.212,0.296,0.531,106.359,sad
+The Ladder,Andrew Belle,acoustic,0.315,0.608,0.681,123.991,angry
+HELLO (Original Version),Masaharu Fukuyama,acoustic,0.511,0.861,0.569,77.983,happy
+接吻,Hanare Gumi,acoustic,0.65,0.296,0.707,88.006,chill
+Can't Keep It Inside,Brett Dennen;Benedict Cumberbatch,acoustic,0.395,0.0646,0.519,121.696,sad
+明日天気になれ,Hanare Gumi,acoustic,0.621,0.705,0.608,111.204,happy
+IT'S ONLY LOVE,Masaharu Fukuyama,acoustic,0.413,0.734,0.585,117.84,angry
+それがすべてさ,Masaharu Fukuyama,acoustic,0.425,0.89,0.527,102.644,angry
+I Don't Wanna Love Somebody Else,A Great Big World,acoustic,0.345,0.22,0.495,126.618,sad
+Burn It All!,RENT STRIKE,acoustic,0.157,0.424,0.628,99.696,sad
+Carried Me With You,Brandi Carlile,acoustic,0.372,0.666,0.639,98.384,angry
+"O, Pennsyltucky!",Mischief Brew,acoustic,0.462,0.624,0.245,162.586,angry
+"I Believed You, William Blake",Frank Turner,acoustic,0.334,0.526,0.387,130.719,angry
+Pepperspray,Get Dead,acoustic,0.719,0.675,0.539,142.041,happy
+Stickup,Get Dead,acoustic,0.207,0.837,0.487,160.025,angry
+Heaven - Acoustic,Grace George,acoustic,0.487,0.24,0.529,131.266,sad
+Soldier's Eyes,Jack Savoretti,acoustic,0.415,0.289,0.666,109.965,sad
+Asleep Among Endives,Ichiko Aoba,acoustic,0.148,0.0318,0.451,123.985,sad
+Symphony - Acoustic,Thomas Daniel,acoustic,0.105,0.208,0.359,83.155,sad
+When I Was Your Man,Boyce Avenue;Fifth Harmony,acoustic,0.163,0.237,0.403,144.174,sad
+Save Your Tears - Acoustic,Amber Leigh Irish,acoustic,0.247,0.111,0.693,110.813,sad
+Koi,Gen Hoshino,acoustic,0.878,0.819,0.598,158.115,happy
+July Bones,Richard Walters,acoustic,0.155,0.27,0.596,100.006,sad
+Autumn Breeze,Kaiak;Viktoria Tolstoy,acoustic,0.208,0.334,0.589,80.036,sad
+Save Your Tears,Boyce Avenue,acoustic,0.294,0.275,0.735,116.004,sad
+You're Still The One - Acoustic,Bailey Rushlow,acoustic,0.398,0.168,0.605,119.836,sad
+Somebody Loved,Kina Grannis,acoustic,0.637,0.107,0.612,78.393,chill
+Rise,Boyce Avenue,acoustic,0.354,0.177,0.568,103.822,sad
+Bohemian Rhapsody - Acoustic,John Adams,acoustic,0.349,0.0665,0.451,64.289,sad
+As It Was - Acoustic,Amber Leigh Irish,acoustic,0.513,0.0477,0.595,118.162,chill
+Wish List,Canyon City,acoustic,0.32,0.11,0.307,201.008,sad
+Beautiful Disaster,Chord Overstreet,acoustic,0.214,0.27,0.3,144.589,sad
+Fake a smile,Wayne Mack,acoustic,0.274,0.191,0.731,149.91,sad
+Marigold,Aimyon,acoustic,0.413,0.745,0.545,106.094,angry
+River Flows In You,Sungha Jung,acoustic,0.11,0.23,0.356,129.532,sad
+Kill Me Pretty,Tamio Okuda,acoustic,0.271,0.796,0.432,141.868,angry
+No Matter Where You Are,Us The Duo,acoustic,0.436,0.664,0.693,132.059,angry
+I Like You,Ben Rector,acoustic,0.397,0.334,0.624,157.92,sad
+The Mess I Made,Parachute,acoustic,0.17,0.572,0.423,165.394,angry
+Dream a Little Dream of Me,Zee Avi,acoustic,0.428,0.0879,0.555,84.174,sad
+"Here, Right Now",Joshua Radin,acoustic,0.492,0.391,0.496,108.868,sad
+Wonderful Tonight,Boyce Avenue,acoustic,0.286,0.299,0.671,95.008,sad
+Salvation,Gabrielle Aplin,acoustic,0.229,0.267,0.379,135.198,sad
+Wilderness,Jon Bryant,acoustic,0.138,0.209,0.499,82.892,sad
+恋人 (Original Version),Masaharu Fukuyama,acoustic,0.47,0.336,0.649,71.967,sad
+I Just Called To Say I Love You,Bailey Pelkman;Randy Rektor,acoustic,0.348,0.257,0.746,132.032,sad
+Fall on Me,A Great Big World;Christina Aguilera,acoustic,0.225,0.268,0.393,110.456,sad
+Song To Sing When I'm Lonely,John Frusciante,acoustic,0.419,0.673,0.629,114.243,angry
+Have Yourself a Merry Little Christmas,Tres Hermanas,acoustic,0.265,0.268,0.452,66.805,sad
+Message (Original Version),Masaharu Fukuyama,acoustic,0.589,0.791,0.616,126.764,happy
+Beautiful In White,Matt Johnson,acoustic,0.233,0.278,0.619,129.948,sad
+Heaven Is a Place on Earth,The Mayries,acoustic,0.335,0.176,0.634,107.974,sad
+Passenger Seat (Acoustic),Stephen Speaks,acoustic,0.688,0.437,0.549,153.604,chill
+Guaranteed - Humming Version,Eddie Vedder,acoustic,0.343,0.339,0.292,100.69,sad
+"Hang Me, Oh Hang Me",Dave Van Ronk,acoustic,0.395,0.0273,0.504,120.24,sad
 Zara Zara,Bombay Jayashri,classical,0.62,0.268,0.643,143.813,chill
 Kajra Re,Shankar;Ehsaan;Loy;Alisha Chinai;Shankar Mahadevan;Gulzar,classical,0.68,0.898,0.484,91.975,happy
+Zara Zara - Lofi,Bombay Jayashri;DJ Aftab,classical,0.439,0.638,0.608,140.109,angry
 Vaseegara,Bombay Jayashri,classical,0.637,0.293,0.695,143.804,chill
 Zara Zara - LoFi Chill,Bombay Jayashri;Swattrex,classical,0.241,0.308,0.583,118.226,sad
-Ondra Renda,Bombay Jayashri,classical,0.671,0.562,0.642,149.82,chill
+Ondra Renda,Bombay Jayashri,classical,0.671,0.562,0.642,149.82,happy
+"Piano Sonata No. 11 in A Major, K. 331: III. Alla turca",Wolfgang Amadeus Mozart;Květa Novotná,classical,0.585,0.186,0.496,79.334,chill
 "Piano Sonata in No. 11 A Major, K. 331: III. Rondo alla turca",Wolfgang Amadeus Mozart;Una Bourne,classical,0.65,0.215,0.355,80.606,chill
 "Sonata in D Major for Two Pianos, K. 448: II. Andante",Wolfgang Amadeus Mozart;Amalie Malling;Hans Pålsson,classical,0.157,0.0273,0.372,115.872,sad
 "Ave verum corpus, K. 618 (Arr. Spindler for English Horn, Strings and Organ)",Wolfgang Amadeus Mozart;Albrecht Mayer;Vital Julian Frey;Deutsche Kammerphilharmonie Bremen,classical,0.0395,0.0578,0.175,68.005,sad
 National Anthem - Austria,Wolfgang Amadeus Mozart;Florian Reider,classical,0.769,0.124,0.634,81.842,chill
 "Suite No. 3 in D Major, BWV 1068: II. Air",Johann Sebastian Bach;David Bell;Berliner Philharmoniker;Herbert von Karajan,classical,0.0586,0.0846,0.0769,176.329,sad
+"Divertimento in D Major, K. 334: III. Menuetto - Trio (Arr. S. Palmgren for Piano Solo)",Wolfgang Amadeus Mozart;Una Bourne,classical,0.511,0.123,0.278,78.59,chill
+Bach : The Well-Tempered Clavier Book I. Fugue No.2,Johann Sebastian Bach;RIMA,classical,0.445,0.0413,0.372,170.196,sad
 "Così fan tutte, K. 588: Soave sia il vento - Live",Wolfgang Amadeus Mozart;Renée Fleming;Anne Sofie von Otter;Michele Pertusi;David Syrus;Chamber Orchestra of Europe;Sir Georg Solti,classical,0.0717,0.12,0.175,64.424,sad
 "Christmas Oratorio, BWV 248: X. Sinfonia (Arr. Anna Saradjian)",Johann Sebastian Bach;Lang Lang,classical,0.171,0.059,0.499,82.472,sad
 "Piano Concerto No. 23 in A, K.488: III. Allegro assai","Wolfgang Amadeus Mozart;Vladimir Horowitz;Orchestra Del Teatro Alla Scala, Milano;Carlo Maria Giulini",classical,0.342,0.139,0.349,134.946,sad
 Ave Maria,Johann Sebastian Bach;Charles Gounod;Kian Soltani;Aaron Pilsan,classical,0.0543,0.0601,0.177,81.807,sad
+"Horn Concerto No. 4 in E flat, K.495: 3. Rondo (Allegro vivace)",Wolfgang Amadeus Mozart;Barry Tuckwell;English Chamber Orchestra,classical,0.548,0.196,0.403,99.506,chill
 "Weihnachtsoratorium, BWV 248: Nr. 10 Sinfonia (Hirtenmusik)",Johann Sebastian Bach;phil Blech Wien;Anton Mittermayr,classical,0.0718,0.113,0.233,71.781,sad
 "Divertimento in D Major, K. 136: I. Allegro",Wolfgang Amadeus Mozart;Bernhard Paumgartner;Camerata Salzburg,classical,0.667,0.311,0.478,121.83,chill
 "Le nozze di Figaro, K. 492: Overture",Wolfgang Amadeus Mozart;London Philharmonic Orchestra;Sir Georg Solti,classical,0.339,0.212,0.389,77.016,sad
 "Piano Sonata No. 11 In A, K.331 -""Alla Turca"": 1. Thema (Andante grazioso) con variazioni 1 - 6",Wolfgang Amadeus Mozart;Mikhail Pletnev,classical,0.386,0.0401,0.314,170.693,sad
+"Christmas Oratorio, BWV 248 / Pt. 5 - For the 1st Sunday in the New Year: No. 51 Terzetto: ""Ach, wann wird die Zeit erscheinen?""",Johann Sebastian Bach;Gundula Janowitz;Christa Ludwig;Fritz Wunderlich;Münchener Bach-Orchester;Karl Richter,classical,0.417,0.243,0.343,73.48,sad
 "Weihnachtsoratorium, BWV 248: Nr. 9 Choral ""Ach mein herzliebes Jesulein!""",Johann Sebastian Bach;phil Blech Wien;Anton Mittermayr,classical,0.204,0.216,0.548,62.857,sad
 "Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto",Wolfgang Amadeus Mozart;Wilhelm Kempff;Berliner Philharmoniker;Ferdinand Leitner,classical,0.0913,0.0201,0.261,139.811,sad
 "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",Johann Sebastian Bach;The English Concert;Trevor Pinnock,classical,0.0823,0.0744,0.0923,175.873,sad
@@ -155,10 +435,13 @@ Christmas Oratorio BWV 248: Shepherd's Music,Johann Sebastian Bach;Boston Pops O
 "Christmas Oratorio, BWV 248 / Part Two - For The Second Day Of Christmas: No. 10 Sinfonia",Johann Sebastian Bach;English Baroque Soloists;John Eliot Gardiner,classical,0.0572,0.00972,0.158,138.062,sad
 "Brandenburg Concerto No. 3 in G, BWV 1048: 1. (Allegro)",Johann Sebastian Bach;Berliner Philharmoniker;Herbert von Karajan,classical,0.804,0.296,0.513,84.367,chill
 "Concerto for 2 Harpsichords, Strings & Continuo in C Minor, BWV 1060 - Reconstruction For Oboe, Violin, Strings & Continuo: II. Adagio",Johann Sebastian Bach;Albrecht Mayer;Rainer Kussmaul;Berliner Barock Solisten,classical,0.154,0.167,0.164,87.069,sad
+"Suite No. 1 pour violoncelle seul in G Major, BWV 1007: Prélude - Ending",Johann Sebastian Bach;Jean-Philippe Audin,classical,0.511,0.0658,0.275,92.692,chill
+"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 1 Chorus: ""Jauchzet, frohlocket""",Johann Sebastian Bach;The Monteverdi Choir;English Baroque Soloists;John Eliot Gardiner,classical,0.43,0.327,0.499,134.882,sad
 "Herz und Mund und Tat und Leben, Cantata BWV 147 - Arr. Robert Bockholt: Jesu Joy of Men's Desiring",Johann Sebastian Bach;Boston Pops Orchestra;Arthur Fiedler,classical,0.159,0.173,0.138,100.657,sad
 Enchanting Flute,Rakesh Chaurasia,classical,0.175,0.328,0.445,99.989,sad
 "Nocturne No. 19 in E Minor, Op. 72, No. 1",Frédéric Chopin;Benjamin Grosvenor,classical,0.0944,0.00735,0.331,66.628,sad
 "24 Preludes, Op. 28: No. 1 in C Major. Agitato",Frédéric Chopin;Alice Sara Ott,classical,0.0558,0.144,0.246,66.196,sad
+"Waltzes, Op. 64: No. 1, Molto vivace in D-Flat Major ""Minute Waltz""",Frédéric Chopin;Vitaly Margulis,classical,0.467,0.126,0.389,123.993,sad
 "Komm, Jesu, komm, BWV 229: I. Komm, Jesu, komm",Johann Sebastian Bach;The Norwegian Soloists' Choir;Grete Pedersen;Kate Hearne;Joakim Peterson;Christian Kjos,classical,0.127,0.13,0.243,102.702,sad
 "Nocturne In C-Sharp Minor, Op. Posth.",Frédéric Chopin;Dang Thai Son,classical,0.206,0.0309,0.211,73.82,sad
 "Fantaisie Impromptu in C-Sharp Major, Op. 66 (Allegro agitato)",Frédéric Chopin;Peter Schmalfuss,classical,0.111,0.0622,0.212,72.938,sad
@@ -176,13 +459,22 @@ Enchanting Flute,Rakesh Chaurasia,classical,0.175,0.328,0.445,99.989,sad
 "Impromptu No. 1 in A-Flat Major, Op. 29",Frédéric Chopin;Makiko Takeda,classical,0.137,0.0282,0.245,92.531,sad
 "Variations on ""Là ci darem la mano"" from Mozart's Don Giovanni, Op. 2: Coda. Alla Polacca - Live",Frédéric Chopin;Bruce Liu,classical,0.292,0.204,0.323,110.262,sad
 "Violin Concerto No. 2 In E Major, BWV 1042: I. Allegro",Johann Sebastian Bach;Daniel Lozakovich;Chamber Orchestra of the Bavarian Radio;Radoslaw Szulc;Olga Watts,classical,0.681,0.391,0.476,95.44,chill
+"Overture in the French Style, Op. 2, BWV 831 (Excerpts): I. Ouverture",Johann Sebastian Bach;Orion Weiss,classical,0.428,0.169,0.222,58.948,sad
+"15 Inventions, BWV 772-786: XIII. Invention in A Minor, BWV 784",Johann Sebastian Bach;Christoph Eschenbach,classical,0.537,0.135,0.392,129.774,chill
 "Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 8 Aria: ""Großer Herr, o starker König""",Johann Sebastian Bach;Olaf Bär;Crispian Steele-Perkins;English Baroque Soloists;John Eliot Gardiner,classical,0.715,0.276,0.579,95.222,chill
+"Suite No. 1 pour violoncelle seul in G Major, BWV 1007: Prélude - Opening",Johann Sebastian Bach;Jean-Philippe Audin,classical,0.595,0.0699,0.334,134.081,chill
 "The Well-Tempered Clavier, Book I, BWV 846-869: Prelude No. 1 in C Major, BWV 846",Johann Sebastian Bach;Pietro De Maria,classical,0.0839,0.00299,0.212,140.353,sad
 "Suite for Solo Cello No. 1 in G Major, BWV 1007 (Transcr. for Solo Guitar by Göran Söllscher): I. Prélude",Johann Sebastian Bach;Göran Söllscher,classical,0.201,0.201,0.358,140.081,sad
+Zara Zara - LoFi,Bombay Jayashri;Danvendra Arya,classical,0.343,0.486,0.635,130.088,sad
+"Yaar Zaahir (feat. Neha Sharma,Aashim Gulati)",Rashid Khan;Palak Muchhal;Neha Sharma;Aashim Gulati,classical,0.525,0.38,0.677,102.036,chill
 River Flows In You,Yiruma,classical,0.116,0.22,0.315,145.195,sad
 Leja Leja,Sultan Khan;Shreya Ghoshal;Salim Merchant,classical,0.341,0.743,0.603,100.021,angry
-Ullathil Nalla Ullam,Sirkazhi Govindarajan,classical,0.608,0.536,0.191,77.224,chill
-"Ondra Renda (From ""Kaakha Kaakha"")",Bombay Jayashri,classical,0.671,0.562,0.642,149.82,chill
+Ullathil Nalla Ullam,Sirkazhi Govindarajan,classical,0.608,0.536,0.191,77.224,happy
+Vizhigalile,V. Selvaganesh;Karthik;Chinmayi,classical,0.527,0.518,0.612,159.894,happy
+"Ondra Renda (From ""Kaakha Kaakha"")",Bombay Jayashri,classical,0.671,0.562,0.642,149.82,happy
+Sowkkiyama,Kadri Gopalnath;Nithyasree,classical,0.414,0.681,0.662,99.986,angry
+Meri Sansaon Main Basa Hai,Ramesh Mishra,classical,0.486,0.148,0.4,70.628,sad
+Thaimai,Bombay Jayashri,classical,0.218,0.42,0.248,84.013,sad
 Skandha Sashti Kavacham,Soolamangalam Sisters,classical,0.706,0.351,0.677,117.443,chill
 Vinayagane Vinai Theerpavane Revival,Sirkazhi Govindarajan,classical,0.653,0.666,0.42,99.91,happy
 "Suite bergamasque, L. 75: III. Clair de lune",Claude Debussy;Alice Sara Ott,classical,0.0383,0.00501,0.32,68.947,sad
@@ -203,26 +495,38 @@ Sri Venkateshwara Suprabhatham,M. S. Subbulakshmi,classical,0.798,0.408,0.605,85
 "Sonata for violin and piano, L. 140: III. Finale. Très animé",Claude Debussy;Andrzej Cieplinski;Tymoteusz Bies,classical,0.0985,0.111,0.348,136.303,sad
 "Piano Concerto No. 4 in G Major, Op. 58: III. Rondo. Vivace",Ludwig van Beethoven;Krystian Zimerman;London Symphony Orchestra;Sir Simon Rattle,classical,0.107,0.156,0.325,142.451,sad
 "Violin Concerto No. 3 in F Major, RV 293 ""Autumn"": II. Largo",Antonio Vivaldi;Renato Fasano;Luigi Ferro;I virtuosi di Roma,classical,0.0355,0.0258,0.344,116.868,sad
+"Der Nussknacker, Op. 71: Ouvertüre",Pyotr Ilyich Tchaikovsky;phil Blech Wien;Anton Mittermayr,classical,0.576,0.261,0.707,117.466,chill
 "Dorilla in Tempe, RV 709: Dell'aura al sussurrar",Antonio Vivaldi;Cecilia Bartoli;Arnold Schoenberg Chor;Il Giardino Armonico;Giovanni Antonini,classical,0.704,0.185,0.519,119.371,chill
 "Triple Concerto in C Major, Op. 56: III. Rondo alla Polacca - Live at Philharmonie, Berlin / 2019",Ludwig van Beethoven;Anne-Sophie Mutter;Yo-Yo Ma;Daniel Barenboim;West-Eastern Divan Orchestra,classical,0.356,0.302,0.367,105.35,sad
 "Der Nussknacker, Op. 71: Schneeflockenwalzer",Pyotr Ilyich Tchaikovsky;phil Blech Wien;Anton Mittermayr;Wiener Sängerknaben,classical,0.15,0.248,0.39,94.64,sad
 "Deux arabesques, L. 66: No. 1, Andantino con moto in E Major",Claude Debussy;Peter Schmalfuss,classical,0.0875,0.017,0.241,72.821,sad
+"The Nutcracker, Op. 71, TH.14 / Act 1: No. 2 March",Pyotr Ilyich Tchaikovsky;Boston Symphony Orchestra;Seiji Ozawa,classical,0.589,0.194,0.615,75.981,chill
+"Der Nussknacker, Op. 71: Marsch der Zinnsoldaten",Pyotr Ilyich Tchaikovsky;phil Blech Wien;Anton Mittermayr,classical,0.578,0.309,0.585,134.927,chill
 "Préludes / Book 1, L. 117: 8. La fille aux cheveux de lin",Claude Debussy;Jean-Rodolphe Kars,classical,0.216,0.00464,0.285,72.32,sad
 "Préludes / Book 1, L. 117: VIII. La fille aux cheveux de lin",Claude Debussy;Arturo Benedetti Michelangeli,classical,0.17,0.00692,0.411,101.663,sad
 "Children's Corner, L. 113: I. Doctor Gradus Ad Parnassum",Claude Debussy;Seong-Jin Cho,classical,0.0438,0.0296,0.242,70.249,sad
 "Nutcracker Suite, Op. 71a: Chinese Dance (Tea)",Pyotr Ilyich Tchaikovsky;Paris Conservatoire Orchestra;Anatole Fistoulari,classical,0.961,0.224,0.523,110.157,chill
 "Préludes / Book 1, L.117: 8. La fille aux cheveux de lin",Claude Debussy;Jacques Février,classical,0.234,0.00701,0.416,72.341,sad
+"Nutcracker Suite, Op. 71a, TH. 35 (Arr. For Piano 4-Hands): IIf. Danses caractéristiques. Danse des mirlitons: Moderato assai",Pyotr Ilyich Tchaikovsky;Martha Argerich;Nicolas Economou,classical,0.424,0.073,0.433,152.601,sad
 "The Nutcracker (Suite), Op. 71a, TH. 35: IIf. Dance of the Reed-Pipes (Mirlitons)",Pyotr Ilyich Tchaikovsky;Berliner Philharmoniker;Mstislav Rostropovich,classical,0.316,0.0485,0.45,126.978,sad
+"Swan Lake, Op. 20, TH.12 / Act 3: No. 21 Danse espagnole (Allegro non troppo. Tempo di bolero)",Pyotr Ilyich Tchaikovsky;National Philharmonic Orchestra;Richard Bonynge,classical,0.506,0.213,0.397,107.562,chill
 "The Nutcracker (Suite), Op. 71a, TH. 35: IIb. Dance of the Sugar-Plum Fairy",Pyotr Ilyich Tchaikovsky;Berliner Philharmoniker;Mstislav Rostropovich,classical,0.0725,0.0113,0.277,102.532,sad
 Prethese Antha,Bombay Jayashri,classical,0.2,0.62,0.547,83.997,angry
+Mamta Se Bhari,Bombay Jayashri,classical,0.394,0.414,0.63,100.946,sad
+Alunguraen Kulunguraen,Prasanna;Namitha Babu,classical,0.598,0.703,0.57,172.025,happy
 When I Fall In Love,Andrea Bocelli;Chris Botti,classical,0.15,0.279,0.327,69.66,sad
 El Abeto,Andrea Bocelli,classical,0.167,0.233,0.358,82.938,sad
+Unakkul Naane,Bombay Jayashri,classical,0.542,0.559,0.701,112.99,happy
 Maybe Christmas - Orchestra Version,Yiruma,classical,0.0756,0.154,0.105,71.0,sad
+Santa Claus llegò a la ciudad,Andrea Bocelli,classical,0.345,0.499,0.347,133.872,sad
 Blue Christmas,Andrea Bocelli;Reba McEntire,classical,0.131,0.306,0.168,77.89,sad
 3 Gymnopédies: No. 1 Lent et douloureux,Erik Satie;Alice Sara Ott,classical,0.201,0.00609,0.448,76.323,sad
 Piano Sonata D. 960 in B-Flat Major: IV. Allegro ma non troppo,Franz Schubert;Burak Çebi,classical,0.156,0.0982,0.382,70.881,sad
+"21 Hungarian Dances, WoO 1: No. 5 in G Minor: Allegro",Wiener Philharmoniker;Claudio Abbado,classical,0.588,0.196,0.365,77.88,chill
 "Ave Maria, ""Ellens Gesang III"", Op.52 No.6, D.839 (Arr. Johannes Palaschko)",Franz Schubert;Mischa Maisky;Pavel Gililov,classical,0.0393,0.0325,0.0918,68.958,sad
 3 Gymnopédies: I. Lent et douloureux,Erik Satie;Anne Queffélec,classical,0.234,0.00214,0.461,84.3,sad
+"12 Pieces for Piano, Op. 40, TH 138: No. 9, Valse",Pyotr Ilyich Tchaikovsky;Una Bourne,classical,0.496,0.168,0.334,132.362,sad
+"The Seasons, Op. 37a, TH 135 (Excerpts): No. 11, November ""On the Troika""",Pyotr Ilyich Tchaikovsky;Una Bourne,classical,0.527,0.18,0.344,140.086,chill
 "The Seasons, Op. 37a, TH 135 (Excerpts): No. 6, June ""Barcarolle""",Pyotr Ilyich Tchaikovsky;Una Bourne,classical,0.358,0.144,0.207,155.492,sad
 "Serenade for String Orchestra in C Major, Op. 48, TH 48: II. Waltz. Moderato. Tempo di Valse",Pyotr Ilyich Tchaikovsky;Daniel Hope;Zürcher Kammerorchester,classical,0.254,0.184,0.232,89.624,sad
 "2 Pieces for Piano, Op. 10, TH 132: No. 2, Humoresque. Allegretto scherzando",Pyotr Ilyich Tchaikovsky;Una Bourne,classical,0.194,0.252,0.372,93.599,sad
@@ -232,6 +536,7 @@ Piano Sonata D. 960 in B-Flat Major: IV. Allegro ma non troppo,Franz Schubert;Bu
 "Serenade for Strings in C Major, Op. 48, TH 48: IV. Finale. Tema russo (Live)",Pyotr Ilyich Tchaikovsky;Arlington High School Philharmonia Strings;Jonathan Handman,classical,0.214,0.196,0.344,134.361,sad
 "Nutcracker Suite, Op. 71a, TH.35: Dance Of The Sugar-Plum Fairy",Pyotr Ilyich Tchaikovsky;Wiener Philharmoniker;James Levine,classical,0.239,0.029,0.528,129.514,sad
 Nutcracker Suite Opus 71A: Waltz Of The Flowers (Act 2),Pyotr Ilyich Tchaikovsky;Boston Pops Orchestra;Arthur Fiedler,classical,0.235,0.189,0.198,183.664,sad
+"The Nutcracker, Op. 71, TH 14 / Act 1: No. 2 March - Live at Walt Disney Concert Hall, Los Angeles / 2013",Pyotr Ilyich Tchaikovsky;Los Angeles Philharmonic;Gustavo Dudamel,classical,0.488,0.148,0.596,74.423,sad
 "The Nutcracker, Op. 71, TH 14 / Act 2: No. 13 Waltz of the Flowers - Live at Walt Disney Concert Hall, Los Angeles / 2013",Pyotr Ilyich Tchaikovsky;Los Angeles Philharmonic;Gustavo Dudamel,classical,0.0903,0.0701,0.15,181.584,sad
 Raga - Neelambari,A. Kanyakumari;Janardan Mitta,classical,0.184,0.08,0.273,88.252,sad
 Manohara,Bombay Jayashri,classical,0.62,0.392,0.682,143.791,chill
@@ -242,6 +547,8 @@ Piano Sonata D. 960 in B-Flat Major: I. Allegro moderato,Franz Schubert;Burak Ç
 Piano Sonata D. 960 in B-Flat Major: II. Andante sostenuto,Franz Schubert;Burak Çebi,classical,0.0449,0.00409,0.297,68.863,sad
 "Violin Sonata in D Major, Op. 137 No. 1, D. 384: II. Andante",Franz Schubert;Kanako Yanagida;Kentaro Ifuku,classical,0.264,0.115,0.377,109.99,sad
 Fantasie No. 1 in E-Flat Major (Transcr. H. Büsser for Cornet & Organ),Camille Saint-Saëns;Daniel Reichert;Simon Reichert,classical,0.0673,0.186,0.288,67.37,sad
+"Violin Sonata in D Major, Op. 137 No. 1, D. 384: I. Allegro molto",Franz Schubert;Kanako Yanagida;Kentaro Ifuku,classical,0.417,0.165,0.414,120.216,sad
+"Oratorio de Noël, Op. 12: 10. Tollite hostias",Camille Saint-Saëns;phil Blech Wien;Anton Mittermayr;Wiener Sängerknaben;Chorus Viennensis,classical,0.497,0.302,0.401,127.555,sad
 "Violin Sonata in D Major, Op. 137 No. 1, D. 384: III. Allegro vivace",Franz Schubert;Kanako Yanagida;Kentaro Ifuku,classical,0.804,0.256,0.511,89.321,chill
 "4 Impromptus, Op. 90, D.899: No. 3 in G Flat Major: Andante",Franz Schubert;Radu Lupu,classical,0.0483,0.0138,0.167,67.109,sad
 "Rondo for Piano & Violin in B Minor, Op. 70, D. 895 ""Brillant""",Franz Schubert;Kanako Yanagida;Kentaro Ifuku,classical,0.241,0.263,0.534,122.477,sad
@@ -251,6 +558,7 @@ Fantasie No. 1 in E-Flat Major (Transcr. H. Büsser for Cornet & Organ),Camille 
 "Piano Sonata in E Minor, Op. 7: III. Alla menuetto",Edvard Grieg;Una Bourne,classical,0.248,0.119,0.428,79.497,sad
 "Lyric Pieces I, Op. 12 (Excerpts): No. 6, Norsk",Edvard Grieg;Una Bourne,classical,0.38,0.236,0.345,135.677,sad
 "Gretchen am Spinnrade, D. 118 (Adapt. for Cello and Orchestra)",Franz Schubert;Camille Thomas;Brussels Philharmonic;Mathieu Herzog,classical,0.0949,0.184,0.215,83.917,sad
+"Lyric Pieces I, Op. 12 (Excerpts): No. 5, Folkevise",Edvard Grieg;Una Bourne,classical,0.561,0.129,0.376,56.596,chill
 "Lyric Pieces I, Op. 12 (Excerpts): No. 4, Alfedans",Edvard Grieg;Una Bourne,classical,0.25,0.318,0.375,89.556,sad
 "4 Impromptus, Op. 90, D. 899: III. Andante",Franz Schubert;Yanica Hristova,classical,0.0803,0.0152,0.128,67.291,sad
 "4 Impromptus, Op. 90, D. 899: II. Allegro - Coda",Franz Schubert;Yanica Hristova,classical,0.226,0.139,0.289,94.938,sad
@@ -272,6 +580,8 @@ Lullaby (Wiegenlied),Johannes Brahms;Music Lab Collective,classical,0.196,0.0996
 "Tochter Zion, freue dich",George Frideric Handel;Posaunenquintett Berlin,classical,0.336,0.0519,0.471,72.931,sad
 "Messiah, HWV 56 / Pt. 2: No. 42 ""Hallelujah""",George Frideric Handel;John Alldis Choir;London Philharmonic Orchestra;Karl Richter,classical,0.393,0.357,0.412,99.305,sad
 "Peer Gynt Suite No. 1, Op. 46: 4. In The Hall Of The Mountain King",Edvard Grieg;Gothenburg Symphony Orchestra;Neeme Järvi,classical,0.197,0.042,0.406,94.292,sad
+"Messiah, HWV 56 / Pt. 1: 12. ""For unto us a Child is born""",George Frideric Handel;The English Concert;Trevor Pinnock;The English Concert Choir,classical,0.534,0.17,0.451,101.571,chill
+"21 Hungarian Dances, WoO 1: No. 5 in G Minor: Allegro",Johannes Brahms;Wiener Philharmoniker;Claudio Abbado,classical,0.588,0.196,0.365,77.88,chill
 "Messiah, HWV 56 / Pt. 2: XLII. ""Hallelujah""",George Frideric Handel;The English Concert;Trevor Pinnock;The English Concert Choir,classical,0.256,0.262,0.434,103.015,sad
 Sri Skandha Guru Kavacham,Soolamangalam Sisters,classical,0.668,0.494,0.64,116.006,chill
 "Kinderszenen, Op. 15: 7. Träumerei",Robert Schumann;Alfred Brendel,classical,0.281,0.0151,0.406,134.251,sad
@@ -288,75 +598,324 @@ Sri Skandha Guru Kavacham,Soolamangalam Sisters,classical,0.668,0.494,0.64,116.0
 "Lyric Pieces Book IX, Op. 68: 5. At the Cradle",Edvard Grieg;Nelson Freire,classical,0.11,0.0168,0.355,65.877,sad
 "Carnaval, Op. 9: No. 9, Papillons (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.649,0.0623,0.294,76.249,chill
 "Lyric Pieces III, Op. 43 (Excerpts): No. 1, Sommerfugl",Edvard Grieg;Una Bourne,classical,0.635,0.219,0.29,139.681,chill
+"Carnaval, Op. 9: No. 7, Coquette (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.508,0.0391,0.441,132.385,chill
+"String Quartet No. 1 in A Minor, Op. 41 No. 1: II. Scherzo. Presto",Robert Schumann;Arioso Quartett Wien,classical,0.563,0.34,0.478,106.376,chill
+"Carnaval, Op. 9: No. 1, Préambule (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.246,0.186,0.476,130.197,sad
+"Piano Sonata No. 2 in B-Flat Minor, Op. 36: I. Allegro agitato",Sergei Rachmaninoff;Marko Stuparevic,classical,0.0615,0.108,0.316,84.996,sad
+"Carnaval, Op. 9: No. 17, Paganini (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.283,0.261,0.424,104.437,sad
+"Carnaval, Op. 9: No. 12, Chopin (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.12,0.024,0.345,66.09,sad
+"Lyric Pieces III, Op. 43 (Excerpts): No. 4, Liden fugl",Edvard Grieg;Una Bourne,classical,0.294,0.159,0.49,47.78,sad
+"Trio élégiaque No. 2 in D Minor, Op. 9: I. Moderato - Allegro vivace",Sergei Rachmaninoff;Talistrio,classical,0.0345,0.0869,0.175,78.113,sad
+"Carnaval, Op. 9: No. 15, Pantalon et Colombine (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.496,0.195,0.295,131.893,sad
+"Carnaval, Op. 9: No. 10, Lettres dansantes (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.755,0.198,0.482,153.773,chill
+"Carnaval, Op. 9: No. 3, Arlequin (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.675,0.0766,0.689,108.932,chill
+"Carnaval, Op. 9: No. 18, Aveu (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.321,0.0258,0.545,59.504,sad
+"Carnaval, Op. 9: No. 19, Promenade (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.13,0.0316,0.445,67.165,sad
+"Carnaval, Op. 9: No. 6, Florestan (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.211,0.158,0.435,59.74,sad
+"Carnaval, Op. 9: No. 14, Reconnaissance (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.379,0.0964,0.409,101.231,sad
+"Faschingsschwank aus Wien, Op. 26: III. Scherzino (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.128,0.0851,0.506,123.424,sad
+"Carnaval, Op. 9: No. 16, Valse allemande (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.531,0.153,0.555,100.588,chill
+"Faschingsschwank aus Wien, Op. 26: V. Finale (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.343,0.146,0.341,79.824,sad
+"Trio élégiaque No. 2 in D Minor, Op. 9: II. Quasi variazione. Andante",Sergei Rachmaninoff;Talistrio,classical,0.0374,0.0329,0.202,72.341,sad
+"Carnaval, Op. 9: No. 20, Pause (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.912,0.278,0.372,89.032,chill
+"Carnaval, Op. 9: No. 21, Marche des Davidsbündler contre les Philistins (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.28,0.211,0.416,149.94,sad
+"Carnaval, Op. 9: No. 13, Estrella (Live in Japan, 2022)",Robert Schumann;Pavel Nersessian,classical,0.477,0.237,0.379,116.093,sad
+"Saul, HWV 53: Dead March",George Frideric Handel;London Early Opera;Bridget Cunningham,classical,0.0728,0.00699,0.183,134.455,sad
+Messiah Hwv 56: Hallelujah (Part 2),George Frideric Handel;Boston Pops Orchestra;Arthur Fiedler,classical,0.382,0.314,0.458,99.377,sad
+"Messiah, HWV 56 / Pt. 1: III. ""Ev'ry Valley Shall Be Exalted""",George Frideric Handel;Howard Crook;The English Concert;Trevor Pinnock,classical,0.353,0.0578,0.48,102.494,sad
+Solomon HWV 67 - Arr. The Cambridge Buskers: Arrival Of The Queen Of Sheba,George Frideric Handel;The Cambridge Buskers,classical,0.862,0.176,0.677,114.04,chill
+Lalitha Pancharatnam,Priya Sisters,classical,0.479,0.378,0.67,102.968,sad
+Swapn Sunehere,Bombay Jayashri;Swetha Raj,classical,0.331,0.108,0.268,82.176,sad
+Alai Paayuthe (feat. Rajani Shridhar),Mahesh Raghvan;Rajani Shridhar,classical,0.516,0.628,0.381,77.361,happy
+Nowesind,Jacob David,classical,0.318,0.0902,0.304,114.487,sad
+Godakunna Thelunu Chusi,Vedavathi Prabhakar;CHAYA DEVI,classical,0.777,0.481,0.351,199.258,chill
+Hanuman Chalisa,M. S. Subbulakshmi;Radha Viswanathan,classical,0.597,0.413,0.553,102.769,chill
+Excerpts From Suprabhatam - Mssubbulakshmi,M. S. Subbulakshmi;Radha Viswanathan,classical,0.669,0.309,0.72,96.695,chill
+Dil Ki Tapish,Rahul Deshpande,classical,0.474,0.671,0.576,116.122,angry
+Pratham Tula Vandito,Vasantrao Deshpande,classical,0.665,0.426,0.284,76.365,chill
+Kiti Sangaichay Mala,Pandit Jasraj;Aanandi Joshi,classical,0.219,0.428,0.457,82.997,sad
+Pibare Ramarasam - Yamunakalyani - Adi,M. S. Subbulakshmi,classical,0.6,0.477,0.469,84.425,chill
+Senthamizh Thaenmozhiyal,T. R. Mahalingam,classical,0.604,0.36,0.415,82.374,chill
+Majhe Mahar Pandhari - Abhang 1977,Bhimsen Joshi,classical,0.675,0.503,0.475,111.938,happy
+Vishnu Sahasranamam - Dhyanam,M. S. Subbulakshmi,classical,0.549,0.264,0.683,101.052,chill
+Mahamrityunjay Mantra,Rattan Mohan Sharma,classical,0.311,0.24,0.375,94.66,sad
+Om Nama Shivaya,Nithyasree Mahadevan,classical,0.42,0.21,0.253,123.851,sad
+Thillana 2.0 - Dhanashree (feat. Sharanya Srinivas),Mahesh Raghvan;Sharanya Srinivas,classical,0.453,0.567,0.747,107.021,angry
+Hey Nijame,Bombay Jayashri;Darbuka Siva,classical,0.0686,0.465,0.34,97.54,sad
+Azhagellam Murugane,Soolamangalam Sisters,classical,0.827,0.636,0.524,153.114,happy
+Vettri Venduma,Sirkazhi Govindarajan,classical,0.931,0.296,0.564,109.566,chill
+Ganapathiye Varuvaai Revival,Sirkazhi Govindarajan,classical,0.749,0.71,0.465,102.876,happy
+"Liebeslied (Widmung), S. 566",Franz Liszt;YUNDI,classical,0.0387,0.0368,0.163,69.442,sad
+"Ave Maria, D. 839 (Arr. Gamley)",Luciano Pavarotti;National Philharmonic Orchestra;Kurt Herbert Adler,classical,0.114,0.328,0.214,89.521,sad
+"Nocturne No. 6 in D flat, Op. 63",Gabriel Fauré;Kun-Woo Paik,classical,0.0368,0.0465,0.311,68.431,sad
+"Consolation No. 3, S. 172",Franz Liszt;Jorge Bolet,classical,0.0764,0.0076,0.351,130.107,sad
+"Liebestraum No. 1 in A Flat Major, S. 541 No. 1: Notturno I: Hohe Liebe",Franz Liszt;Daniel Barenboim,classical,0.0459,0.0375,0.223,68.486,sad
+"Isoldens Liebestod, S. 447 (After Wagner's WWV 90)",Franz Liszt;Una Bourne,classical,0.104,0.286,0.13,46.496,sad
+"Années de pèlerinage: 1e année: Suisse, S.160: 2. Au lac de Wallenstadt",Franz Liszt;Nelson Freire,classical,0.0622,0.0191,0.29,65.461,sad
+"String Quartet No. 12 In F Major, Op. 96, B.179 - ""American"": 4. Finale (Vivace ma non troppo)",Antonín Dvořák;Emerson String Quartet,classical,0.292,0.0965,0.344,84.326,sad
+"Trois Romances sans paroles, Op. 17: 3. Andante moderato",Gabriel Fauré;Kun-Woo Paik,classical,0.127,0.0056,0.317,65.873,sad
+"3 Études de Concert, S. 144: No. 3 in D-Flat Major ""Un sospiro""",Franz Liszt;Daniil Trifonov,classical,0.0335,0.0568,0.238,68.981,sad
+"Einzug der Gäste auf der Wartburg, S. 445/1a (After Wagner's WWV 70) [Abridged]",Franz Liszt;Una Bourne,classical,0.542,0.219,0.346,88.687,chill
+"Paraphrase de concert sur Rigoletto, S. 434 (After Giuseppe Verdi)",Franz Liszt;Una Bourne,classical,0.266,0.334,0.343,130.9,sad
+"Spinnerlied aus dem Fliegenden Holländer, S. 440 (After Wagner's WWV 63)",Franz Liszt;Una Bourne,classical,0.184,0.278,0.311,122.559,sad
+"Pavane in F-Sharp Minor, Op. 50 (Arr. B. Philips for Orchestra) [Live]",Gabriel Fauré;Cabin John Middle School Advanced Orchestra;Scott Herman,classical,0.204,0.133,0.167,142.844,sad
+"Piano Sonata No. 2 in B-Flat Minor, Op. 36: II. Non allegro - Lento",Sergei Rachmaninoff;Marko Stuparevic,classical,0.0432,0.0578,0.394,65.106,sad
+"Prelude in G Minor, Op. 23, No. 5 - Live at Philharmonie, Berlin / 2018",Sergei Rachmaninoff;Yuja Wang,classical,0.177,0.217,0.393,114.404,sad
+"Weihnachtsbaum Suite, S.186 - Transcription by Vladimir Horowitz: 10. Ehemals",Franz Liszt;Vladimir Horowitz,classical,0.0392,0.0292,0.398,126.323,sad
+West Side Story: XIII. Scherzo,Leonard Bernstein,classical,0.158,0.0341,0.43,157.791,sad
+"Sonata No. 14 ""Moonlight"" in C-Sharp Minor"", Op. 27 No. 2: I. Adagio sostenuto",Ludwig van Beethoven;Paul Lewis,classical,0.151,0.00527,0.184,170.612,sad
+Aan Milo Sajna,Ajoy Chakrabarty;Parveen Sultana,classical,0.503,0.836,0.367,68.144,happy
+Amrutahuni God,Manik Varma,classical,0.533,0.449,0.387,133.927,chill
+Dream (Raag Tilak Nat) [Radio Edit],Niladri Kumar,classical,0.558,0.614,0.272,160.8,happy
+Maargazhi Tingal,Sikkil Gurucharan,classical,0.918,0.606,0.707,89.911,happy
+Chinna Kannan,M. Balamuralikrishna,classical,0.582,0.833,0.372,128.171,happy
+Ganesha Pancharathnam,M. S. Subbulakshmi;Radha Viswanathan,classical,0.758,0.448,0.559,108.72,chill
+Sri Venkatesa Suprabhatam - Language: Tamil,Priya Sisters,classical,0.808,0.29,0.567,101.045,chill
+Kandha Sasti Kavasam,Soolamangalam Sisters,classical,0.857,0.775,0.618,122.178,happy
+Nee Allaal Deivamillai Revival,Sirkazhi Govindarajan,classical,0.724,0.546,0.295,185.761,happy
+Crisantemi,Giacomo Puccini;Arioso Quartett Wien,classical,0.0553,0.106,0.15,83.844,sad
+Attila - Che più s'indugia,Giuseppe Verdi;Vincenzo Ciliberti,classical,0.216,0.318,0.318,96.803,sad
+"Songs Without Words, Op. 62: No. 6, Allegretto grazioso in A Major ""Spring Song""",Felix Mendelssohn;Henrik Måwe,classical,0.183,0.162,0.176,58.879,sad
+Under a Glass Moon,Dream Theater,classical,0.594,0.853,0.506,145.691,happy
+Attila - Mentre gonfiarsi l'anima,Giuseppe Verdi;Vincenzo Ciliberti,classical,0.183,0.246,0.232,103.736,sad
+Attila - Oltre a quel limite t'attendo,Giuseppe Verdi;Vincenzo Ciliberti,classical,0.399,0.482,0.287,122.567,sad
+Attila - Santo di patria... Allor che i forti corrono,Giuseppe Verdi;Vincenzo Ciliberti,classical,0.369,0.553,0.149,178.113,angry
+"La rondine, SC 83: Chi il bel sogno di Doretta",Giacomo Puccini;Renée Fleming;English Chamber Orchestra;Jeffrey Tate,classical,0.0374,0.136,0.234,85.418,sad
+Attila - Te sol quest'anima,Giuseppe Verdi;Vincenzo Ciliberti,classical,0.147,0.503,0.198,91.442,angry
+"Vespri Siciliani - Mercé, dilette amiche",Giuseppe Verdi;Vincenzo Ciliberti,classical,0.546,0.485,0.336,125.921,chill
+"8 Slavonic Dances, Op. 46, B.83 - For Piano Duet: No. 1 in C Major (Presto)",Antonín Dvořák;Katia Labèque;Marielle Labèque,classical,0.285,0.193,0.377,153.373,sad
+Attila - Che non avrebbe il misero,Giuseppe Verdi;Vincenzo Ciliberti,classical,0.139,0.45,0.229,114.808,sad
+"Symphony No. 9 In E Minor, Op. 95, B. 178 ""From The New World"": 3. Molto vivace",Antonín Dvořák;Wiener Philharmoniker;Herbert von Karajan,classical,0.1,0.0541,0.319,129.399,sad
+"Echo of Songs, B. 152: No. 4, O naši lásce nekvete to vytouzené stestí",Antonín Dvořák;Arioso Quartett Wien,classical,0.0978,0.18,0.0969,74.24,sad
+"Miroirs, M. 43: V. La vallée des cloches",Maurice Ravel;Yukie Nagai,classical,0.0394,0.000756,0.263,50.681,sad
+"La bohème, SC 67: O soave fanciulla",Giacomo Puccini;Luciano Pavarotti;Mirella Freni;Berliner Philharmoniker;Herbert von Karajan,classical,0.0398,0.106,0.212,83.746,sad
+Attila - Tardo per gli anni e tremulo,Giuseppe Verdi;Vincenzo Ciliberti,classical,0.14,0.465,0.16,84.69,sad
+"Violin Sonatina in G Major, Op. 100, B. 120: II. Larghetto",Antonín Dvořák;Randall Goosby;Zhu Wang,classical,0.0529,0.07,0.211,86.921,sad
+"4 Pieces for String Quartet, Op. 81, MWV Sdr 44: No. 3 in E Minor, Capriccio",Felix Mendelssohn;Arioso Quartett Wien,classical,0.232,0.231,0.458,146.337,sad
+"Lieder ohne Worte, Op. 102: No. 4 Andante (Arr. Ottensamer for Clarinet and Strings)",Felix Mendelssohn;Andreas Ottensamer;Schumann Quartett;Gunars Upatnieks,classical,0.0819,0.0437,0.302,118.809,sad
+Forza del destino - Pace mio Dio e Finale,Giuseppe Verdi;Vincenzo Ciliberti,classical,0.193,0.516,0.256,75.54,angry
+"""Hark! The Herald Angels Sing""",Felix Mendelssohn;Christopher Herrick;Simon Preston;The Choir Of Westminster Abbey,classical,0.193,0.21,0.158,80.984,sad
+"Forza del destino - Madre, pietosa Vergine",Giuseppe Verdi;Vincenzo Ciliberti,classical,0.0606,0.351,0.18,101.159,sad
+"Pièce en forme de Habanera, M. 51 (Arr. Catherine for Violin and Piano)",Maurice Ravel;Janine Jansen;Antonio Pappano,classical,0.0393,0.0372,0.287,86.551,sad
+"Turandot, SC 91: Nessun dorma",Giacomo Puccini;Luciano Pavarotti;The John Alldis Choir;Wandsworth School Boys Choir;London Philharmonic Orchestra;Zubin Mehta,classical,0.0973,0.235,0.232,113.492,sad
+"Nabucco: Va, pensiero, sull'ali dorate - Edit",Giuseppe Verdi;Chicago Symphony Chorus;Chicago Symphony Orchestra;Sir Georg Solti,classical,0.0666,0.0367,0.148,138.57,sad
+Forza del destino - La vergine degli Angeli,Giuseppe Verdi;Vincenzo Ciliberti,classical,0.12,0.261,0.142,63.399,sad
+"Gaspard de la nuit, M. 55: I. Ondine, Lent",Maurice Ravel;Junichi Hirokami;Yukie Nagai;Malmö Symphony Orchestra,classical,0.0354,0.0227,0.192,68.257,sad
+"Le tombeau de Couperin, M. 68: III. Forlane. Allegretto",Maurice Ravel;Yukie Nagai,classical,0.0641,0.0155,0.383,71.935,sad
+"Sonata for Violin and Cello in C Major, M. 73: II. Très vif",Maurice Ravel;Duo Synopsis,classical,0.275,0.206,0.389,81.968,sad
+"6 Kinderstücke Op. 72: I. Allegro non troppo, MWV U 171",Felix Mendelssohn;Daniel Barenboim,classical,0.325,0.102,0.373,152.04,sad
+"Sonata for Violin and Cello in C Major, M. 73: IV. Vif, avec entrain",Maurice Ravel;Duo Synopsis,classical,0.49,0.218,0.431,147.561,sad
+"Sonata for Violin and Cello in C Major, M. 73: III. Lent",Maurice Ravel;Duo Synopsis,classical,0.0341,0.0491,0.104,90.278,sad
+"Sonata for Violin and Cello in C Major, M. 73: I. Allegro",Maurice Ravel;Duo Synopsis,classical,0.18,0.0984,0.24,122.741,sad
+"Ma mère l'Oye, M. 60: Apothéose: Le jardin féerique",Maurice Ravel;Michael Davis;London Symphony Orchestra;Claudio Abbado,classical,0.0391,0.0436,0.182,100.533,sad
+"Tzigane, M. 76 (Version for Violin & Orchestra) [Live]",Maurice Ravel;Luis Perez Canabal;Central Washington University Symphony Orchestra;Dr. Nikolas Caoile,classical,0.174,0.15,0.325,90.284,sad
+Vitthala Shappath,Rahul Deshpande,classical,0.295,0.387,0.306,122.587,sad
+Uthi Uthi Gopala,Kumar Gandharva,classical,0.46,0.274,0.576,93.754,sad
+Maname Muruganin,Radha Jayalakshmi,classical,0.731,0.399,0.343,105.118,chill
+Stotra - Bhawani Shankarau Vande,Veena Sahasrabuddhe,classical,0.268,0.374,0.257,136.999,sad
+Shiv Dhun (Shiv Stuti Bhajan),Pandit Jasraj,classical,0.528,0.565,0.504,124.454,happy
+Harry Potter (The Ultimate Indian Theme),Mahesh Raghvan,classical,0.207,0.775,0.403,180.079,angry
+Maruthamalai Maamaniye,Madurai Somasundaram,classical,0.608,0.495,0.349,95.758,chill
+Hourglass,Jiří Horák,classical,0.334,0.00807,0.431,77.745,sad
+Abhir Gulal Udhalit Rang,Jitendra Abhisheki,classical,0.59,0.473,0.335,94.746,chill
+Govinda Govinda,Priya Sisters,classical,0.782,0.657,0.595,102.321,happy
+Kanakadharashtavam - Ms Subbulakshmi,M. S. Subbulakshmi;Radha Viswanathan,classical,0.324,0.326,0.575,125.554,sad
+Kurai Onrum Illai,M. S. Subbulakshmi;Radha Viswanathan;Sangeetha Kalanidhi,classical,0.602,0.566,0.296,172.14,happy
+Aamhi Vithlache Warkari,Bhimsen Joshi;Pt. Jitender Abhisheki;Ajit Kadkade,classical,0.52,0.526,0.467,86.902,happy
+Sri Venkatesa Suprabhatam,M. S. Subbulakshmi;T. K. Murthy;V.V.Subramaniam,classical,0.794,0.301,0.657,100.971,chill
+"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",Johann Sebastian Bach;Yo-Yo Ma,classical,0.304,0.157,0.275,73.289,sad
+Kaakum Kadavul,Sirkazhi Govindarajan,classical,0.8,0.713,0.517,100.214,happy
+Ne Vupiri Ne Sonthama,Ramakrishnan Murthy,classical,0.211,0.319,0.498,82.955,sad
+"Für Elise, WoO 59",Ludwig van Beethoven;Nelly Kokinos,classical,0.18,0.108,0.303,126.931,sad
+Lullaby,RIOPY,classical,0.0546,0.0897,0.646,82.003,sad
+"Nun komm' der Heiden Heiland, P. 386",Johann Pachelbel;Gregor Simon,classical,0.0778,0.217,0.0876,81.32,sad
+"Songs for American Schools, JS 199: No. 1, Autumn Song",Jean Sibelius;Hannu Norjanen;Friends of Sibelius;Tapiola Chamber Choir,classical,0.0877,0.0312,0.347,88.69,sad
+Song of the Birds (Arr. Casals),Sheku Kanneh-Mason;CBSO Cellos,classical,0.037,0.145,0.194,80.3,sad
+"Die Jahreszeiten Hob. XXI:3, Pt. 3, Autumn: No. 22, Ihr Schönen aus der Stadt",Joseph Haydn;Sigiswald Kuijken;Flanders Opera;Helmut Wildhaber;Krisztina Laki;La Petite Bande,classical,0.0761,0.0214,0.261,83.335,sad
+"Vom Himmel hoch, da komm ich her, P. 52",Johann Pachelbel;Gregor Simon,classical,0.159,0.114,0.18,112.793,sad
+"Cello Sonata in C Major, Op. 119: I. Andante grave",Sergei Prokofiev;Miriam K. Smith;Sandra Wright Shen,classical,0.0614,0.0391,0.287,119.842,sad
+"Cello Sonata in C Major, Op. 119: II. Moderato",Sergei Prokofiev;Miriam K. Smith;Sandra Wright Shen,classical,0.175,0.0481,0.402,103.346,sad
+"5 Songs, Op. 38: No. 1, Autumn Evening",Jean Sibelius;Gustav Djupsjöbacka;Tom Krause,classical,0.0394,0.0569,0.308,73.698,sad
+"Die Jahreszeiten Hob. XXI:3, Pt. 3, Autumn: No. 20, So lohnet die Natur den Fleiß",Joseph Haydn;Sigiswald Kuijken;Helmut Wildhaber;Krisztina Laki;Peter Lika;La Petite Bande;The Choir Of The Flanders Opera,classical,0.147,0.104,0.364,125.517,sad
+"Cello Sonata in C Major, Op. 119: III. Allegro, ma non troppo",Sergei Prokofiev;Miriam K. Smith;Sandra Wright Shen,classical,0.228,0.0911,0.363,77.37,sad
+"Violin Concerto No. 1 in D Major, Op. 19: II. Scherzo: Vivacissimo",Sergei Prokofiev;Hilary Hahn;Orchestre Philharmonique de Radio France;Mikko Franck,classical,0.467,0.27,0.472,150.013,sad
+"Die Jahreszeiten Hob. XXI:3, Pt. 3, Autumn: No. 19, Was durch seine Blüte der Lenz",Joseph Haydn;Sigiswald Kuijken;Helmut Wildhaber;Krisztina Laki;Peter Lika;La Petite Bande;The Choir Of The Flanders Opera,classical,0.211,0.017,0.377,103.907,sad
+"Carmen: ""Danse des gitans""",Georges Bizet;Francesco Verzillo;Danilo Dellepiane,classical,0.626,0.0852,0.594,127.091,chill
+"String Quartet in B-Flat Major, Op. 1 No. 1, Hob. III:1 ""La chasse"": III. Adagio",Joseph Haydn;Arioso Quartett Wien,classical,0.121,0.0419,0.199,169.307,sad
+"Carmen: ""Habanera""",Georges Bizet;Francesco Verzillo;Danilo Dellepiane,classical,0.536,0.0144,0.572,123.784,chill
+"Lieutenant Kijé, Symphonic Suite, Op. 60: IV. Troïka",Sergei Prokofiev;Chicago Symphony Orchestra;Claudio Abbado,classical,0.329,0.145,0.375,77.903,sad
+"Trumpet Concerto in E Flat, H.VIIe/1: 3. Finale. Allegro",Joseph Haydn;Manuel Blanco;Josep Pons;Orquesta Nacional De España,classical,0.423,0.143,0.528,136.278,sad
+Madhukaitava Vidhwangsi,Tushar Dutta;Trishit;Supratik Das;Roompa;Pradyot De,classical,0.136,0.233,0.48,120.074,sad
+Koushalyecha Ram Bai,Manik Varma,classical,0.514,0.499,0.441,128.364,chill
+Tillana - Kamas - Adi,Malladi Brothers,classical,0.782,0.663,0.464,85.901,happy
+Tu Mera,Rashid Khan;Altamash Faridi;Antra Mitra,classical,0.478,0.58,0.428,83.429,angry
+Ouroboros,Dominique Charpentier,classical,0.186,0.105,0.323,167.407,sad
+Uth Pandharichya Raaja,Prasad Sawkar,classical,0.607,0.265,0.434,131.532,chill
+Suvvi Suvvaana Ranga,Vedavathi Prabhakar;CHAYA DEVI,classical,0.925,0.638,0.689,136.884,happy
+Kotnambula Dhanchare,Vedavathi Prabhakar;CHAYA DEVI,classical,0.704,0.477,0.416,164.972,chill
+Sanvale Sundar Roop Manohar,Bhimsen Joshi,classical,0.552,0.373,0.487,84.121,chill
+Dyaniyancha Raja Guru Maharav,Bhimsen Joshi,classical,0.452,0.29,0.25,75.157,sad
+"Kambada Myalina (From ""Nagamandala"")",Sangeetha Katti,classical,0.336,0.638,0.411,175.222,angry
+Nee Vupuri Nee Sothama,Ramakrishnan Murthy,classical,0.172,0.34,0.497,82.995,sad
+Ee Hasiru Siriyali,Sangeetha Katti,classical,0.549,0.608,0.708,135.046,happy
+"Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",Frédéric Chopin;Mikhail Pletnev,classical,0.186,0.0047,0.225,163.665,sad
+Kannana Kannanukku,Sirkazhi Govindarajan,classical,0.713,0.522,0.469,100.716,happy
+Gymnopédie No. 1,Erik Satie;Philippe Entremont,classical,0.356,0.0127,0.468,72.776,sad
+Thirupparang Kundrathil,Soolamangalam Sisters,classical,0.785,0.563,0.577,147.562,happy
+"Deux Arabesques, L66: No. 1: Andantino con moto",Claude Debussy;Kathryn Stott,classical,0.0726,0.0124,0.268,70.582,sad
+Kiss The Rain,Yiruma,classical,0.182,0.0519,0.56,132.691,sad
+"Sonate, Op. 5: I. Adagio",Arcangelo Corelli;Cet étrange éclat,classical,0.115,0.0499,0.126,96.29,sad
+"Sonate, Op. 5: V. Giga",Arcangelo Corelli;Cet étrange éclat,classical,0.434,0.0879,0.159,56.139,sad
+"Sonate, Op. 5: II. Allegro",Arcangelo Corelli;Cet étrange éclat,classical,0.239,0.103,0.23,80.266,sad
+"Sonate, Op. 5: IV. (Allegro)",Arcangelo Corelli;Cet étrange éclat,classical,0.102,0.0296,0.173,120.805,sad
+"Sonate, Op. 5: III. (Adagio)",Arcangelo Corelli;Cet étrange éclat,classical,0.0576,0.0194,0.128,87.224,sad
+"The Nutcracker, Op. 71, Act II, Scene 3: No. 12 Divertissement, Trepak (Russian Dance)",Philadelphia Orchestra;Eugene Ormandy,classical,0.903,0.397,0.401,75.695,chill
+"String Quartet in D Major, Op. 64 No. 5, Hob. III:63 ""The Lark"": IV. Finale. Vivace",Joseph Haydn;Arioso Quartett Wien,classical,0.921,0.317,0.444,144.238,chill
+"Concerto grosso in G Minor, Op. 6, No. 8, ""Fatto per la Notte di Natale"": III. Adagio - Allegro - Adagio",Arcangelo Corelli;The English Concert;Trevor Pinnock,classical,0.129,0.091,0.192,113.15,sad
+"Concerto grosso In G Minor, Op. 6, No. 8, MC 6.8 ""Fatto per la Notte di Natale"": 5. Pastorale (Largo)",Arcangelo Corelli;Thomas Brandis;Emil Maas;Ottomar Borwitzky;Waldemar Döling;Wolfgang Meyer;Berliner Philharmoniker;Herbert von Karajan,classical,0.0713,0.117,0.147,90.476,sad
+"Concerto grosso in G Minor, Op. 6, No. 8, ""Fatto per la Notte di Natale"": I. Vivace - Grave",Arcangelo Corelli;The English Concert;Trevor Pinnock,classical,0.042,0.0281,0.149,137.501,sad
+Bhor Bhaye,Bade Ghulam Ali Khan;Shreya Ghoshal,classical,0.514,0.637,0.421,123.427,happy
+Ongi Ulagalanda,Sikkil Gurucharan,classical,0.913,0.564,0.664,90.536,happy
+Durga Kavach,Gundecha Brothers,classical,0.276,0.489,0.596,147.977,sad
+Alhaiya in France,Niladri Kumar,classical,0.141,0.417,0.333,75.472,sad
+Santoor,Shivkumar Sharma,classical,0.413,0.292,0.528,135.92,sad
+Innam En Manam - Charukesi - Adi,Lalgudi G. Jayaraman,classical,0.764,0.484,0.663,125.288,chill
+Tu Astis Tar,Sanjeev Abhyankar,classical,0.519,0.187,0.598,75.02,chill
+Guruguha Padapankaja,T. M. Krishna,classical,0.969,0.606,0.567,139.848,happy
+Afterthought,Elliott Jacqués,classical,0.0412,0.103,0.367,64.925,sad
+Thillana - Dhanashree - Adi,Rajhesh Vaidhya,classical,0.886,0.702,0.494,100.455,happy
+Humen Tumse Pyar Kitna,Parveen Sultana;R. D. Burman,classical,0.506,0.336,0.427,109.602,chill
+Indrayani Kathi,Bhimsen Joshi,classical,0.724,0.416,0.476,76.54,chill
+Sreeman Narayana,Bombay Sisters,classical,0.577,0.587,0.507,156.987,happy
+"Mazhai - From ""Kaalidas""",Sudha Ragunathan,classical,0.431,0.568,0.411,94.952,angry
+Raga Baïragi-Bhaïrav - Drut Tîn-Tal,Ram Narayan;Suresh Talwalkar;François Auboux,classical,0.79,0.328,0.414,145.715,chill
+Sri Lakshmi Ashtakam,Mambalam Sisters,classical,0.288,0.31,0.447,123.113,sad
+Lambhodharaya,Nithyasree,classical,0.565,0.467,0.703,131.915,chill
+Ram Ram Jai Raja Ram Ram Ram Jai Sita Ram,Rattan Mohan Sharma,classical,0.766,0.638,0.645,148.153,happy
+River Flows in You,Yiruma,classical,0.346,0.292,0.287,145.703,sad
+Lalana,Rahul Deshpande;Jidnesh Vaze,classical,0.815,0.626,0.619,72.265,happy
+Kaadhalikka Neramillai,Sirkazhi Govindarajan,classical,0.86,0.633,0.438,78.673,happy
+Gnossienne No. 1,Erik Satie;Alena Cherny,classical,0.0369,0.00579,0.376,71.827,sad
+Kaasikku Pogum,Sirkazhi Govindarajan,classical,0.819,0.599,0.438,113.872,happy
+Sivanukku Isainthathu,Sirkazhi Govindarajan,classical,0.574,0.265,0.434,137.78,chill
+"Clair de Lune, L. 32",Claude Debussy;Martin Jones,classical,0.0397,0.00532,0.335,65.832,sad
 Liggi,Ritviz,edm,0.688,0.667,0.786,102.046,happy
+On & On,Cartoon;Daniel Levi,edm,0.423,0.692,0.451,174.122,angry
+Udd Gaye,Ritviz,edm,0.483,0.817,0.595,144.961,angry
 tere bina,Zaeden,edm,0.942,0.341,0.889,118.003,chill
 Baaraat,Ritviz;Nucleya,edm,0.606,0.449,0.678,100.033,chill
 Bad Boy (feat. Luana Kiara),Raaban;Tungevaag;Luana Kiara,edm,0.767,0.892,0.644,180.044,happy
 socha na tha,Zaeden,edm,0.179,0.752,0.489,192.133,angry
 Aaj Na,Ritviz,edm,0.338,0.345,0.659,84.761,sad
-kya karoon?,Zaeden,edm,0.619,0.56,0.723,145.022,chill
+Sage,Ritviz,edm,0.356,0.412,0.663,98.023,sad
+dooriyan,Zaeden,edm,0.475,0.593,0.735,160.07,angry
+kya karoon?,Zaeden,edm,0.619,0.56,0.723,145.022,happy
+Kosandra - Remix,Maikkis,edm,0.547,0.921,0.707,99.994,happy
 Genesis (Intro),Zaeden,edm,0.151,0.68,0.345,100.001,angry
+Roz,Ritviz;Nucleya,edm,0.448,0.639,0.833,102.989,angry
 KTMBK,Zaeden;Hanita Bhambri,edm,0.836,0.435,0.898,115.034,chill
 Angetenar,Rompasso;Rich The Kid,edm,0.202,0.879,0.708,109.939,angry
+Chellakuttiye (Avastha Love Song),Jecin George;Pearle Maaney;Srinish Aravind,edm,0.313,0.544,0.436,169.955,angry
+Bombay Dreams (feat. Kavita Seth),KSHMR;Lost Stories;Kavita Seth,edm,0.458,0.821,0.629,103.998,angry
 Jeet,Ritviz,edm,0.644,0.734,0.787,98.989,happy
 "For Aisha (Featured in ""The Sky Is Pink"")",MEMBA;EVAN GIIA;Nooran Sisters,edm,0.109,0.622,0.568,76.984,angry
 Invisible,Zeus X Crona;Julius Dreisig,edm,0.224,0.836,0.682,82.53,angry
+You,Regard;Troye Sivan;Tate McRae,edm,0.514,0.695,0.691,106.064,happy
 There for You,Martin Garrix;Troye Sivan,edm,0.13,0.644,0.611,105.969,angry
 Mehfooz,Ritviz,edm,0.318,0.643,0.453,91.992,angry
 Moved On,SENSE,edm,0.123,0.817,0.714,126.026,angry
 Are You With Me,Lost Frequencies,edm,0.393,0.608,0.763,121.02,angry
+Outerspace,BEAUZ;Dallas,edm,0.478,0.861,0.586,142.16,angry
 Heroes Tonight,Janji;Johnning,edm,0.178,0.786,0.537,127.994,angry
 No Friends,Cadmium;Rosendale,edm,0.831,0.644,0.771,145.029,happy
-Lagda Na,Zaeden;Stunnah Beatz,edm,0.67,0.587,0.67,167.873,chill
+Thandi Hawa,Ritviz,edm,0.514,0.558,0.619,195.004,happy
+Lagda Na,Zaeden;Stunnah Beatz,edm,0.67,0.587,0.67,167.873,happy
 Ari Ari,Ritviz;Nucleya,edm,0.394,0.676,0.721,140.08,angry
+Woke Up in Love,Kygo;Gryffin;Calum Scott,edm,0.188,0.585,0.643,106.015,angry
 Moth To A Flame,Swedish House Mafia;The Weeknd,edm,0.105,0.659,0.553,120.146,angry
 Let's Nacho,Nucleya;Benny Dayal;Badshah,edm,0.88,0.947,0.742,130.043,happy
 Heaven Takes You Home,Swedish House Mafia;Connie Constance,edm,0.0389,0.738,0.665,125.037,angry
 Redlight,Swedish House Mafia;Sting,edm,0.207,0.655,0.716,125.012,angry
 Chain My Heart,Topic;Bebe Rexha,edm,0.722,0.849,0.663,123.992,happy
+In Your Arms (For An Angel),Topic;Robin Schulz;Nico Santos;Paul van Dyk,edm,0.407,0.828,0.694,126.002,angry
 One - Radio Edit,Swedish House Mafia,edm,0.623,0.78,0.802,125.027,happy
+Don't You Worry Child - Radio Edit,Swedish House Mafia;John Martin,edm,0.478,0.83,0.609,128.986,angry
 Antidote - Radio Edit,Swedish House Mafia;Knife Party,edm,0.625,0.86,0.648,128.03,happy
-Mai Ni Meriye,Lost Stories;Jonita Gandhi;Ashwin Adwani,edm,0.671,0.505,0.616,96.036,chill
+Mai Ni Meriye,Lost Stories;Jonita Gandhi;Ashwin Adwani,edm,0.671,0.505,0.616,96.036,happy
 Lights - Sped Up Version,Ellie Goulding;Speed Radio,edm,0.804,0.836,0.653,133.182,happy
+Peace Of Mind,Lost Stories;KASYAP;Yashraj,edm,0.47,0.406,0.733,148.959,sad
+Noor,Lost Stories;Akanksha Bhandari;Zaeden,edm,0.545,0.718,0.792,103.049,happy
 Run It (feat. Rick Ross & Rich Brian),DJ Snake;Rick Ross;Rich Brian,edm,0.225,0.725,0.688,104.006,angry
+iPad,The Chainsmokers,edm,0.551,0.628,0.665,121.979,happy
 Nemesis,Ryllz,edm,0.32,0.768,0.63,104.913,angry
 Don't Call Me Up,Mabel,edm,0.234,0.881,0.674,98.994,angry
 Nevada,Vicetone;Cozi Zuehlsdorff,edm,0.105,0.783,0.605,124.015,angry
 Superhero,Unknown Brain;Chris Linton,edm,0.22,0.937,0.667,75.015,angry
 Breaking Me,Topic;A7S,edm,0.664,0.72,0.789,122.031,happy
+High On Life (feat. Bonn),Martin Garrix;Bonn,edm,0.368,0.486,0.414,128.038,sad
 When I’m Gone (with Katy Perry),Alesso;Katy Perry,edm,0.615,0.886,0.685,125.034,happy
 Bad Memories,MEDUZA;James Carter;Elley Duhé;FAST BOY,edm,0.662,0.767,0.607,123.998,happy
 Why Do You Lie To Me,Topic;A7S;Lil Baby,edm,0.336,0.738,0.65,119.827,angry
+Tell It To My Heart,MEDUZA;Hozier,edm,0.489,0.715,0.539,123.854,angry
 Piece Of Your Heart,MEDUZA;Goodboys,edm,0.631,0.744,0.677,124.077,happy
 Follow Me,Topic;John Martin,edm,0.0437,0.854,0.578,125.928,angry
 Born To Love,MEDUZA;SHELLS,edm,0.827,0.856,0.722,121.99,happy
 Kernkraft 400 (A Better Day),Topic;A7S,edm,0.4,0.727,0.623,125.975,angry
+2U (feat. Justin Bieber),David Guetta;Justin Bieber,edm,0.557,0.65,0.548,144.937,happy
 Ride It,Regard,edm,0.884,0.751,0.88,117.948,happy
 Sathi,Ritviz;Nucleya,edm,0.666,0.625,0.585,164.066,happy
+So Far Away (feat. Jamie Scott & Romy Dya),Martin Garrix;David Guetta;Jamie Scott;Romy Dya,edm,0.13,0.52,0.526,149.119,angry
 Loco Contigo (feat. J. Balvin & Tyga),DJ Snake;J Balvin;Tyga,edm,0.371,0.758,0.694,192.091,angry
+Lost Without You (with Dean Lewis),Kygo;Dean Lewis,edm,0.343,0.575,0.621,117.887,angry
 I'm Good (Blue) - REAPER Remix,David Guetta;Bebe Rexha;REAPER,edm,0.363,0.987,0.472,174.02,angry
+Good Thing,Zedd;Kehlani,edm,0.588,0.565,0.693,185.916,happy
+Dreams pt. II,Sara Skinner;Lost Sky,edm,0.513,0.884,0.52,144.961,happy
+Devil,Barren Gates,edm,0.41,0.864,0.507,150.075,angry
+Solo (feat. Demi Lovato),Clean Bandit;Demi Lovato,edm,0.565,0.636,0.737,105.005,happy
+My Heart Goes (La Di Da) (feat. Topic),Becky Hill;Topic,edm,0.456,0.781,0.695,124.04,angry
+Words (feat. Zara Larsson),Alesso;Zara Larsson,edm,0.444,0.586,0.739,124.026,angry
 Million Days,SABAI;Hoang;Claire Ridgely,edm,0.0816,0.648,0.514,144.942,angry
 Clarity,Zedd;Foxes,edm,0.176,0.781,0.509,128.002,angry
 Light It Up,Robin Hustin;TobiMorrow;Jex,edm,0.0724,0.949,0.671,128.028,angry
+Get Low,Zedd;Liam Payne,edm,0.527,0.924,0.723,108.009,happy
 Control,Unknown Brain;Jex;Rival,edm,0.301,0.771,0.544,99.743,angry
+Perfect Melody,Jonas Blue;Julian Perretta,edm,0.546,0.771,0.815,117.941,happy
 Walk Thru Fire,Vicetone,edm,0.351,0.664,0.639,116.028,angry
 Waiting,Vicetone;Daisy Guttridge,edm,0.214,0.7,0.651,104.964,angry
+Heartbreak Anthem (with David Guetta & Little Mix),Galantis;David Guetta;Little Mix,edm,0.479,0.784,0.595,124.111,angry
+Stay The Night,Zedd;Hayley Williams,edm,0.461,0.738,0.595,127.954,angry
 Something Stupid,Jonas Blue;AWA,edm,0.626,0.864,0.705,120.012,happy
 By Your Side,Jonas Blue;RAYE,edm,0.637,0.743,0.694,122.998,happy
+Rather Be - The Magician Remix,Clean Bandit;Jess Glynne;The Magician,edm,0.587,0.757,0.809,121.013,happy
+A Different Way (with Lauv),DJ Snake;Lauv,edm,0.587,0.757,0.784,104.996,happy
+Laung Gawacha,Nucleya;Avneet Khurmi,edm,0.415,0.9,0.573,91.988,angry
 I Love U,The Chainsmokers,edm,0.81,0.719,0.651,103.981,happy
 Element,David Guetta;MORTEN,edm,0.0741,0.941,0.73,128.171,angry
+Firestone,Kygo;Conrad Sewell,edm,0.411,0.634,0.704,113.927,angry
 Chandamama,Ritviz,edm,0.349,0.374,0.661,92.011,sad
 I'm Good (Blue) - REAPER Extended Remix,David Guetta;Bebe Rexha;REAPER,edm,0.37,0.982,0.466,173.958,angry
 Only a Fool,Galantis;Ship Wrek;Pink Sweat$,edm,0.623,0.619,0.729,123.061,happy
+intezaar,Zaeden;somanshu,edm,0.548,0.489,0.638,106.915,chill
+Takeaway (feat. Lennon Stella) - Pilton Remix,The Chainsmokers;ILLENIUM;Lennon Stella;pilton,edm,0.528,0.696,0.515,99.985,happy
+Higher,Clean Bandit;iann dior,edm,0.542,0.736,0.716,104.018,happy
 OUT OUT (feat. Charli XCX & Saweetie),Joel Corry;Jax Jones;Charli XCX;Saweetie,edm,0.796,0.833,0.787,123.97,happy
-Drive,Clean Bandit;Topic;Wes Nelson,edm,0.771,0.571,0.81,125.994,chill
+Lose Somebody,Kygo;OneRepublic,edm,0.507,0.586,0.58,147.988,happy
+Sad Girls,Clean Bandit;French The Kid;Rema,edm,0.529,0.847,0.799,115.016,happy
+Everything but You,Clean Bandit;A7S,edm,0.471,0.764,0.679,124.977,angry
+Nightingale,Clean Bandit,edm,0.263,0.507,0.653,150.198,angry
+1x1,Galantis,edm,0.517,0.863,0.887,120.028,happy
+Drive,Clean Bandit;Topic;Wes Nelson,edm,0.771,0.571,0.81,125.994,happy
 End Of The Night,Danny Avila,edm,0.312,0.72,0.666,99.97,angry
 Rockabye,Clean Bandit;Sean Paul;Anne-Marie,edm,0.765,0.759,0.724,101.943,happy
 Nowhere,Clean Bandit;Rita Ora;KYLE,edm,0.755,0.624,0.794,100.015,happy
 Cologne,Clean Bandit;Nikki Cislyn;Javeon,edm,0.761,0.658,0.842,126.037,happy
+Solo,Clean Bandit;Demi Lovato,edm,0.557,0.622,0.74,104.968,happy
 Playboy Style,Clean Bandit;Charli XCX;Bhad Bhabie,edm,0.369,0.648,0.724,151.051,angry
 I Miss You - Matoma Remix,Clean Bandit;Julia Michaels;Matoma,edm,0.65,0.737,0.555,105.094,happy
+Real Love,Clean Bandit;Jess Glynne,edm,0.551,0.848,0.63,124.984,happy
+I Got A Feeling,Felix Jaehn;Robin Schulz;Georgia Ku,edm,0.406,0.833,0.598,124.973,angry
 Sexy Bitch (feat. Akon),David Guetta;Akon,edm,0.801,0.627,0.813,130.011,happy
+Hope,The Chainsmokers;Winona Oak,edm,0.513,0.699,0.773,104.941,happy
 Don’t Go (with Justin Bieber & Don Toliver),Skrillex;Justin Bieber;Don Toliver,edm,0.359,0.695,0.689,75.05,angry
 Purple Lamborghini (with Rick Ross),Skrillex;Rick Ross,edm,0.298,0.899,0.457,147.268,angry
 Hot In It,Tiësto;Charli XCX,edm,0.717,0.841,0.748,123.045,happy
@@ -368,141 +927,469 @@ Hero (feat. Christina Perri),Cash Cash;Christina Perri,edm,0.148,0.85,0.47,149.8
 Tie Me Down (with Elley Duhé),Gryffin;Elley Duhé,edm,0.322,0.845,0.608,98.976,angry
 Stranger Things (feat. OneRepublic) - Alan Walker Remix,Kygo;OneRepublic;Alan Walker,edm,0.729,0.742,0.659,106.947,happy
 Bad Memories (feat. Elley Duhé & FAST BOY),MEDUZA;James Carter;Elley Duhé;FAST BOY,edm,0.662,0.767,0.607,123.998,happy
+Caught Up,Gryffin;Olivia O'Brien,edm,0.541,0.822,0.704,122.031,happy
 Tie Me Down,Gryffin;Elley Duhé,edm,0.322,0.845,0.608,98.976,angry
+Tere Bina,Zephyrtone;Vasu Raina,edm,0.573,0.618,0.664,144.031,happy
 Keep You Mine,NOTD;shy martin,edm,0.845,0.788,0.81,135.991,happy
+You Were Loved,Gryffin;OneRepublic,edm,0.444,0.69,0.636,123.994,angry
+Do It Better,Felix Jaehn;Zoe Wees,edm,0.41,0.804,0.677,122.111,angry
 You Don't Know Me - Radio Edit,Jax Jones;RAYE,edm,0.693,0.658,0.877,123.995,happy
+Best Is Yet To Come,Gryffin;Kyle Reynolds,edm,0.551,0.85,0.569,122.042,happy
 Call It Love,Felix Jaehn;Ray Dalton,edm,0.714,0.841,0.616,110.029,happy
+Play,Jax Jones;Years & Years,edm,0.597,0.815,0.759,125.052,happy
+Remember,Gryffin;ZOHARA,edm,0.501,0.901,0.619,123.004,happy
 Winds May Change,Felix Jaehn,edm,0.263,0.923,0.712,127.982,angry
 Another Night,Gabry Ponte;Conor Maynard;jayover,edm,0.239,0.851,0.635,124.032,angry
 Rain In Ibiza,Felix Jaehn;The Stickmen Project;Calum Scott,edm,0.722,0.898,0.654,123.996,happy
+Close Your Eyes,Felix Jaehn;VIZE;Miss Li,edm,0.536,0.818,0.844,128.094,happy
 Feel Good,Felix Jaehn;Mike Williams,edm,0.655,0.903,0.702,125.95,happy
 Instruction,Jax Jones;Demi Lovato;Stefflon Don,edm,0.936,0.923,0.762,121.081,happy
 Roses,The Chainsmokers;ROZES,edm,0.343,0.802,0.713,100.001,angry
 HUMBLE. - SKRILLEX REMIX,Skrillex;Kendrick Lamar,edm,0.868,0.934,0.901,150.037,happy
 The Fall,The Chainsmokers;Ship Wrek,edm,0.285,0.939,0.664,121.979,angry
+Flames (with ZAYN),R3HAB;ZAYN;Jungleboi,edm,0.436,0.644,0.358,152.085,angry
 Let It Die,Ellie Goulding,edm,0.696,0.869,0.577,119.939,happy
+Sick Boy,The Chainsmokers,edm,0.454,0.577,0.663,89.996,angry
+Body,Loud Luxury;Brando,edm,0.582,0.764,0.752,121.958,happy
+Beautiful Now,Zedd;Jon Bellion,edm,0.56,0.833,0.628,128.003,happy
 Riptide,The Chainsmokers,edm,0.894,0.734,0.717,91.014,happy
+Selfish Love (with Selena Gomez),DJ Snake;Selena Gomez,edm,0.443,0.646,0.723,110.971,angry
 Barso,Ritviz,edm,0.0383,0.829,0.537,140.047,angry
 PYRO,Chester Young;Castion,edm,0.259,0.977,0.718,125.983,angry
 Bhayanak Atma,Nucleya;Gagan Mudgal,edm,0.613,0.954,0.549,194.043,happy
+Paradise (feat. Dermot Kennedy),MEDUZA;Dermot Kennedy,edm,0.435,0.595,0.632,124.114,angry
 Never Forget You,Zara Larsson;MNEK,edm,0.276,0.732,0.583,145.992,angry
 Take You On,James Mercy;PhiloSofie,edm,0.358,0.733,0.65,149.966,angry
 Lonely Together (feat. Rita Ora),Avicii;Rita Ora,edm,0.272,0.666,0.655,102.977,angry
 In My Mind,Dynoro;Gigi D'Agostino,edm,0.163,0.77,0.694,125.905,angry
 Light It Up - Remix,Major Lazer;Nyla;Fuse ODG,edm,0.752,0.877,0.747,107.991,happy
 Instagram,Dimitri Vegas & Like Mike;David Guetta;Daddy Yankee;Afro Bros;Natti Natasha;Dimitri Vegas;Like Mike,edm,0.95,0.906,0.765,96.071,happy
+Hey Brother,Avicii,edm,0.458,0.78,0.545,125.014,angry
 Taj,Ritviz,edm,0.689,0.685,0.67,159.942,happy
 Ping Pong - Hardwell Remix,Armin van Buuren;Hardwell,edm,0.0762,0.985,0.575,129.956,angry
+Waste It On Me,Steve Aoki;BTS,edm,0.466,0.684,0.669,96.097,angry
+Levels - Radio Edit,Avicii,edm,0.464,0.889,0.584,126.04,angry
 Turn Down for What,DJ Snake;Lil Jon,edm,0.0815,0.799,0.818,100.014,angry
+Polaroid,Jonas Blue;Liam Payne;Lennon Stella,edm,0.472,0.898,0.652,114.043,angry
 Tick Tock (feat. 24kGoldn),Clean Bandit;Mabel;24kGoldn,edm,0.946,0.705,0.779,101.022,happy
 Day N Night,Afrojack;Black V Neck;Muni Long,edm,0.667,0.871,0.709,125.94,happy
 Worlds On Fire,Afrojack;R3HAB;Au/Ra,edm,0.265,0.756,0.621,124.039,angry
 Reality,Lost Frequencies;Janieck,edm,0.602,0.697,0.714,122.145,happy
+Vacation (feat. Veronica),Damon Empero;Veronica,edm,0.472,0.814,0.591,175.991,angry
+Song About You,Mike Posner,edm,0.589,0.846,0.687,87.024,happy
+Gun Double,Armağan Oruç,edm,0.493,0.533,0.77,95.017,angry
+Another Life,Afrojack;David Guetta;Ester Dean,edm,0.493,0.771,0.416,144.869,angry
+Dive,Hot Shade;Mike Perry;Chris James,edm,0.409,0.787,0.654,123.979,angry
+The Spark,Afrojack;Spree Wilson,edm,0.532,0.929,0.632,126.003,happy
 "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - DJ LBR Remix",David Guetta;DJ LBR,edm,0.209,0.774,0.425,179.998,angry
+Chamber Of Reflection,Mac DeMarco,edm,0.506,0.557,0.538,131.03,happy
 Ocean (feat. Khalid),Martin Garrix;Khalid,edm,0.221,0.693,0.506,139.912,angry
 Runaway (U & I),Galantis,edm,0.383,0.805,0.506,126.008,angry
 Lights,Ellie Goulding,edm,0.676,0.732,0.699,120.028,happy
 Kanaa,Nucleya;2jaym;Sublahshini,edm,0.23,0.687,0.588,94.896,angry
+The Ocean (feat. Shy Martin),Mike Perry;shy martin,edm,0.188,0.575,0.632,90.037,angry
+Pump It Louder,Tiësto;Black Eyed Peas,edm,0.543,0.942,0.66,126.017,happy
 Pran,Ritviz,edm,0.61,0.484,0.619,90.916,chill
 Memories (feat. Kid Cudi),David Guetta;Kid Cudi,edm,0.375,0.916,0.546,129.983,angry
+Complicated (feat. Kiiara),Dimitri Vegas & Like Mike;David Guetta;Dimitri Vegas;Kiiara,edm,0.499,0.819,0.678,90.004,angry
 Piece Of Your Heart - Alok Remix,MEDUZA;Alok;Goodboys,edm,0.192,0.86,0.797,124.033,angry
 Head & Heart (feat. MNEK),Joel Corry;MNEK,edm,0.905,0.874,0.734,122.953,happy
 Khamoshi,Ritviz;Karan Kanchan,edm,0.619,0.666,0.714,114.95,happy
 SOS (feat. Aloe Blacc),Avicii;Aloe Blacc,edm,0.376,0.645,0.802,100.001,angry
-Summer High,AP Dhillon,hip-hop,0.952,0.541,0.86,114.984,chill
+Lion Heart (feat. Jeremy Oceans & KARRA),KSHMR;DIVINE;LIT killah;Jeremy Oceans;Karra,edm,0.569,0.866,0.699,95.063,happy
+No Promises (feat. Demi Lovato),Cheat Codes;Demi Lovato,edm,0.595,0.667,0.741,112.956,happy
+Jaana,Ritviz;Karan Kanchan,edm,0.565,0.682,0.668,139.998,happy
+All Around the World (La La La),R3HAB;A Touch Of Class,edm,0.52,0.859,0.733,124.948,happy
+Pukaar,Ritviz,edm,0.593,0.476,0.534,106.891,chill
+kho gaya,Zaeden;Yashraj;AAKASH,edm,0.66,0.496,0.729,155.062,chill
+Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Riton;Nightcrawlers;Mufasa & Hypeman;Dopamine,edm,0.801,0.862,0.824,122.98,happy
+One Thing Right,Marshmello;Kane Brown,edm,0.442,0.625,0.659,88.042,angry
+WOW (feat. Sabrina Carpenter) - Remix,Zara Larsson;Sabrina Carpenter,edm,0.305,0.744,0.702,77.486,angry
+Seasons,Rival;Cadmium;Harley Bird,edm,0.48,0.676,0.542,144.907,angry
+Crazy,BEAUZ;JVNA,edm,0.422,0.796,0.739,102.038,angry
+days,Zaeden,edm,0.373,0.499,0.811,144.028,sad
+Sun Toh,Ritviz,edm,0.569,0.72,0.639,134.985,happy
+Chasing Stars (feat. James Bay),Alesso;Marshmello;James Bay,edm,0.492,0.64,0.594,92.871,angry
+Drown (feat. Clinton Kane),Martin Garrix;Clinton Kane,edm,0.363,0.739,0.573,120.077,angry
+Aurora,K-391;RØRY,edm,0.176,0.689,0.498,143.804,angry
+1000 pieces,Zaeden;Polar,edm,0.256,0.579,0.714,140.006,angry
+MATAFAKA,Unknown Brain;Marvin Divine,edm,0.373,0.89,0.657,95.025,angry
+Let You Love Me,Rita Ora,edm,0.473,0.861,0.521,191.618,angry
+Next To Me (feat. Tina Stachowiak),Axel Johansson;Tina Stachowiak,edm,0.263,0.596,0.447,176.024,angry
+Hey Mama,David Guetta;Nicki Minaj;Bebe Rexha;Afrojack,edm,0.524,0.73,0.596,85.979,happy
+Astronaut In The Ocean,Arem Ozguc;Arman Aydin;Jordan Rys,edm,0.544,0.867,0.712,126.005,happy
+Shockwave,Marshmello,edm,0.411,0.875,0.577,164.009,angry
+Loneliest Time Of Year,Mabel,edm,0.239,0.609,0.517,92.093,angry
+Willow Tree,Rival;Cadmium;Rosendale,edm,0.445,0.719,0.515,75.024,angry
+Dancing Feet (feat. DNCE),Kygo;DNCE,edm,0.523,0.797,0.75,105.949,happy
+Mad Love,Mabel,edm,0.62,0.796,0.622,197.704,happy
+When I Grow Up (feat. Wiz Khalifa),Dimitri Vegas & Like Mike;Dimitri Vegas;Wiz Khalifa,edm,0.156,0.655,0.642,80.997,angry
+Aaja,Nucleya;Avneet Khurmi;Guri Gangsta,edm,0.198,0.634,0.762,92.063,angry
+Somebody,The Chainsmokers;Drew Love,edm,0.323,0.63,0.32,203.443,angry
+Great Spirit,Armin van Buuren;Vini Vici;Hilight Tribe,edm,0.211,0.911,0.592,103.517,angry
+Make You Say,Zedd;Maren Morris;BEAUZ,edm,0.649,0.61,0.687,128.15,happy
+Nobody Compares To You (feat. Katie Pearlman),Gryffin;Katie Pearlman,edm,0.331,0.764,0.59,104.911,angry
+BOOM,Tiësto;Sevenn;Gucci Mane,edm,0.203,0.84,0.886,123.035,angry
+Aas Paas,Ritviz,edm,0.402,0.452,0.633,114.058,sad
+I Love It (feat. Charli XCX),Icona Pop;Charli XCX,edm,0.824,0.906,0.711,125.916,happy
+Heaven Takes You Home (feat. Connie Constance),Swedish House Mafia;Connie Constance,edm,0.0389,0.738,0.665,125.037,angry
+Melody,Cadmium;Jon Becker,edm,0.534,0.466,0.364,84.226,chill
+No Regrets (feat. Krewella) - RANDALL Remix,KSHMR;Yves V;Krewella;RANDALL,edm,0.488,0.846,0.553,95.046,angry
+yaadein,Zaeden;AAKASH,edm,0.408,0.508,0.643,170.136,angry
+Blinding Lights,Revelries;Victoria Voss,edm,0.5,0.711,0.61,99.99,happy
+Solo Dance,Martin Jensen,edm,0.403,0.846,0.746,114.955,angry
+Ain't My Fault,Zara Larsson,edm,0.355,0.782,0.576,141.153,angry
+Desire - Gryffin Remix,Years & Years;Gryffin,edm,0.415,0.875,0.543,122.058,angry
+The Ghost,NIVIRO,edm,0.251,0.866,0.608,127.992,angry
+Crave,Years & Years,edm,0.64,0.84,0.637,127.998,happy
+Bad Behaviour,Mabel,edm,0.421,0.812,0.797,106.998,angry
+One More Round (Free Fire Booyah Day Theme Song),KSHMR;Jeremy Oceans,edm,0.43,0.88,0.472,125.026,angry
+Starstruck,Years & Years,edm,0.691,0.879,0.555,113.852,happy
+"Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",David Guetta;Bebe Rexha;Ty Dolla $ign;A Boogie Wit da Hoodie,edm,0.685,0.717,0.687,88.063,happy
+Forever Young,John De Sohn;LIAMOO,edm,0.584,0.621,0.653,121.98,happy
+Let Them Know,Mabel,edm,0.839,0.864,0.725,124.981,happy
+Boyfriend,Mabel,edm,0.678,0.847,0.799,99.99,happy
+Don't You Wanna Play?,Seeb;Julie Bergan,edm,0.674,0.77,0.556,99.959,happy
+Shine,Years & Years,edm,0.495,0.717,0.667,108.006,angry
+If You're Over Me,Years & Years,edm,0.614,0.853,0.631,103.834,happy
+High (& Dua Lipa),Whethan;Dua Lipa,edm,0.686,0.552,0.708,147.834,happy
+Jackie Chan,Tiësto;Dzeko;Preme;Post Malone,edm,0.687,0.834,0.747,128.005,happy
+Just Hold On,Steve Aoki;Louis Tomlinson,edm,0.374,0.932,0.647,114.991,angry
+Afterhours feat. Diplo & Nina Sky,TroyBoi;Diplo;Nina Sky,edm,0.357,0.831,0.74,91.026,angry
+365,Zedd;Katy Perry,edm,0.248,0.693,0.745,98.039,angry
+Loop,Martin Garrix;DallasK;Sasha Alex Sloan,edm,0.379,0.725,0.693,125.068,angry
+First Time,Kygo;Ellie Goulding,edm,0.679,0.592,0.633,90.066,happy
+BED,Joel Corry;RAYE;David Guetta,edm,0.618,0.782,0.671,123.989,happy
+Poison,Rita Ora,edm,0.431,0.738,0.579,124.023,angry
+Howling,Cartoon;Asena,edm,0.472,0.72,0.568,173.959,angry
+85%,Loote;gnash,edm,0.368,0.651,0.574,140.017,angry
+Be Okay (with HRVY),R3HAB;HRVY,edm,0.618,0.558,0.73,100.066,happy
+Mumbai Dance,Nucleya;Julius Sylvest;Gagan Mudgal,edm,0.486,0.892,0.655,97.01,angry
+Raahi,Ritviz,edm,0.0747,0.817,0.719,103.853,angry
+Midnight (feat. Liam Payne),Alesso;Liam Payne,edm,0.281,0.648,0.587,144.028,angry
+Into You,Matisse & Sadko;Hanne Mjøen,edm,0.278,0.687,0.553,156.0,angry
+Paas Aa,Zaeden;AAKASH,edm,0.534,0.632,0.705,94.942,happy
+Make It Bun Dem,Skrillex;Damian Marley,edm,0.337,0.881,0.556,104.973,angry
+Bomb A Drop,Garmiani,edm,0.483,0.992,0.675,128.034,angry
+Young,The Chainsmokers,edm,0.454,0.564,0.615,103.006,angry
+Meant To Be,Arc North;Krista Marina,edm,0.234,0.594,0.371,104.215,angry
+Happy Now,Kygo;Sandro Cavazza,edm,0.492,0.575,0.693,117.999,angry
+Bad Girl - JVKE Remix,Daya;JVKE,edm,0.718,0.662,0.834,115.999,happy
+Get Low,Dillon Francis;DJ Snake,edm,0.728,0.932,0.674,101.033,happy
+High (feat. Aleesia),JPB;Aleesia,edm,0.164,0.689,0.509,149.935,angry
+After You (feat. Calle Lehmann),Gryffin;Jason Ross;Calle Lehmann,edm,0.484,0.804,0.511,145.055,angry
+Say Goodbye,Unknown Brain;Marvin Divine,edm,0.207,0.807,0.59,170.072,angry
+I Remember,Cheat Codes;Russell Dickerson,edm,0.621,0.737,0.57,100.052,happy
+Numb,Arc North;Aaron Richards;New Beat Order;Cour,edm,0.286,0.838,0.659,123.95,angry
+Everything,Diamond Eyes,edm,0.389,0.678,0.604,139.929,angry
+Sky High,Elektronomia,edm,0.193,0.956,0.592,128.084,angry
+Questions,Lost Frequencies;James Arthur,edm,0.518,0.713,0.599,123.962,happy
+Lonely Together - (feat. Rita Ora) Alan Walker Remix,Avicii;Rita Ora;Alan Walker,edm,0.43,0.791,0.637,103.051,angry
+Where Did You Go? (feat. MNEK),Jax Jones;MNEK,edm,0.502,0.782,0.763,127.034,happy
+Rampage (Free Fire Rampage Theme Song),Dimitri Vegas & Like Mike,edm,0.176,0.757,0.571,138.982,angry
+You Were Loved (with OneRepublic),Gryffin;OneRepublic,edm,0.444,0.69,0.636,123.994,angry
+Close Your Eyes,KSHMR;Tungevaag,edm,0.483,0.898,0.51,179.969,angry
+Follow Me,Sam Feldt;Rita Ora,edm,0.675,0.729,0.673,122.023,happy
+Little Do You Know,BEAUZ;Jessie Villa,edm,0.445,0.694,0.573,105.085,angry
+Wasted Love (feat. Lagique),Ofenbach;Lagique,edm,0.54,0.855,0.734,121.955,happy
+So Close,NOTD;Felix Jaehn;Captain Cuts;Georgia Ku,edm,0.737,0.894,0.665,125.007,happy
+Be Here And Now - Helsloot Remix,Tinlicker;Nathan Nicholson;Helsloot,edm,0.0475,0.865,0.643,124.009,angry
+My Kind of Woman,Mac DeMarco,edm,0.46,0.765,0.501,91.771,angry
+Escape (feat. Hayla),Kx5;deadmau5;Kaskade;Hayla,edm,0.148,0.799,0.66,126.08,angry
+Like A G6,Far East Movement;The Cataracs;DEV,edm,0.778,0.837,0.435,124.913,happy
+Why We Lose,Cartoon;Coleman Trapp,edm,0.0951,0.92,0.423,174.976,angry
+New,Daya,edm,0.322,0.742,0.715,106.971,angry
+Stole the Show,Kygo;Parson James,edm,0.475,0.635,0.64,100.034,angry
+Love Runs Out (feat. G-Eazy & Sasha Alex Sloan),Martin Garrix;G-Eazy;Sasha Alex Sloan,edm,0.48,0.642,0.647,90.045,angry
+Hate You + Love You (feat. AJ Mitchell),Cheat Codes;AJ Mitchell,edm,0.638,0.689,0.755,140.013,happy
+Bad Karma,Axel Thesleff,edm,0.302,0.546,0.7,80.004,angry
+Going Dumb,Alesso;CORSAK,edm,0.551,0.678,0.834,121.995,happy
+Jeet 2.0,Ritviz,edm,0.834,0.44,0.685,99.056,chill
+Boom Shankar,Gurbax,edm,0.517,0.745,0.766,95.034,happy
+Don't Let Me Down (feat. Daya) - Illenium Remix,The Chainsmokers;Daya;ILLENIUM,edm,0.355,0.656,0.428,79.648,angry
+Goodbye,Imanbek;Goodboys,edm,0.517,0.931,0.741,125.011,happy
+OK Not To Be OK - Lost Stories Remix,Marshmello;Demi Lovato;Lost Stories,edm,0.454,0.626,0.702,104.987,angry
+Born To Be Yours,Kygo;Imagine Dragons,edm,0.451,0.688,0.688,114.011,angry
+Easy Lover (feat. Big Sean),Ellie Goulding;Big Sean,edm,0.446,0.817,0.675,105.964,angry
+Ruin My Life,Zara Larsson,edm,0.585,0.699,0.665,124.896,happy
+Safe With Me (with Audrey Mika),Gryffin;Audrey Mika,edm,0.507,0.757,0.497,169.902,happy
+jaaye na tu,Zaeden;Nishu,edm,0.762,0.376,0.906,142.069,chill
+Nobody To Love (with Loren Gray),TELYKast;Loren Gray,edm,0.409,0.823,0.734,122.143,angry
+Castle,Clarx;Harddope,edm,0.217,0.759,0.672,110.005,angry
+Lovefool,twocolors,edm,0.198,0.766,0.677,123.062,angry
+This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),David Guetta,edm,0.365,0.915,0.367,110.169,angry
+Fast Car,Jonas Blue;Dakota,edm,0.548,0.578,0.672,113.945,happy
+American Psycho (with Mae Muller feat. Trippie Redd),Marshmello;Mae Muller;Trippie Redd,edm,0.365,0.514,0.617,81.067,angry
+Panic Room,Au/Ra,edm,0.0636,0.426,0.495,97.91,sad
+Our Streets,DJ Kantik,edm,0.521,0.598,0.812,103.0,happy
+Come Over,Rudimental;Anne-Marie;Tion Wayne,edm,0.561,0.672,0.797,131.978,happy
+Phenomenon,Unknown Brain;Dax;Hoober;VinDon,edm,0.367,0.878,0.7,99.997,angry
+Hollywood Perfect,Unknown Brain;NotEvenTanner,edm,0.721,0.729,0.639,151.027,happy
+Post Malone (feat. RANI),Sam Feldt;RANI,edm,0.651,0.642,0.59,107.356,happy
+The Bender,Matoma;Brando,edm,0.208,0.882,0.707,125.007,angry
+Melodies,Hot Shade;Nomi Bontegard,edm,0.699,0.649,0.692,97.977,happy
+Never Really Loved Me (with Dean Lewis),Kygo;Dean Lewis,edm,0.218,0.642,0.614,117.94,angry
+False Alarm,Matoma;Becky Hill,edm,0.179,0.732,0.65,102.972,angry
+These Days,Rudimental;Jess Glynne;Macklemore;Dan Caplen,edm,0.576,0.798,0.654,92.209,happy
+This Town (feat. Sasha Alex Sloan),Kygo;Sasha Alex Sloan,edm,0.487,0.449,0.736,147.971,sad
+ilomilo,MBNN;Rowald Steyn,edm,0.208,0.687,0.828,119.006,angry
+Feel Good (feat. Daya),Gryffin;ILLENIUM;Daya,edm,0.479,0.707,0.625,138.064,angry
+Ghost,Au/Ra;Alan Walker;Death Stranding: Timefall,edm,0.584,0.503,0.667,144.015,happy
+Angetenar,Rompasso,edm,0.0535,0.583,0.819,102.904,angry
+Spotlight,Marshmello;Lil Peep,edm,0.615,0.822,0.546,150.06,happy
+Electricity (with Dua Lipa),Silk City;Dua Lipa;Diplo;Mark Ronson,edm,0.505,0.67,0.588,118.159,happy
+Bass Rani,Nucleya,edm,0.248,0.576,0.768,108.078,angry
+Do It All Again,Punctual;Jordan Shaw,edm,0.664,0.786,0.748,123.996,happy
+Do You?,TroyBoi,edm,0.584,0.518,0.827,80.729,happy
+Everybody Hates Me,The Chainsmokers,edm,0.515,0.752,0.475,154.957,happy
+What Would You Do?,Joel Corry;David Guetta;Bryson Tiller,edm,0.686,0.895,0.687,124.041,happy
+Let Me Love You - R3hab Remix,DJ Snake;Justin Bieber;R3HAB,edm,0.536,0.82,0.433,203.968,happy
+Mayhem,Steve Aoki;Quintino,edm,0.078,0.964,0.604,127.929,angry
+Play Hard (feat. Ne-Yo & Akon),David Guetta,edm,0.8,0.921,0.691,130.072,happy
+Lean On Me,Cheat Codes;Tinashe,edm,0.45,0.738,0.686,101.829,angry
+I Miss You (feat. Julia Michaels),Clean Bandit;Julia Michaels,edm,0.369,0.624,0.693,105.002,angry
+Baila Conmigo,Tiësto,edm,0.0834,0.855,0.652,127.964,angry
+The River,Axel Johansson,edm,0.305,0.648,0.498,95.05,angry
+Dangerous (feat. Sam Martin),David Guetta;Sam Martin,edm,0.43,0.747,0.466,92.161,angry
+Bangarang (feat. Sirah),Skrillex;Sirah,edm,0.576,0.972,0.716,110.026,happy
+Family,The Chainsmokers;Kygo,edm,0.374,0.607,0.584,117.817,angry
+Touch It,Denis First;KDDK,edm,0.323,0.843,0.858,102.019,angry
+Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan),DJ Snake;Dhee;Arivu;Santhosh Narayanan,edm,0.641,0.688,0.815,101.968,happy
+Famous (feat. Skinny Days),Tungevaag;Vlade Kay;Jonth;Skinny Days,edm,0.33,0.749,0.516,94.974,angry
+Jumper,Rudimental;Kareen Lomax,edm,0.825,0.725,0.727,130.016,happy
+Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,edm,0.552,0.876,0.666,129.884,happy
+Be the One,Rudimental;MORGAN;Digga D;TIKE,edm,0.79,0.726,0.846,131.974,happy
+Plevne,Armağan Oruç,edm,0.542,0.716,0.523,179.989,happy
+Love Me Now (feat. Zoe Wees),Kygo;Zoe Wees,edm,0.506,0.489,0.662,102.04,chill
+No Sleep (feat. Bonn),Martin Garrix;Bonn,edm,0.327,0.635,0.44,128.133,angry
+By Your Side,Mike Perry,edm,0.429,0.813,0.637,122.963,angry
+Summer Love,Rudimental;Rita Ora,edm,0.279,0.724,0.56,159.916,angry
+We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song,Martin Garrix;Bono;The Edge,edm,0.304,0.733,0.66,119.933,angry
+Bad,Don Diablo;Zak Abel,edm,0.674,0.774,0.794,123.981,happy
+Alright,Alle Farben;KIDDO,edm,0.381,0.804,0.593,121.97,angry
+I Hope That It Hurts,Nicky Romero;Norma Jean Martine,edm,0.533,0.771,0.723,110.048,happy
+Castle,Alle Farben;HUGEL;FAST BOY,edm,0.329,0.717,0.622,124.043,angry
+Wake Me Up In Paris,Anthony Keyrouz;Paradigm,edm,0.363,0.816,0.71,131.001,angry
+Numb The Pain,Clarx;Anikdote;Shiah Maisel;Catas;Le Malls;CHENDA,edm,0.448,0.86,0.552,136.01,angry
+Forgot How to Love,Alle Farben;Moss Kena,edm,0.557,0.87,0.579,123.892,happy
+Ved,Ritviz,edm,0.486,0.762,0.763,107.043,angry
+I'll Wait,Kygo;Sasha Alex Sloan,edm,0.351,0.651,0.611,122.983,angry
+Satisfaction,David Guetta;Benny Benassi,edm,0.31,0.935,0.752,126.022,angry
+Beach House,The Chainsmokers,edm,0.533,0.838,0.4,179.945,happy
+Stargazing,Kygo;Justin Jesso,edm,0.419,0.497,0.677,99.137,sad
+Scene Kya Hai,Nucleya;DIVINE,edm,0.689,0.899,0.606,141.923,happy
+Ruh,somanshu;Nikhita Gandhi;Yashraj;Lost Stories,edm,0.0787,0.872,0.56,152.028,angry
+Rocketeer,Far East Movement;Ryan Tedder;Ruff Loaderz,edm,0.357,0.845,0.664,96.005,angry
+I Want You To Know,Zedd;Selena Gomez,edm,0.366,0.846,0.58,129.998,angry
+Follow,Martin Garrix;Zedd,edm,0.201,0.78,0.588,127.085,angry
+Without You (feat. Usher),David Guetta;Usher,edm,0.402,0.614,0.608,127.884,angry
+Lifetime (with Ty Dolla $ign & 070 Shake),Swedish House Mafia;Ty Dolla $ign;070 Shake,edm,0.155,0.718,0.584,99.841,angry
+"Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",Diplo;French Montana;Lil Pump;Zhavia,edm,0.486,0.845,0.618,171.921,angry
+Invincible,Deaf Kev,edm,0.269,0.97,0.56,100.09,angry
+Savage,Tiësto;Deorro,edm,0.261,0.7,0.694,127.965,angry
+Stay the Night,Sigala;Talia Mar,edm,0.415,0.936,0.636,124.034,angry
+"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental;Jess Glynne;Macklemore;Dan Caplen,edm,0.55,0.809,0.653,92.213,happy
+Down,Arc North;Badjack;Cour,edm,0.666,0.692,0.74,126.021,happy
+"Kapoor & Sons Mashup (By DJ Chetas) (From ""Kapoor & Sons (Since 1921)"")",Nucleya;Benny Dayal;Amaal Mallik;Tanishk Bagchi;Badshah;Arko;Armaan Malik;Arijit Singh;Asees Kaur;Fazilpuria;Sukriti Kakar;Neha Kakkar,edm,0.521,0.951,0.654,130.094,happy
+Let Me Love You - Marshmello Remix,DJ Snake;Marshmello;Justin Bieber,edm,0.248,0.814,0.66,120.005,angry
+Jadi Buti (feat. Rashmeet Kaur),Major Lazer;Nucleya;Rashmeet Kaur;Diplo,edm,0.912,0.816,0.902,104.003,happy
+Sun Is Shining,Axwell /\ Ingrosso;Axwell;Sebastian Ingrosso,edm,0.383,0.757,0.467,131.993,angry
+Melody,Sigala,edm,0.525,0.91,0.63,123.017,happy
+Too Late,Cash Cash;Wiz Khalifa;Lukas Graham,edm,0.601,0.74,0.552,97.049,happy
+Stay Young,Mike Perry;Tessa,edm,0.556,0.711,0.576,89.988,happy
+Summer Feeling,Matoma;Jonah Kagen,edm,0.539,0.702,0.651,124.924,happy
+He's a Pirate - Hans Zimmer vs Dimitri Vegas & Like Mike / Bonus Track,Dimitri Vegas & Like Mike,edm,0.338,0.918,0.631,112.489,angry
+Summer High,AP Dhillon,hip-hop,0.952,0.541,0.86,114.984,happy
 No Love,Shubh,hip-hop,0.722,0.487,0.768,137.034,chill
 Baller,Shubh;Ikky,hip-hop,0.674,0.702,0.711,180.219,happy
+Insane,AP Dhillon;Shinda Kahlon;Gurinder Gill;Gminxr,hip-hop,0.304,0.572,0.796,98.967,angry
+STAY (with Justin Bieber),The Kid LAROI;Justin Bieber,hip-hop,0.478,0.764,0.591,169.928,angry
+Daku,Chani Nattan;Inderpal Moga,hip-hop,0.495,0.558,0.847,98.062,angry
 Dil Nu,AP Dhillon;Shinda Kahlon,hip-hop,0.925,0.655,0.811,117.979,happy
-Elevated,Shubh,hip-hop,0.605,0.533,0.828,93.021,chill
+All Night (Live),AP Dhillon;Shinda Kahlon,hip-hop,0.0383,0.456,0.723,101.139,sad
+Elevated,Shubh,hip-hop,0.605,0.533,0.828,93.021,happy
+Wo Noor,AP Dhillon,hip-hop,0.555,0.554,0.761,92.52,happy
+Excuses,AP Dhillon;Gurinder Gill;Intense,hip-hop,0.494,0.717,0.837,94.984,angry
+We Rollin,Shubh,hip-hop,0.275,0.504,0.82,85.016,angry
 OOPS,King,hip-hop,0.828,0.673,0.918,99.952,happy
+Cold Hours,aleemrk;Umair,hip-hop,0.493,0.613,0.737,170.14,angry
+Ektarfa,King,hip-hop,0.364,0.472,0.748,149.97,sad
+Brown Munde,AP Dhillon;Gminxr;Gurinder Gill;Shinda Kahlon,hip-hop,0.417,0.611,0.854,100.024,angry
 Sakhiyaan,Maninder Buttar,hip-hop,0.359,0.674,0.706,83.001,angry
+Kina Chir,The PropheC,hip-hop,0.365,0.431,0.622,117.919,sad
+TERE TE,AP Dhillon;Gurinder Gill,hip-hop,0.299,0.488,0.692,171.9,sad
+So High,Sidhu Moose Wala,hip-hop,0.484,0.763,0.538,180.002,angry
 Khaab,Akhil,hip-hop,0.222,0.661,0.662,80.009,angry
 Tu Aake Dekhle,King,hip-hop,0.192,0.84,0.77,96.012,angry
 The Last Ride,Sidhu Moose Wala,hip-hop,0.638,0.647,0.792,89.029,happy
 Jugnu,Badshah;Nikhita Gandhi,hip-hop,0.325,0.803,0.716,124.961,angry
+Levels,Sidhu Moose Wala;Sunny Malton;The Kidd,hip-hop,0.577,0.728,0.592,113.17,happy
 0 to 100,Sidhu Moose Wala,hip-hop,0.679,0.675,0.742,145.989,happy
 DESIRES,AP Dhillon;Gurinder Gill,hip-hop,0.39,0.387,0.863,100.013,sad
+295,Sidhu Moose Wala,hip-hop,0.432,0.794,0.557,91.366,angry
 Sheesha,Karan Aujla,hip-hop,0.399,0.672,0.708,93.886,angry
+"Duniyaa (From ""Luka Chuppi"")",Akhil;Dhvani Bhanushali;Abhijit Vaghani;Bob,hip-hop,0.524,0.658,0.435,77.17,happy
+SPACESHIP,AP Dhillon;Shinda Kahlon;Gminxr,hip-hop,0.549,0.683,0.69,160.088,happy
+Chidiya,Vilen,hip-hop,0.414,0.494,0.486,179.975,sad
+Everybody Hurts,Sidhu Moose Wala,hip-hop,0.575,0.599,0.738,120.052,happy
+Saibo,Sachin-Jigar;Shreya Ghoshal;Tochi Raina,hip-hop,0.545,0.429,0.619,90.058,chill
 Never Fold (feat. Sunny Malton),Sidhu Moose Wala;Sunny Malton,hip-hop,0.797,0.786,0.814,93.025,happy
 Vikram - Title Track,Anirudh Ravichander,hip-hop,0.145,0.842,0.638,169.901,angry
+Rolex Theme - Background Score,Anirudh Ravichander,hip-hop,0.442,0.925,0.61,101.992,angry
+"Bae (From ""Don"")",Anirudh Ravichander;Adithya RK,hip-hop,0.407,0.663,0.697,96.968,angry
+"Manavaalan Thug - From ""Thallumaala""",Dabzee;SA,hip-hop,0.478,0.583,0.809,96.049,angry
+Lokiverse - Background Score,Anirudh Ravichander,hip-hop,0.516,0.86,0.64,96.996,happy
 "Dippam Dappam (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander;Anthony Daasan,hip-hop,0.772,0.717,0.827,123.987,happy
+Once Upon a Time,Anirudh Ravichander,hip-hop,0.429,0.879,0.646,123.849,angry
 "Private Party (From ""Don"")",Anirudh Ravichander;Jonita Gandhi,hip-hop,0.896,0.886,0.862,124.031,happy
 "Pathala Pathala (From ""Vikram"")",Anirudh Ravichander;Kamal Haasan,hip-hop,0.936,0.779,0.826,130.091,happy
 "Arabic Kuthu - Halamithi Habibo (From ""Beast"")",Anirudh Ravichander;Jonita Gandhi,hip-hop,0.625,0.757,0.608,124.078,happy
+"Life of Pazham (From ""Thiruchitrambalam"")",Anirudh Ravichander,hip-hop,0.597,0.665,0.503,174.974,happy
+"Jalabulajangu (From ""Don"")",Anirudh Ravichander;Rokesh,hip-hop,0.457,0.823,0.635,151.047,angry
 Bimbilikki Pilapi,Anirudh Ravichander;Ramya Behra;Sahithi Chaganti,hip-hop,0.823,0.947,0.645,156.828,happy
-Nee Paartha Vizhigal - The Touch of Love,Anirudh Ravichander;Vijay Yesudas;Shweta Mohan,hip-hop,0.644,0.596,0.665,110.055,chill
+Nee Paartha Vizhigal - The Touch of Love,Anirudh Ravichander;Vijay Yesudas;Shweta Mohan,hip-hop,0.644,0.596,0.665,110.055,happy
 INDUSTRY BABY (feat. Jack Harlow),Lil Nas X;Jack Harlow,hip-hop,0.894,0.704,0.736,149.995,happy
+THATS WHAT I WANT,Lil Nas X,hip-hop,0.546,0.846,0.737,87.981,happy
 Ma Belle,AP Dhillon;Amari,hip-hop,0.244,0.314,0.908,97.011,sad
 Same Beef,Bohemia;Sidhu Moose Wala,hip-hop,0.379,0.854,0.779,91.992,angry
+Toxic,AP Dhillon;Intense,hip-hop,0.577,0.737,0.802,116.955,happy
+Maan Meri Jaan,King,hip-hop,0.396,0.505,0.698,95.868,angry
 Desi Kalakaar,Yo Yo Honey Singh,hip-hop,0.766,0.67,0.751,156.062,happy
 Saada Pyaar,AP Dhillon;Gurinder Gill;Money Musik,hip-hop,0.164,0.655,0.743,91.004,angry
-BILLIE EILISH.,Armani White,hip-hop,0.765,0.509,0.9,100.007,chill
+BILLIE EILISH.,Armani White,hip-hop,0.765,0.509,0.9,100.007,happy
 Amplifier,Imran Khan,hip-hop,0.618,0.714,0.727,164.003,happy
 Hills,AP Dhillon,hip-hop,0.182,0.331,0.779,96.012,sad
+3:59 AM,DIVINE,hip-hop,0.237,0.588,0.669,97.026,angry
 Love Dose,Yo Yo Honey Singh,hip-hop,0.662,0.768,0.843,139.998,happy
+Aaya Na Tu,Arjun Kanungo;Momina Mustehsan,hip-hop,0.368,0.539,0.665,110.101,angry
 Offshore,Shubh,hip-hop,0.653,0.346,0.801,159.986,chill
+Bewafa,Imran Khan,hip-hop,0.0739,0.563,0.704,94.037,angry
+Blue Eyes,Yo Yo Honey Singh,hip-hop,0.533,0.51,0.77,188.067,happy
+Love Sick (feat. AR Paisley),Sidhu Moose Wala;AR Paisley,hip-hop,0.548,0.543,0.824,124.018,happy
 Final Thoughts,AP Dhillon;Shinda Kahlon;Gminxr,hip-hop,0.061,0.614,0.691,77.489,angry
-Schedule,Tegi Pannu;Manni Sandhu,hip-hop,0.787,0.581,0.826,92.434,chill
+Gangsta,Karan Aujla;YG,hip-hop,0.513,0.687,0.791,130.154,happy
+Schedule,Tegi Pannu;Manni Sandhu,hip-hop,0.787,0.581,0.826,92.434,happy
 Nira Ishq,Guri,hip-hop,0.696,0.609,0.703,89.929,happy
+Ik Tera,Maninder Buttar,hip-hop,0.49,0.712,0.826,93.029,angry
+"Nain Ta Heere (From ""Jugjugg Jeeyo"")",Guru Randhawa;Asees Kaur,hip-hop,0.509,0.575,0.69,87.967,happy
+Shana Bann,MC STAN,hip-hop,0.192,0.514,0.674,99.901,angry
+Basti Ka Hasti,MC STAN,hip-hop,0.421,0.624,0.726,139.594,angry
 East Side Flow,Sidhu Moose Wala,hip-hop,0.786,0.867,0.767,151.965,happy
 Kannazhaga - The Kiss of Love,Anirudh Ravichander;Dhanush;Shruti Haasan,hip-hop,0.61,0.496,0.574,109.935,chill
+SYL,Sidhu Moose Wala,hip-hop,0.594,0.703,0.628,99.783,happy
 Kaam 25 - Sacred Games,DIVINE,hip-hop,0.686,0.948,0.484,125.645,happy
 Outlaw,Sidhu Moose Wala;Byg Bird,hip-hop,0.135,0.672,0.727,94.006,angry
+US (feat. Raja Kumari),Sidhu Moose Wala;Raja Kumari,hip-hop,0.598,0.601,0.524,72.048,happy
 Sakhiyan2.0,Maninder Buttar;Zahrah S Khan;Tanishk Bagchi,hip-hop,0.398,0.715,0.817,100.002,angry
 These Days (feat. Bohemia),Sidhu Moose Wala;Bohemia,hip-hop,0.694,0.748,0.73,155.861,happy
 Ishqam,Mika Singh;Ali Quli Mirza,hip-hop,0.609,0.839,0.735,100.017,happy
+Untouchable,Tegi Pannu;Manni Sandhu,hip-hop,0.519,0.603,0.658,146.864,happy
+Pablo Sandhanam - Background Score,Anirudh Ravichander,hip-hop,0.395,0.579,0.843,141.73,angry
 Tum Hi Ho Bandhu,Neeraj Shridhar;Kavita Seth,hip-hop,0.891,0.89,0.715,134.994,happy
+"Naan Pizhai (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander;Ravi G;Shashaa Tirupati,hip-hop,0.455,0.488,0.401,149.951,sad
 "Nadiyon Paar (Let the Music Play Again) (From ""Roohi"")",Sachin-Jigar;Rashmeet Kaur;Shamur;IP Singh,hip-hop,0.697,0.846,0.875,114.981,happy
 "Beast Mode (From ""Beast"")",Anirudh Ravichander,hip-hop,0.371,0.847,0.584,170.983,angry
+Adi Penne,Stephen Zechariah;Srinisha Jayaseelan,hip-hop,0.423,0.648,0.591,107.978,angry
+Kanave Kanave,Anirudh Ravichander,hip-hop,0.477,0.513,0.47,95.015,angry
 Idhazhin Oram - The Innocence of Love,Anirudh Ravichander;Ajesh,hip-hop,0.302,0.783,0.65,109.959,angry
+Po Nee Po - The Pain of Love,Anirudh Ravichander;Mohit Chauhan,hip-hop,0.407,0.619,0.549,90.034,angry
+One Dance,Drake;Wizkid;Kyla,hip-hop,0.427,0.605,0.788,103.94,angry
+It's You,Ali Gatie,hip-hop,0.397,0.463,0.732,95.971,sad
 Paris Ka Trip,Yo Yo Honey Singh;Millind Gaba;Asli GOLD,hip-hop,0.768,0.723,0.814,74.981,happy
+Gunehgar,DIVINE,hip-hop,0.541,0.906,0.643,94.259,happy
+Ek Raat,Vilen,hip-hop,0.302,0.534,0.645,90.024,angry
+Aaja We Mahiya,Imran Khan,hip-hop,0.378,0.594,0.639,80.034,angry
+Moon Rise,Guru Randhawa;Sanjoy,hip-hop,0.597,0.713,0.756,92.039,happy
+Jaadugar,Paradox,hip-hop,0.186,0.566,0.674,95.045,angry
 Ilzaam (From the Album 'Industry'),Arjun Kanungo;King,hip-hop,0.301,0.66,0.697,93.011,angry
-Ykwim,Karan Aujla;KR$NA;Mehar Vaani,hip-hop,0.655,0.575,0.837,105.015,chill
+Gustakhiyan,The Landers,hip-hop,0.565,0.589,0.824,88.027,happy
+Pablo,King,hip-hop,0.503,0.73,0.731,79.999,happy
+Sift,Bhalwaan;Signature By SB,hip-hop,0.448,0.745,0.767,97.076,angry
+Ykwim,Karan Aujla;KR$NA;Mehar Vaani,hip-hop,0.655,0.575,0.837,105.015,happy
+Arrogant,AP Dhillon;Shinda Kahlon;Gminxr,hip-hop,0.405,0.739,0.751,95.003,angry
 No Competition,Jass Manak;DIVINE,hip-hop,0.621,0.635,0.868,90.019,happy
+GRIND,Emiway Bantai,hip-hop,0.57,0.735,0.848,98.973,happy
 Sarkar,Jaura Phagwara,hip-hop,0.311,0.399,0.69,89.975,sad
+Paani Paani,Badshah;Aastha Gill,hip-hop,0.427,0.579,0.886,105.028,angry
 Satisfya,Imran Khan,hip-hop,0.803,0.652,0.726,163.879,happy
+Bom Diggy Diggy,Zack Knight;Jasmin Walia,hip-hop,0.498,0.827,0.782,104.032,angry
+Teri Khair Mangdi,Bilal Saeed,hip-hop,0.31,0.58,0.718,97.979,angry
 Kyun Dhunde,Vilen,hip-hop,0.771,0.346,0.711,91.993,chill
 Invincible (feat. Stefflon Don),Sidhu Moose Wala;Stefflon Don,hip-hop,0.307,0.672,0.774,107.956,angry
-MONTERO (Call Me By Your Name),Lil Nas X,hip-hop,0.71,0.503,0.593,178.781,chill
+Celebrity Killer (feat. Tion Wayne),Sidhu Moose Wala;Tion Wayne,hip-hop,0.592,0.72,0.714,143.877,happy
+MONTERO (Call Me By Your Name),Lil Nas X,hip-hop,0.71,0.503,0.593,178.781,happy
+MAJHE AALE,AP Dhillon;Shinda Kahlon;Gurinder Gill;Gminxr,hip-hop,0.287,0.496,0.871,93.033,sad
 Bitch I'm Back,Sidhu Moose Wala,hip-hop,0.789,0.772,0.71,149.829,happy
+Freestyle,Jordan Sandhu,hip-hop,0.535,0.812,0.733,167.995,happy
 "Two Two Two (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander;Sunidhi Chauhan;Sanjana Kalmanje,hip-hop,0.648,0.69,0.821,140.171,happy
+Proper Patola,Badshah;Diljit Dosanjh;Aastha Gill,hip-hop,0.49,0.824,0.77,172.006,angry
 Emotionally Scarred,Lil Baby,hip-hop,0.266,0.641,0.585,88.284,angry
 In A Minute,Lil Baby,hip-hop,0.145,0.605,0.643,84.216,angry
+Tic Tac,Future;Lil Uzi Vert,hip-hop,0.479,0.566,0.942,132.858,angry
+"Porkanda Singam (EDM Version) [From ""Vikram""]",Anirudh Ravichander,hip-hop,0.422,0.755,0.685,158.932,angry
 Drip Too Hard,Lil Baby;Gunna,hip-hop,0.39,0.662,0.897,112.509,angry
 Sandhanam Theme - Background Score,Anirudh Ravichander,hip-hop,0.0805,0.84,0.619,105.987,angry
 Oh Penne,Anirudh Ravichander;Vishal Dadlani,hip-hop,0.637,0.65,0.483,94.988,happy
 Signed to God,Sidhu Moose Wala,hip-hop,0.7,0.67,0.833,92.991,happy
 All In,Lil Baby,hip-hop,0.294,0.649,0.836,95.084,angry
+Porkanda Singam,Anirudh Ravichander;Ravi G,hip-hop,0.543,0.591,0.527,119.932,happy
 Sakkarakatti,Hiphop Tamizha,hip-hop,0.747,0.782,0.607,64.935,happy
 Wasted,Anirudh Ravichander,hip-hop,0.851,0.827,0.651,114.918,happy
 Real As It Gets,Lil Baby;EST Gee,hip-hop,0.196,0.705,0.779,140.005,angry
+Neeyum Naanum Anbe,Hiphop Tamizha;Raghu Dixit;Sathyaprakash D.;Jithin Raj,hip-hop,0.417,0.826,0.467,160.025,angry
 Unforgettable,French Montana;Swae Lee,hip-hop,0.733,0.769,0.726,97.985,happy
 Aathma Raama,Brodha V,hip-hop,0.711,0.758,0.78,92.016,happy
+Nakhre,Zack Knight,hip-hop,0.416,0.632,0.524,169.989,angry
 Fuck Em All,Sidhu Moose Wala;Sunny Malton,hip-hop,0.345,0.726,0.818,92.013,angry
+Dirty Little Secret,Zack Knight;Nora Fatehi,hip-hop,0.485,0.572,0.868,96.985,angry
 Satya,DIVINE,hip-hop,0.322,0.804,0.598,139.737,angry
 Without Me,Eminem,hip-hop,0.662,0.669,0.908,112.238,happy
+Baari,Bilal Saeed;Momina Mustehsan,hip-hop,0.461,0.539,0.658,80.088,angry
+Rule Over (Putt Jattan Dey),The Landers,hip-hop,0.549,0.549,0.681,106.652,happy
+Dejalo,King,hip-hop,0.563,0.444,0.768,92.078,chill
+Pata Chalgea,Imran Khan,hip-hop,0.423,0.69,0.771,165.951,angry
 Why This Kolaveri Di? - The Soup of Love,Anirudh Ravichander;Dhanush,hip-hop,0.894,0.785,0.82,140.013,happy
-Priceless,Bhalwaan;Signature By SB,hip-hop,0.634,0.572,0.665,146.9,chill
+Priceless,Bhalwaan;Signature By SB,hip-hop,0.634,0.572,0.665,146.9,happy
+Bachalo,Akhil,hip-hop,0.516,0.538,0.756,92.023,happy
 "Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",Badshah;Neha Kakkar;Varun Dhawan,hip-hop,0.884,0.87,0.788,109.974,happy
 Ghana Kasoota (feat. Surbhi Jyoti),Raftaar;Rashmeet Kaur;Surbhi Jyoti,hip-hop,0.373,0.781,0.877,102.994,angry
+Bitch,MC STAN,hip-hop,0.517,0.674,0.754,116.96,happy
+Oouuu,Karan Aujla,hip-hop,0.469,0.693,0.779,150.019,angry
+Snake,MC STAN,hip-hop,0.477,0.625,0.707,123.028,angry
+"Oo Bolega Ya Oo Oo Bolega (From ""Pushpa The Rise Part - 01"")",Kanika Kapoor;Devi Sri Prasad,hip-hop,0.478,0.763,0.922,128.032,angry
+Youngest In Charge,Sidhu Moose Wala;Sunny Malton,hip-hop,0.519,0.689,0.595,176.069,happy
+GOAT,Sidhu Moose Wala,hip-hop,0.47,0.728,0.724,172.059,angry
 Sábado Rebelde,Daddy Yankee;Plan B,hip-hop,0.858,0.905,0.771,163.978,happy
+X ÚLTIMA VEZ,Daddy Yankee;Bad Bunny,hip-hop,0.573,0.855,0.812,90.04,happy
+Vuelve,Daddy Yankee;Bad Bunny,hip-hop,0.199,0.531,0.734,130.025,angry
 Bloodlust (feat. Mr. Capone-E),Sidhu Moose Wala;Mr. Capone-E,hip-hop,0.348,0.667,0.552,174.889,angry
+BOMBÓN,Daddy Yankee;El Alfa;Lil Jon,hip-hop,0.571,0.789,0.843,125.071,happy
+"So Baby (From ""Doctor"")",Anirudh Ravichander;Ananthakrrishnan,hip-hop,0.582,0.843,0.607,133.131,happy
+Definitivamente,Daddy Yankee;Sech,hip-hop,0.431,0.764,0.812,100.082,angry
 "Chellamma (From ""Doctor"")",Anirudh Ravichander;Jonita Gandhi,hip-hop,0.743,0.679,0.498,99.702,happy
 Si Supieras,Daddy Yankee;Wisin & Yandel,hip-hop,0.623,0.894,0.691,184.018,happy
 RUMBATÓN,Daddy Yankee,hip-hop,0.922,0.909,0.685,95.004,happy
 Limbo,Daddy Yankee,hip-hop,0.922,0.878,0.805,124.994,happy
 SÚBELE EL VOLUMEN,Daddy Yankee;Myke Towers;Jhayco,hip-hop,0.614,0.623,0.83,101.036,happy
+Kadhal Oru Aagayam,Hiphop Tamizha;Teejay;Al Rufian,hip-hop,0.399,0.585,0.488,143.96,angry
 Shaky Shaky - Remix,Daddy Yankee;Nicky Jam;Plan B;Rome & Urba,hip-hop,0.828,0.786,0.813,175.908,happy
 Pasarela,Daddy Yankee,hip-hop,0.737,0.907,0.839,121.048,happy
 Nada Ha Cambiao’,Daddy Yankee;Divino,hip-hop,0.71,0.906,0.735,92.023,happy
 Dura,Daddy Yankee,hip-hop,0.838,0.84,0.783,95.002,happy
+Mask Off,Future,hip-hop,0.281,0.434,0.833,150.062,sad
 Choo Lo,The Local Train,hip-hop,0.351,0.695,0.512,145.957,angry
 Jimmy Cooks (feat. 21 Savage),Drake;21 Savage,hip-hop,0.366,0.673,0.529,165.921,angry
+Dheere Dheere,Yo Yo Honey Singh,hip-hop,0.55,0.58,0.73,167.915,happy
+Astronaut In The Ocean,Masked Wolf,hip-hop,0.472,0.695,0.778,149.996,angry
 Takeover,AP Dhillon;Gurinder Gill;Money Musik;AR Paisley,hip-hop,0.236,0.752,0.788,140.032,angry
+Na Ja Tu,King,hip-hop,0.167,0.427,0.815,95.172,sad
+Droptop,AP Dhillon;Gurinder Gill;Gminxr,hip-hop,0.309,0.479,0.899,85.005,sad
 Sinner,King,hip-hop,0.656,0.694,0.731,62.995,happy
+Champagne Talk,King,hip-hop,0.473,0.68,0.677,189.954,angry
 "Dollar - From ""Dakuaan Da Munda""",Sidhu Moose Wala;Byg Byrd,hip-hop,0.694,0.829,0.612,94.961,happy
 The Real Slim Shady,Eminem,hip-hop,0.76,0.661,0.949,104.504,happy
 IICONIC,King,hip-hop,0.164,0.751,0.549,138.504,angry
+"Hathyar - From ""Sikander 2""",Sidhu Moose Wala;The Kidd,hip-hop,0.508,0.768,0.537,171.997,happy
 Con Calma,Daddy Yankee;Snow,hip-hop,0.656,0.86,0.737,93.989,happy
 Private Party,Anirudh Ravichander;Jonita Gandhi,hip-hop,0.898,0.886,0.861,124.031,happy
 Lovumba,Daddy Yankee,hip-hop,0.939,0.939,0.73,121.001,happy
@@ -512,17 +1399,231 @@ Shaky Shaky,Daddy Yankee,hip-hop,0.873,0.626,0.899,88.007,happy
 Hula Hoop,Daddy Yankee,hip-hop,0.951,0.818,0.799,175.998,happy
 La Noche De Los Dos,Daddy Yankee;Natalia Jiménez,hip-hop,0.748,0.79,0.762,129.988,happy
 Dura - Remix,Daddy Yankee;Natti Natasha;Becky G;Bad Bunny,hip-hop,0.853,0.803,0.772,94.98,happy
+Sígueme Y Te Sigo,Daddy Yankee,hip-hop,0.662,0.878,0.736,100.024,happy
+God's Plan,Drake,hip-hop,0.357,0.449,0.754,77.169,sad
+Old Town Road,Lil Nas X,hip-hop,0.507,0.53,0.907,135.998,happy
+Brown Rang,Yo Yo Honey Singh,hip-hop,0.72,0.902,0.804,155.98,happy
+Machayenge 4,KR$NA,hip-hop,0.685,0.8,0.833,124.982,happy
+Majhail,AP Dhillon;Gurinder Gill;Manni Sandhu,hip-hop,0.889,0.844,0.811,93.48,happy
+Jee Le Zaraa,Vishal Dadlani,hip-hop,0.436,0.698,0.584,79.993,angry
+STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,hip-hop,0.308,0.715,0.637,141.872,angry
+That That (prod. & feat. SUGA of BTS),PSY;SUGA,hip-hop,0.906,0.962,0.905,129.969,happy
+No Cap,KR$NA,hip-hop,0.82,0.782,0.888,118.017,happy
+Fully Loaded,Tegi Pannu;Manni Sandhu,hip-hop,0.862,0.607,0.783,92.109,happy
+12 Bande,Varinder Brar,hip-hop,0.838,0.693,0.706,141.794,happy
+Broke Is A Joke,MC STAN,hip-hop,0.4,0.648,0.74,122.03,angry
+Broken Dreams,King,hip-hop,0.183,0.599,0.859,98.008,angry
+Death Route,Sidhu Moose Wala,hip-hop,0.534,0.633,0.699,159.955,happy
+Lat Lag Gayee,Benny Dayal;Shalmali Kholgade;Pritam,hip-hop,0.896,0.892,0.79,131.991,happy
+Lethal,Rav Aulakh,hip-hop,0.816,0.768,0.781,143.156,happy
+Jaat Da Muqabala,Sidhu Moose Wala,hip-hop,0.749,0.934,0.716,99.983,happy
+Dawood,Sidhu Moose Wala,hip-hop,0.47,0.834,0.664,86.025,angry
+Me & Me,King,hip-hop,0.547,0.491,0.82,120.059,chill
+Into You,Tegi Pannu;Manni Sandhu,hip-hop,0.713,0.711,0.72,148.223,happy
+Enna Solla - The New Life of Tamizh,Anirudh Ravichander;Shweta Mohan,hip-hop,0.657,0.515,0.621,109.891,happy
+Apna Time Aayega,Ranveer Singh;Dub Sharma;DIVINE,hip-hop,0.513,0.618,0.766,95.054,happy
+Till I Collapse,Eminem;Nate Dogg,hip-hop,0.1,0.847,0.548,171.447,angry
+Aankhein,Vilen,hip-hop,0.469,0.363,0.416,140.061,sad
+Pind Da Riwaaz,Wazir Patar;Azaad,hip-hop,0.656,0.767,0.904,87.989,happy
+Aasman Ko Chukar,Daler Mehndi;Hrishikesh;Neuman;FRANCO;Shazneen Arethna;Samantha;Sunayana,hip-hop,0.127,0.438,0.536,144.626,sad
+Game Over,Karan Aujla,hip-hop,0.553,0.573,0.846,134.144,happy
+Satisfy,Sidhu Moose Wala;Shooter Kahlon,hip-hop,0.748,0.8,0.683,172.024,happy
+Built Different,Sidhu Moose Wala,hip-hop,0.784,0.706,0.739,94.965,happy
+Pogiren,Mugen Rao;Prashan Sean,hip-hop,0.215,0.774,0.455,142.032,angry
+She Move It Like,Badshah,hip-hop,0.844,0.477,0.832,101.997,chill
+Legend,Sidhu Moose Wala,hip-hop,0.793,0.845,0.754,86.978,happy
+"Enakenna Yaarum Illaye (From ""Aakko"")",Anirudh Ravichander,hip-hop,0.781,0.818,0.571,160.036,happy
+"Jailaan (From ""Moosa Jatt"")",Sidhu Moose Wala,hip-hop,0.881,0.791,0.593,171.935,happy
+Po Indru Neeyaga,Anirudh Ravichander;Dhanush,hip-hop,0.459,0.595,0.489,144.859,angry
+Andha Kanna Paathaakaa,Anirudh Ravichander;Yuvan Shankar Raja,hip-hop,0.625,0.86,0.747,90.445,happy
+Brown Shortie (feat. Sonam Bajwa),Sidhu Moose Wala;Sonam Bajwa,hip-hop,0.852,0.862,0.794,90.049,happy
+Deva Shree Ganesha,Ajay-Atul;Ajay Gogavale,hip-hop,0.475,0.96,0.34,150.04,angry
+Burberry,Sidhu Moose Wala,hip-hop,0.624,0.738,0.681,151.026,happy
+Malwa Block,Sidhu Moose Wala,hip-hop,0.594,0.786,0.494,81.175,happy
+Kannuladha - The Kiss of Love,Anirudh Ravichander;Dhanush;Shruti Haasan,hip-hop,0.583,0.548,0.592,109.946,happy
+Racks and Rounds (feat. Sikander Kahlon),Sidhu Moose Wala;Sikander Kahlon,hip-hop,0.837,0.836,0.657,88.014,happy
+Yaanji,Anirudh Ravichander;Shakthisree Gopalan,hip-hop,0.487,0.624,0.692,132.896,angry
+Dippam Dappam,Anirudh Ravichander;Anthony Daasan,hip-hop,0.748,0.719,0.828,124.006,happy
+Nesamaguren,Stephen Zechariah;Saindhavi,hip-hop,0.264,0.419,0.413,149.658,sad
+Stan,Eminem;Dido,hip-hop,0.507,0.768,0.78,80.063,happy
+Goosebumps - Remix,Travis Scott;HVME,hip-hop,0.808,0.593,0.841,124.917,happy
+Sohne Lagde,Sidhu Moose Wala;The PropheC,hip-hop,0.327,0.716,0.589,84.384,angry
+Yalgaar,Ajey Nagar (CarryMinati);Wily Frenzy,hip-hop,0.812,0.818,0.726,92.033,happy
+Don't Look,Karan Aujla,hip-hop,0.623,0.889,0.576,175.969,happy
+Notorious,Wazir Patar,hip-hop,0.525,0.615,0.829,83.93,happy
+Prada,Jass Manak,hip-hop,0.502,0.65,0.721,156.008,happy
+Bt Ho Gayi,Paradox,hip-hop,0.771,0.703,0.805,93.97,happy
+Laal Bindi,Akull,hip-hop,0.283,0.599,0.746,141.95,angry
+Dhakka,Sidhu Moose Wala;Afsana Khan,hip-hop,0.79,0.727,0.731,176.042,happy
+Naah,Jass Manak,hip-hop,0.441,0.533,0.572,155.69,angry
+Bhula Dena,Mustafa Zahid,hip-hop,0.235,0.508,0.515,131.731,angry
+"Mummy Nu Pasand (From ""Jai Mummy Di"")",Sunanda Sharma;Tanishk Bagchi,hip-hop,0.802,0.969,0.776,94.018,happy
+"Sajna, Say Yes To The Dress",Badshah;Payal Dev,hip-hop,0.889,0.776,0.633,107.636,happy
+Naach Meri Rani,Guru Randhawa;Nikhita Gandhi;Tanishk Bagchi;Nora Fatehi,hip-hop,0.151,0.488,0.676,97.036,sad
+G-Shit (feat. Blockboi Twitch),Sidhu Moose Wala;Blockboi Twitch,hip-hop,0.843,0.761,0.658,165.543,happy
+Pushin P,Gunna;Future;Young Thug,hip-hop,0.488,0.422,0.773,77.502,sad
+Black Effect,Jordan Sandhu;Mehar Vaani;Desi Crew,hip-hop,0.755,0.739,0.676,146.056,happy
+Godzilla (feat. Juice WRLD),Eminem;Juice WRLD,hip-hop,0.829,0.745,0.808,165.995,happy
+Udaarian,Satinder Sartaaj,hip-hop,0.883,0.712,0.659,143.792,happy
+Attitude,Raj Ranjodh,hip-hop,0.367,0.77,0.644,93.989,angry
+Banking on Me,Gunna,hip-hop,0.46,0.308,0.793,135.143,sad
+Gaali Vaaluga,Anirudh Ravichander,hip-hop,0.614,0.81,0.677,110.044,happy
+Ek Din Pyaar,MC STAN,hip-hop,0.689,0.699,0.717,100.147,happy
+Gucci di Sole,Kahlon,hip-hop,0.376,0.87,0.658,90.235,angry
+"Halamithi Habibo (From ""Beast"")",Anirudh Ravichander;Jonita Gandhi,hip-hop,0.671,0.852,0.705,185.964,happy
+you & me,Gunna;Chlöe,hip-hop,0.106,0.535,0.744,132.86,angry
+Regret,Sidhu Moose Wala,hip-hop,0.466,0.636,0.348,73.416,angry
+They Know,Karan Aujla,hip-hop,0.613,0.72,0.753,140.125,happy
+Po Ve Po - The Pain of Love,Anirudh Ravichander;Mohit Chauhan,hip-hop,0.347,0.62,0.568,89.98,angry
+Vaathi Coming,Anirudh Ravichander;Gana Balachandar,hip-hop,0.585,0.952,0.643,164.784,happy
+Best Friend,Young Thug,hip-hop,0.408,0.598,0.959,127.028,angry
+Aroma,Sidhu Moose Wala,hip-hop,0.253,0.524,0.554,141.932,angry
+Senjitaley,Anirudh Ravichander,hip-hop,0.344,0.941,0.655,88.073,angry
+Sirikkadhey,Anirudh Ravichander;Arjun Kanungo;Srinidhi Venkatesh,hip-hop,0.456,0.629,0.632,87.998,angry
+She Don't Give A,King,hip-hop,0.26,0.471,0.557,162.904,sad
+mop,Gunna;Young Thug,hip-hop,0.399,0.575,0.878,144.918,angry
+"Takkunu Takkunu - From ""Mr. Local""",Hiphop Tamizha;Anirudh Ravichander,hip-hop,0.758,0.587,0.811,110.027,happy
+"Vilambara Idaiveli - From ""Imaikkaa Nodigal""",Hiphop Tamizha;Christopher Stanley;Sudarshan Ashok;Srinisha Jayaseelan,hip-hop,0.551,0.818,0.631,108.065,happy
+All The Stars (with SZA),Kendrick Lamar;SZA,hip-hop,0.552,0.633,0.698,96.924,happy
+About Damn Time,Lizzo,hip-hop,0.722,0.743,0.836,108.966,happy
+Roz Roz,The Yellow Diary;Shilpa Rao,hip-hop,0.472,0.446,0.653,100.018,sad
+All Black,Raftaar;Sukh-E Muzical Doctorz,hip-hop,0.652,0.734,0.813,107.967,happy
+Machayenge,Emiway Bantai,hip-hop,0.718,0.628,0.807,104.978,happy
+Who Am I ?,Arivu,hip-hop,0.917,0.746,0.692,135.992,happy
+Chal Bombay,DIVINE,hip-hop,0.512,0.619,0.862,95.036,happy
+Voodoo (with J Balvin & Tainy),Badshah;J Balvin;Tainy,hip-hop,0.503,0.782,0.797,99.999,happy
+Top Boy,AP Dhillon,hip-hop,0.652,0.609,0.804,169.819,happy
+Fate,AP Dhillon;Gurinder Gill;Money Musik;Shinda Kahlon,hip-hop,0.0679,0.761,0.632,90.006,angry
+Hanji Hanji,Amrit Maan;The PropheC,hip-hop,0.53,0.553,0.871,100.042,happy
+Ram Ram,MC SQUARE,hip-hop,0.569,0.655,0.718,100.012,happy
+Naah Lofi,Jass Manak,hip-hop,0.235,0.449,0.41,139.449,sad
+Teeje Week,Jordan Sandhu,hip-hop,0.839,0.77,0.679,161.721,happy
+Bombay to Punjab,Deep Jandu;DIVINE,hip-hop,0.361,0.739,0.584,200.105,angry
+Genda Phool (feat. Payal Dev),Badshah;Payal Dev,hip-hop,0.837,0.538,0.955,116.977,happy
+Suit Suit,Guru Randhawa;Arjun,hip-hop,0.751,0.869,0.767,98.208,happy
+Not Afraid,Eminem,hip-hop,0.668,0.954,0.855,114.635,happy
+Laut Aana,Karan Aujla,hip-hop,0.44,0.664,0.518,83.953,angry
+Famous,Sidhu Moose Wala;Intense,hip-hop,0.544,0.607,0.701,91.747,happy
+Gaddi Vich,Dilpreet Dhillon;Desi Crew;Kaur B,hip-hop,0.59,0.555,0.875,99.997,happy
+Haule Haule,Sukhwinder Singh,hip-hop,0.96,0.776,0.712,89.934,happy
+Mercy,Badshah,hip-hop,0.786,0.767,0.835,89.972,happy
+Chosen,Sidhu Moose Wala;Sunny Malton,hip-hop,0.622,0.809,0.726,79.969,happy
+Dil Mere,The Local Train,hip-hop,0.572,0.473,0.655,92.962,chill
+My Favorite Part,Mac Miller;Ariana Grande,hip-hop,0.717,0.329,0.861,95.016,chill
+Tibeyan Da Putt,Sidhu Moose Wala,hip-hop,0.727,0.56,0.54,116.498,happy
+Ascension,Mac Miller,hip-hop,0.296,0.53,0.763,119.998,angry
+Gulabi,Sachin-Jigar;Priya Saraiya;Jaideep Sahni,hip-hop,0.678,0.663,0.673,124.002,happy
+Cinderella,Mac Miller;Ty Dolla $ign,hip-hop,0.239,0.533,0.408,140.069,angry
+The Prayer,Kid Cudi,hip-hop,0.687,0.76,0.735,140.068,happy
+Oh Oh - The First Love of Tamizh,Anirudh Ravichander;Dhanush;Nikhita Gandhi,hip-hop,0.448,0.587,0.594,85.002,angry
+Udhungada Sangu,Anirudh Ravichander,hip-hop,0.741,0.802,0.449,86.086,happy
+Pathala Pathala,Anirudh Ravichander;Kamal Haasan,hip-hop,0.938,0.78,0.827,130.033,happy
+"Master the Blaster (From ""Master"")",Anirudh Ravichander;Bjorn Surrao,hip-hop,0.899,0.816,0.756,100.04,happy
+ICE,Jack Harlow,hip-hop,0.542,0.632,0.937,96.499,happy
+Yennai Maatrum Kadhale,Anirudh Ravichander;Sid Sriram,hip-hop,0.346,0.766,0.515,112.457,angry
+"Kudi Nu Nachne De (From ""Angrezi Medium"")",Vishal Dadlani;Sachin-Jigar,hip-hop,0.876,0.688,0.834,117.949,happy
+Moosedrilla (feat. DIVINE),Sidhu Moose Wala;DIVINE,hip-hop,0.654,0.829,0.709,137.954,happy
+What's the Use?,Mac Miller,hip-hop,0.561,0.492,0.759,104.973,chill
+Cut the Check,Mac Miller;Chief Keef,hip-hop,0.499,0.685,0.842,99.981,angry
+"God Is Fair, Sexy Nasty",Mac Miller;Kendrick Lamar,hip-hop,0.137,0.409,0.504,133.701,sad
+Polo Jeans,Mac Miller;Earl Sweatshirt,hip-hop,0.581,0.635,0.732,147.025,happy
+Pursuit Of Happiness - Extended Steve Aoki Remix,Kid Cudi;MGMT;Ratatat;Steve Aoki,hip-hop,0.619,0.687,0.721,128.013,happy
+New Faces v2,Mac Miller;Earl Sweatshirt;Da$H,hip-hop,0.244,0.598,0.479,110.456,angry
+Usuraiya Tholaichaen,Stephen Zechariah;Pragathi Guruprasad,hip-hop,0.374,0.585,0.567,99.935,angry
+When in Rome,Mac Miller,hip-hop,0.216,0.7,0.838,124.048,angry
+Hai Mera Dil,Alfaaz,hip-hop,0.904,0.839,0.739,112.062,happy
+Love The Way You Lie,Eminem;Rihanna,hip-hop,0.641,0.925,0.749,86.989,happy
+Betty (Get Money),Yung Gravy,hip-hop,0.58,0.772,0.723,102.004,happy
+Selfmade,Sidhu Moose Wala,hip-hop,0.326,0.666,0.659,91.952,angry
+First Class,Jack Harlow,hip-hop,0.324,0.563,0.905,106.998,angry
+Goat,AP Dhillon;Gurinder Gill;Money Musik,hip-hop,0.135,0.821,0.725,91.821,angry
+RAIN,Jack Harlow,hip-hop,0.131,0.607,0.877,100.995,angry
+Churchill Downs,Jack Harlow;Drake,hip-hop,0.37,0.522,0.71,96.448,angry
+Tera Mera Viah,Jass Manak,hip-hop,0.435,0.719,0.793,83.925,angry
+Money Rain - Phonk Remix,VTORNIK;Phonk,hip-hop,0.746,0.791,0.936,102.02,happy
+Nail Tech,Jack Harlow,hip-hop,0.113,0.581,0.647,150.149,angry
+B & W,Sidhu Moose Wala,hip-hop,0.833,0.749,0.886,131.924,happy
+SUNDAY NIGHT,Jack Harlow,hip-hop,0.772,0.776,0.764,119.92,happy
+Same Guy,Jack Harlow;Adam Levine,hip-hop,0.643,0.586,0.791,93.505,happy
+SUNDOWN,Jack Harlow,hip-hop,0.703,0.754,0.816,92.023,happy
+Maana Ke Hum Yaar Nahin,Sachin-Jigar;Parineeti Chopra;Kausar Munir,hip-hop,0.348,0.367,0.537,90.953,sad
+I WANNA SEE SOME ASS,Jack Harlow;jetsonmade,hip-hop,0.93,0.652,0.907,107.946,happy
+WALK IN THE PARK,Jack Harlow,hip-hop,0.529,0.519,0.956,132.058,happy
+Calaboose,Sidhu Moose Wala,hip-hop,0.56,0.758,0.747,149.776,happy
+Way Out,Jack Harlow;Big Sean,hip-hop,0.907,0.582,0.945,108.025,happy
+2STYLISH,Jack Harlow,hip-hop,0.489,0.618,0.941,99.98,angry
+I'd Do Anything to Make You Smile,Jack Harlow,hip-hop,0.253,0.522,0.832,150.044,angry
+BIG CHILLIN,Jack Harlow,hip-hop,0.585,0.69,0.81,129.239,happy
+SUVs (Black on Black),Jack Harlow;Pooh Shiesty,hip-hop,0.44,0.706,0.813,163.191,angry
+WHATS POPPIN - Remix,Jack Harlow;DaBaby;Tory Lanez;Lil Wayne,hip-hop,0.835,0.723,0.904,145.013,happy
+No Role Modelz,J. Cole,hip-hop,0.494,0.521,0.69,100.028,angry
+Dhundhala,Yashraj;Dropped Out;Talwiinder,hip-hop,0.472,0.45,0.648,99.932,sad
+HIGHEST IN THE ROOM,Travis Scott,hip-hop,0.0605,0.427,0.598,76.469,sad
+Together Forever,Yo Yo Honey Singh,hip-hop,0.67,0.832,0.737,160.022,happy
+Baaki Baatein Peene Baad (Shots) (feat. Badshah),Arjun Kanungo;Badshah,hip-hop,0.455,0.862,0.566,147.974,angry
+Baazi,King,hip-hop,0.68,0.847,0.696,100.017,happy
+Black Matte,Jaura Phagwara;Enzo,hip-hop,0.71,0.805,0.734,171.899,happy
+Gumaan,Young Stunners;Talha Anjum;Talhah Yunus,hip-hop,0.571,0.542,0.716,77.502,happy
+Untitled,KR$NA,hip-hop,0.667,0.811,0.906,130.024,happy
+Tum Saath Rehnaa,King,hip-hop,0.512,0.668,0.443,98.072,happy
+Old Town Road - Remix,Lil Nas X;Billy Ray Cyrus,hip-hop,0.639,0.619,0.878,136.041,happy
+Lil Bunty,KR$NA,hip-hop,0.503,0.826,0.869,110.05,happy
+Zaroorat,Mustafa Zahid,hip-hop,0.238,0.712,0.354,93.345,angry
+Dark Love,Sidhu Moose Wala,hip-hop,0.616,0.672,0.736,80.039,happy
+WAR,AP Dhillon;Gurinder Gill,hip-hop,0.322,0.508,0.674,139.966,angry
+Bambiha Bole,Amrit Maan;Sidhu Moose Wala,hip-hop,0.654,0.618,0.775,93.98,happy
+Sadi Gali,Lehmber Hussainpuri,hip-hop,0.779,0.994,0.726,129.989,happy
+Majhail 1.0,Jordan Sandhu,hip-hop,0.678,0.648,0.778,155.836,happy
+Soni De Nakhre,Wajid;Labh Janjua;Sneha Pant,hip-hop,0.912,0.852,0.829,131.989,happy
+Devil,Sidhu Moose Wala,hip-hop,0.472,0.793,0.57,172.068,angry
+Bapu Tere Karke,Amar Sandhu,hip-hop,0.388,0.654,0.726,149.872,angry
+Amar Theme - Background Score,Anirudh Ravichander,hip-hop,0.0764,0.724,0.679,137.942,angry
+"Vaathi Coming (From ""Master"")",Anirudh Ravichander;Gana Balachandar,hip-hop,0.579,0.947,0.649,164.943,happy
+Ethir Neechal,Anirudh Ravichander;Yo Yo Honey Singh;Hiphop Tamizha,hip-hop,0.537,0.97,0.752,119.97,happy
+Dua Lipa,Jack Harlow,hip-hop,0.405,0.652,0.833,158.022,angry
+Aathi,Anirudh Ravichander;Vishal Dadlani,hip-hop,0.438,0.822,0.59,150.0,angry
+Sin,Sidhu Moose Wala,hip-hop,0.34,0.832,0.769,84.981,angry
+Kalla Sohna Nai,Akhil,hip-hop,0.763,0.499,0.802,92.055,chill
+Jatt Life,Varinder Brar,hip-hop,0.565,0.583,0.613,183.982,happy
+Taal Se Taal - Western Version,Sukhwinder Singh,hip-hop,0.492,0.72,0.771,94.968,angry
+Porkanda Singam EDM Version (Additional Song),Anirudh Ravichander,hip-hop,0.413,0.769,0.687,158.953,angry
+Hoyna Hoyna,Anirudh Ravichander;Inno Genga,hip-hop,0.515,0.727,0.713,97.025,happy
+Adi Penne - Dad's Love,Stephen Zechariah,hip-hop,0.445,0.56,0.581,102.935,angry
+HUMBLE.,Kendrick Lamar,hip-hop,0.421,0.621,0.908,150.011,angry
+Him & I (with Halsey),G-Eazy;Halsey,hip-hop,0.191,0.731,0.589,87.908,angry
+Superman,Eminem;Dina Rae,hip-hop,0.58,0.755,0.802,130.027,happy
+goosebumps,Travis Scott,hip-hop,0.43,0.728,0.841,130.049,angry
+KR L$DA SIGN,Emiway Bantai,hip-hop,0.608,0.716,0.709,139.961,happy
+Feels,AP Dhillon;Gurinder Gill;Gminxr,hip-hop,0.0823,0.698,0.71,91.976,angry
+Thousand Miles,The Kid LAROI,hip-hop,0.203,0.657,0.376,80.565,angry
+WITHOUT YOU,The Kid LAROI,hip-hop,0.467,0.413,0.662,93.005,sad
+Kaise Mujhe,Benny Dayal;Shreya Ghoshal,hip-hop,0.292,0.414,0.59,82.002,sad
+Puff Puff Pass,Sultaan;Gavy Dhaliwal;Bhallwaan;Swapan Sekhon;Gur Chahal,hip-hop,0.56,0.618,0.666,175.94,happy
+"Manike (From ""Thank God"")",Yohani;Jubin Nautiyal;Tanishk Bagchi;Rashmi Virag;Surya Ragunaathan,indie,0.509,0.578,0.551,106.772,happy
 Make You Mine,PUBLIC,indie,0.638,0.799,0.606,103.014,happy
 Rangi Saari,Kavita Seth;Kanishk Seth,indie,0.268,0.685,0.613,139.985,angry
 Chaand Baaliyan,Aditya A,indie,0.886,0.396,0.729,97.281,chill
+Queen of Hearts,Starla Edney,indie,0.462,0.682,0.805,96.009,angry
+Iktara - Lofi Flip,Kavita Seth;Amitabh Bhattacharya;VIBIE,indie,0.179,0.52,0.382,159.894,angry
 Ra Ra Reddy I Am Ready,Lipsika;Aditya Iyengar,indie,0.699,0.903,0.738,78.971,happy
+I Love You So,The Walters,indie,0.466,0.648,0.575,75.977,angry
 Who Am I ?,Dinker kalvala,indie,0.922,0.742,0.478,135.996,happy
+Mayakirriye,Anivee;Anirudh Ravichander,indie,0.548,0.669,0.529,170.059,happy
+Pataas Pilla,Sricharan Pakala;Anirudh Ravichander,indie,0.544,0.545,0.754,150.024,happy
+"Life of Pandu (From ""Thiru"")",Dinker kalvala;Sri Sai Kiran;Anirudh Ravichander,indie,0.546,0.661,0.494,174.861,happy
 Chaand Baaliyan Duet,Aditya A;Ishita Parakh,indie,0.816,0.38,0.671,96.945,chill
+Idhi Chala Baagundhi Le,Prashanth R Vihari;Sid Sriram,indie,0.446,0.74,0.651,99.005,angry
+"Hrudayama (From ""Major - Telugu"")",Sricharan Pakala;Sid Sriram,indie,0.248,0.416,0.551,103.96,sad
 Endhuko Pichi Pichi,Karunya,indie,0.652,0.851,0.863,123.951,happy
+Dekho Dekho,Saicharan;Ritesh G Rao;Chiranjeevi;Salman Khan,indie,0.476,0.968,0.638,175.449,angry
+Heer Ranjha,Bhuvan Bam,indie,0.175,0.547,0.539,97.066,angry
 "Rangarattinam - From ""Natchathiram Nagargiradhu""",Tenma;M.S Krsna;Gana Muthu;Sangita Santhosham;Kavitha Gopi;Karthik Manickavasakam;Arivu,indie,0.84,0.758,0.738,82.482,happy
 Notion,The Rare Occasions,indie,0.312,0.883,0.309,159.488,angry
 Vayyarala,Karunya,indie,0.856,0.649,0.795,119.944,happy
 Those Eyes,New West,indie,0.243,0.351,0.597,119.948,sad
+Jeete Hain Chal,Kavita Seth,indie,0.471,0.6,0.569,92.038,angry
+Deep End,Fousheé,indie,0.535,0.592,0.711,124.749,happy
+Peechay Hutt,Hasan Raheem;Justin Bibis;Talal Qureshi,indie,0.589,0.509,0.894,114.012,happy
 Pumped Up Kicks,Foster The People,indie,0.965,0.71,0.733,127.975,happy
 Ajnabee,Bhuvan Bam,indie,0.345,0.646,0.589,88.999,angry
 "Pyaar Mein Tere (From ""Date with College Senior"")",Ashish Singh Rawat,indie,0.633,0.422,0.7,93.982,chill
@@ -532,46 +1633,72 @@ Del río,Ed Maverick,indie,0.26,0.266,0.857,96.963,sad
 SKR,Zoé,indie,0.207,0.679,0.521,92.992,angry
 Fuentes de Ortiz,Ed Maverick,indie,0.189,0.159,0.83,104.95,sad
 Tek It - Sped Up,Cafuné,indie,0.377,0.95,0.348,168.964,angry
+Black Out Days,Phantogram,indie,0.431,0.795,0.542,92.234,angry
+Safar,Bhuvan Bam,indie,0.411,0.728,0.642,124.983,angry
+Million Little Problems,The Walters,indie,0.476,0.525,0.609,107.981,angry
 Aarzu,Hasan Raheem,indie,0.259,0.383,0.911,114.999,sad
+Black Out Days - Future Islands Remix,Phantogram;Future Islands,indie,0.123,0.483,0.477,170.026,sad
+Sang Hoon Tere,Bhuvan Bam,indie,0.524,0.769,0.624,119.999,happy
+"Shiddat (Female Version) [From ""Shiddat""]",Yohani;Manan Bhardwaj,indie,0.41,0.505,0.463,149.92,angry
 Dub Theri Step,Arunraja Kamaraj,indie,0.124,0.734,0.602,160.23,angry
 Right Wali Payal,Aditya A;Saiwariya,indie,0.809,0.385,0.752,104.043,chill
+Young,Vacations,indie,0.594,0.81,0.498,79.935,happy
+Tek It,Cafuné,indie,0.596,0.913,0.423,146.995,happy
 Maya,Chowraasta,indie,0.25,0.325,0.585,75.032,sad
 Tek It (Sped Up) - Remix,Cafuné,indie,0.377,0.95,0.348,168.964,angry
+Natchathiram Nagargirathu,Tenma;Arivu;Sharanya Srinivas,indie,0.266,0.459,0.535,129.92,sad
 Mohabbat,Arooj Aftab,indie,0.0516,0.231,0.369,165.438,sad
+Chhodo Kalaiya,Aditya A;Saiwariya,indie,0.294,0.459,0.639,95.01,sad
 Spit Of You,Sam Fender,indie,0.381,0.759,0.387,84.744,angry
 Seventeen Going Under,Sam Fender,indie,0.611,0.873,0.477,161.948,happy
 Winter Song,Sam Fender,indie,0.215,0.309,0.314,171.132,sad
 The Dying Light - Winter Edit,Sam Fender,indie,0.234,0.606,0.459,129.142,angry
 Chaand Baaliyan - Girl Let Me Tell You,Aditya A;Mumzy Stranger,indie,0.782,0.801,0.718,99.975,happy
-I Just Love You Baby,Lipsika;L. V. Revanth,indie,0.703,0.572,0.613,164.91,chill
+I Just Love You Baby,Lipsika;L. V. Revanth,indie,0.703,0.572,0.613,164.91,happy
+Yeh Tune Kya Kiya,Aditya A,indie,0.436,0.291,0.732,116.049,sad
 Oh Pilla,Gershom Penugula,indie,0.603,0.445,0.585,139.84,chill
+Prema Swaramulalo,Hriday Gattani;Chinmayi,indie,0.468,0.533,0.493,142.405,angry
 Rangarattinam,Tenma;M.S Krsna;Gana Muthu;Sangita Santhosham;Kavitha Gopi;Karthik Manickavasakam;Arivu,indie,0.84,0.758,0.738,82.482,happy
 Jet Skis On The Moat,Arctic Monkeys,indie,0.395,0.244,0.651,149.759,sad
 My Fair Lady,KALEO,indie,0.207,0.277,0.586,118.627,sad
 Naive,The Kooks,indie,0.712,0.818,0.564,103.342,happy
+Oh Klahoma,Jack Stauber,indie,0.478,0.401,0.697,108.996,sad
+Black Out Days - Future Islands Remix (Slowed),Phantogram;xxtristanxo;Slowed Radio;Future Islands,indie,0.0862,0.402,0.535,142.847,sad
 Heer Ranjha (Lost Stories & somanshu Remix),Bhuvan Bam;Lost Stories;somanshu,indie,0.276,0.674,0.631,104.901,angry
+Hayloft,Mother Mother,indie,0.49,0.922,0.527,95.975,angry
 Paruvame,Tenma;Benny Dayal,indie,0.862,0.821,0.699,129.94,happy
+Судно (Борис Рижий),Molchat Doma,indie,0.467,0.75,0.484,159.992,angry
+Buttercup,Jack Stauber,indie,0.551,0.373,0.705,120.046,chill
 Amar Bhitor O Bahire,Somlata And The Aces;Somlata Acharyya Chowdhury,indie,0.272,0.642,0.583,105.018,angry
 Lingerie,Tedua;Sfera Ebbasta,indie,0.128,0.637,0.644,127.993,angry
 Mellow,Rohit Shakya;Sajjan Raj Vaidya,indie,0.604,0.78,0.695,74.978,happy
+Khoya,Siddhant Bhosle;Sukriti Kakar,indie,0.541,0.397,0.812,97.949,chill
+Kadhalar,Tenma;Sidanth Sundar;Kavitha Gopi,indie,0.124,0.534,0.445,102.647,angry
 L'ultima notte,ARIETE,indie,0.398,0.687,0.618,94.037,angry
 Somebody Desperate - From ''Cyrano'' Soundtrack,The National,indie,0.305,0.311,0.434,82.872,sad
+I Hear a Symphony,Cody Fry,indie,0.407,0.247,0.197,75.787,sad
+Adhura,DAKU,indie,0.543,0.489,0.711,90.526,chill
 Foolish Once Again,Frizzell D'souza,indie,0.167,0.188,0.474,129.797,sad
+Love Is Love,Anoushka Maskey;Cosmic Grooves;Mismatched,indie,0.518,0.654,0.341,98.712,happy
 Vibe Like This,SG Lewis;Ty Dolla $ign;Lucky Daye,indie,0.727,0.836,0.607,99.006,happy
 One More,SG Lewis;Nile Rodgers,indie,0.768,0.784,0.722,119.988,happy
 Let's Dance to Joy Division,The Wombats,indie,0.747,0.838,0.398,116.913,happy
 Backfire at the Disco,The Wombats,indie,0.632,0.817,0.373,161.857,happy
 Somos Instantes,Caloncho,indie,0.664,0.403,0.797,74.997,chill
+Mushroom Chocolate (with 6LACK),QUIN;6LACK,indie,0.533,0.547,0.73,147.921,happy
 Bas Mein,Bhuvan Bam,indie,0.814,0.905,0.73,127.969,happy
+Ailesa,Shakti Sivamani,indie,0.47,0.79,0.628,132.983,angry
 Vadivelu on Acid,Alien8ed,indie,0.236,0.779,0.356,104.992,angry
 2am,Foals,indie,0.861,0.794,0.698,135.981,happy
+The Runner,Foals,indie,0.466,0.953,0.513,104.021,angry
 Wake Me Up,Foals,indie,0.7,0.949,0.651,120.02,happy
 Golden Nights,Sophie and the Giants;Benny Benassi;Dardust;Astrality,indie,0.607,0.649,0.658,125.958,happy
 Mountain at My Gates,Foals,indie,0.617,0.931,0.495,104.05,happy
+Dooba,Udbhav,indie,0.206,0.407,0.746,93.517,sad
 O Maya Chesi,Siddiq Ansari;Marcus. M,indie,0.773,0.69,0.869,130.024,happy
 Ghuroor,Izzchughtai;Abdul Hannan,indie,0.26,0.331,0.392,74.824,sad
 Yaara Tu,Aditya A,indie,0.829,0.261,0.775,103.991,chill
-11 AM Blues,Aditya A,indie,0.657,0.588,0.732,94.981,chill
+11 AM Blues,Aditya A,indie,0.657,0.588,0.732,94.981,happy
 Hata Diye,Dream Note,indie,0.286,0.388,0.578,105.001,sad
 Neram (feat. Dhinesh Nagarajan),Shakti Sivamani;Dhinesh Nagarajan,indie,0.237,0.662,0.484,139.935,angry
 Bann Gayi Zindagi,Bhuvan Bam,indie,0.646,0.719,0.674,97.005,happy
@@ -579,12 +1706,16 @@ Hayloft II,Mother Mother,indie,0.172,0.866,0.326,178.181,angry
 Burning Pile,Mother Mother,indie,0.165,0.755,0.516,140.099,angry
 Could I Love You Any More (feat. Jason Mraz),Reneé Dominique;Jason Mraz,indie,0.197,0.371,0.288,52.572,sad
 Roma (Lrdp Maqueta),Sabino,indie,0.877,0.686,0.732,92.104,happy
+Just the Two of Us (feat. Bill Withers),"Grover Washington, Jr.;Bill Withers",jazz,0.585,0.497,0.749,95.818,chill
+Nenje Nenje,Harish Raghavan;Mahathi,jazz,0.376,0.509,0.669,114.969,angry
 What A Wonderful World,Louis Armstrong,jazz,0.192,0.258,0.399,108.174,sad
-Cool Yule,Louis Armstrong;The Commanders,jazz,0.692,0.505,0.568,149.439,chill
+Cool Yule,Louis Armstrong;The Commanders,jazz,0.692,0.505,0.568,149.439,happy
+Christmas Night In Harlem - Single Version,Louis Armstrong;Benny Carter,jazz,0.595,0.36,0.543,149.431,chill
+Winter Wonderland - Single Version,Louis Armstrong,jazz,0.401,0.215,0.431,77.108,sad
 The Skeleton In The Closet - Single Version,Louis Armstrong,jazz,0.683,0.351,0.686,74.827,chill
 A Kiss To Build A Dream On - Single Version,Louis Armstrong,jazz,0.336,0.166,0.688,88.325,sad
 Moon River,Louis Armstrong,jazz,0.264,0.136,0.443,86.646,sad
-"'Zat You, Santa Claus? - Single Version",Louis Armstrong;The Commanders,jazz,0.654,0.514,0.683,122.097,chill
+"'Zat You, Santa Claus? - Single Version",Louis Armstrong;The Commanders,jazz,0.654,0.514,0.683,122.097,happy
 Deck The Halls,Nat King Cole,jazz,0.97,0.393,0.635,107.172,chill
 L-O-V-E,Nat King Cole,jazz,0.663,0.373,0.425,78.231,chill
 The Christmas Song (Merry Christmas To You),Nat King Cole,jazz,0.208,0.21,0.32,73.196,sad
@@ -602,15 +1733,20 @@ L-O-V-E - Remastered 2004,Nat King Cole,jazz,0.692,0.278,0.521,76.925,chill
 O Come All Ye Faithful - Remastered 1999,Nat King Cole,jazz,0.203,0.217,0.257,92.202,sad
 Hark! The Herald Angels Sing - Remastered 1999,Nat King Cole,jazz,0.332,0.307,0.418,105.515,sad
 O Holy Night - Remastered 1999,Nat King Cole,jazz,0.136,0.261,0.123,82.062,sad
+On The Street Where You Live,Nat King Cole,jazz,0.326,0.421,0.369,71.923,sad
 Stardust,Nat King Cole,jazz,0.212,0.324,0.262,109.141,sad
 Let It Snow! Let It Snow! Let It Snow!,Dean Martin,jazz,0.683,0.332,0.484,134.999,chill
+"Baby, It's Cold Outside",Dean Martin,jazz,0.525,0.196,0.439,129.581,chill
 "Let It Snow, Let It Snow, Let It Snow - Remastered",Dean Martin,jazz,0.741,0.214,0.446,133.436,chill
 Rudolph The Red-Nosed Reindeer,Dean Martin,jazz,0.857,0.201,0.478,136.47,chill
+"Baby, It's Cold Outside - Remastered 2004",Dean Martin,jazz,0.521,0.304,0.499,129.321,chill
 I've Got My Love To Keep Me Warm - Remastered 2002,Dean Martin,jazz,0.674,0.225,0.604,138.46,chill
 "Rudolph, The Red-Nosed Reindeer - Remastered",Dean Martin,jazz,0.87,0.18,0.494,136.263,chill
 O Come All Ye Faithful - Remastered/1990,Nat King Cole,jazz,0.214,0.178,0.29,130.643,sad
+Winter Wonderland,Dean Martin,jazz,0.458,0.245,0.446,129.416,sad
 I've Got My Love To Keep Me Warm - Remastered 1996,Dean Martin,jazz,0.643,0.148,0.522,138.997,chill
 "Let It Snow, Let It Snow, Let It Snow",Dean Martin,jazz,0.682,0.36,0.457,133.568,chill
+You're Nobody 'Til Somebody Loves You - Remastered/1997,Dean Martin,jazz,0.58,0.254,0.495,127.148,chill
 Ain't That A Kick In The Head,Dean Martin,jazz,0.72,0.252,0.647,131.793,chill
 Luna Mezzo Mare - 2001 Remastered,Dean Martin,jazz,0.935,0.283,0.717,120.794,chill
 "My Favorite Things, Pt. 1 (Single Version)",John Coltrane,jazz,0.26,0.257,0.296,164.409,sad
@@ -618,54 +1754,79 @@ Santa Cruzin',"Grover Washington, Jr.",jazz,0.602,0.639,0.688,99.645,happy
 Dedicated To You,John Coltrane;Johnny Hartman,jazz,0.139,0.0533,0.435,61.64,sad
 A Winter Romance,Dean Martin,jazz,0.241,0.0692,0.301,81.644,sad
 My Funny Valentine,Chet Baker,jazz,0.213,0.0302,0.44,107.716,sad
+The Christmas Blues,Dean Martin,jazz,0.422,0.136,0.383,71.126,sad
 Ain't That A Kick In The Head - 1997 Remaster,Dean Martin,jazz,0.776,0.258,0.648,131.74,chill
 The Touch Of Your Lips,Chet Baker,jazz,0.0627,0.0788,0.334,59.054,sad
 "It Might As Well Be Spring - Live At Carnegie Hall, NY / 1964",Stan Getz;Astrud Gilberto;João Gilberto,jazz,0.387,0.116,0.361,84.414,sad
+Just the Two of Us,"Grover Washington, Jr.",jazz,0.597,0.429,0.743,95.406,chill
 La vie en rose,Louis Armstrong,jazz,0.319,0.0789,0.584,70.886,sad
+Quiet Storm,Shierro,jazz,0.108,0.526,0.613,154.082,angry
 I Fall In Love Too Easily,Chet Baker,jazz,0.292,0.0657,0.532,128.607,sad
+Everybody Loves Somebody,Dean Martin,jazz,0.461,0.391,0.366,119.182,sad
+Coffee Time,Natalie Cole,jazz,0.499,0.31,0.748,129.924,sad
 Winter Wonderland,Tony Bennett;Lady Gaga,jazz,0.72,0.497,0.605,126.014,chill
+It Gonna Come - FKJ Remix,Melody Gardot;FKJ,jazz,0.54,0.541,0.592,95.728,happy
 Anything Goes,Tony Bennett;Lady Gaga,jazz,0.749,0.62,0.516,152.208,happy
 Santa Claus Is Coming To Town,Bill Evans,jazz,0.649,0.31,0.62,92.421,chill
 Don't Cry Baby,Living Room,jazz,0.608,0.408,0.587,75.024,chill
+Lush,Living Room,jazz,0.531,0.251,0.757,85.002,chill
+Ganja Tribe - Original Mix,Living Room,jazz,0.135,0.579,0.669,94.97,angry
 Brand New Day,Living Room,jazz,0.359,0.733,0.794,124.977,angry
+Love Letter - Original Mix,Living Room,jazz,0.42,0.3,0.657,100.001,sad
+Spirit Nature,Living Room,jazz,0.5,0.681,0.664,120.003,happy
+Opera Reload,Living Room,jazz,0.345,0.48,0.373,79.988,sad
+Darkjazz Slomo - Instrumental,Living Room,jazz,0.376,0.543,0.718,89.984,angry
 Born New Day,Living Room,jazz,0.345,0.679,0.558,179.91,angry
-Love Will Follow,George Howard,jazz,0.791,0.6,0.683,99.135,chill
+Love Will Follow,George Howard,jazz,0.791,0.6,0.683,99.135,happy
+Corcovado (Quiet Nights Of Quiet Stars) - Single Version,Stan Getz;João Gilberto;Astrud Gilberto;Antônio Carlos Jobim,jazz,0.437,0.198,0.531,128.043,sad
 The Christmas Waltz,Peggy Lee,jazz,0.141,0.168,0.25,107.269,sad
+Tape Loop - Ronan Remix,Ituana;Ronan,jazz,0.302,0.561,0.745,93.001,angry
 Happy Holiday,Peggy Lee,jazz,0.69,0.499,0.369,192.76,chill
 Sing It Back,The Cooltrane Quartet,jazz,0.368,0.287,0.693,125.088,sad
 Black Coffee - Single Version,Peggy Lee,jazz,0.171,0.194,0.523,129.533,sad
+I Go To Sleep,Peggy Lee,jazz,0.582,0.23,0.408,183.654,chill
 I Like A Sleighride (Jingle Bells),Peggy Lee,jazz,0.737,0.451,0.758,122.912,chill
 It's Christmas Time Again,Peggy Lee,jazz,0.223,0.173,0.393,105.587,sad
 This Is A Very Special Day - Single Version,Peggy Lee,jazz,0.758,0.194,0.719,114.786,chill
 Don't Forget To Feed The Reindeer,Peggy Lee,jazz,0.759,0.224,0.755,115.581,chill
 Time Moves Slow,BADBADNOTGOOD;Samuel T. Herring,jazz,0.308,0.376,0.591,140.026,sad
+Poppy,Dpsht,jazz,0.433,0.172,0.798,147.838,sad
 Day Dream,Bill Charlap Trio,jazz,0.093,0.0951,0.432,100.265,sad
 Intuisi,Yura Yunita,jazz,0.354,0.0531,0.453,79.863,sad
 The Folks Who Live on the Hill - Live,Brad Mehldau,jazz,0.119,0.0793,0.422,139.312,sad
 I'm Glad There Is You,Julie London,jazz,0.165,0.0671,0.492,124.908,sad
 I'm In The Mood For Love,Julie London,jazz,0.177,0.0545,0.58,123.341,sad
-As - Luxury Remix,Michelle Simonal;Natty Bong;Ronan,jazz,0.775,0.526,0.682,82.003,chill
+As - Luxury Remix,Michelle Simonal;Natty Bong;Ronan,jazz,0.775,0.526,0.682,82.003,happy
 Here Comes Santa Claus,Doris Day,jazz,0.823,0.366,0.656,184.436,chill
+Skating,Vince Guaraldi Trio,jazz,0.551,0.297,0.473,130.342,chill
 Here I Go Again,Michelle Simonal,jazz,0.339,0.319,0.479,169.789,sad
 Christmas Time Is Here - Vocal,Vince Guaraldi Trio,jazz,0.0878,0.139,0.375,75.993,sad
 Christmas Time Is Here - Instrumental,Vince Guaraldi Trio,jazz,0.0861,0.116,0.418,74.923,sad
+Anybody Seen My Baby - Acoustic Version,Groove Da Praia,jazz,0.309,0.408,0.757,115.96,sad
 O Tannenbaum,Vince Guaraldi Trio,jazz,0.343,0.191,0.577,123.338,sad
+What Child Is This,Vince Guaraldi Trio,jazz,0.508,0.202,0.346,86.555,chill
 Linus And Lucy,Vince Guaraldi Trio,jazz,0.695,0.386,0.497,81.774,chill
 Embraceable You,Sarah Vaughan;Clifford Brown,jazz,0.0428,0.162,0.393,118.54,sad
 Diamonds Are A Girl's Best Friend,Julie London,jazz,0.608,0.306,0.477,171.829,chill
 White Christmas,Oscar Peterson,jazz,0.185,0.0242,0.406,78.691,sad
 "It's Been a Long, Long Time",Harry James,jazz,0.362,0.216,0.277,75.258,sad
-Es kommt zum Duell,Dualizm;Grmmr.126,jazz,0.691,0.532,0.689,171.925,chill
+Es kommt zum Duell,Dualizm;Grmmr.126,jazz,0.691,0.532,0.689,171.925,happy
+Kabhi Khushi Kabhie Gham,Kris Bowers,jazz,0.418,0.0588,0.448,95.997,sad
 Don't Forget,Phlocalyst;Mr. Käfer,jazz,0.332,0.252,0.65,170.028,sad
 "Goodbye, Old Girl",Art Farmer,jazz,0.358,0.0288,0.45,130.838,sad
 Dream A Little Dream Of Me,Louis Armstrong,jazz,0.399,0.238,0.462,93.388,sad
+Comics,Caravan Palace,jazz,0.561,0.848,0.554,89.999,happy
+Alexander Hamilton,Leslie Odom Jr.;Daveed Diggs;Okieriete Onaodowan;Lin-Manuel Miranda;Phillipa Soo;Christopher Jackson;Original Broadway Cast of Hamilton;Anthony Ramos,jazz,0.552,0.435,0.609,131.995,chill
 Forever in Love,Kenny G,jazz,0.11,0.318,0.343,81.993,sad
+Take Five,The Dave Brubeck Quartet,jazz,0.598,0.26,0.454,174.322,chill
 Bunty Aur Babli,Shankar;Ehsaan;Loy;Sukhwinder Singh;Jaspinder Narula;Gulzar,jazz,0.392,0.906,0.796,127.957,angry
 Lone Digger,Caravan Palace,jazz,0.868,0.938,0.767,123.992,happy
 Autumn In New York,Bobby Timmons,jazz,0.15,0.112,0.421,68.879,sad
 Delarna,Tommy Flanagan,jazz,0.347,0.242,0.452,101.194,sad
+The Girl From Ipanema,Stan Getz;João Gilberto;Astrud Gilberto,jazz,0.443,0.194,0.664,129.863,sad
 Just the Two of Us - Luxury Remix,Nenei;Javier Penna,jazz,0.711,0.654,0.772,121.952,happy
-I Won't Let You Go (Live),Lollypop Lorry,jazz,0.902,0.509,0.697,126.076,chill
+I Won't Let You Go (Live),Lollypop Lorry,jazz,0.902,0.509,0.697,126.076,happy
+¿Cómo Fue?,Beny Moré,jazz,0.421,0.269,0.578,98.515,sad
 Feeling Good - Ronan Remix,Nenei;Stella Starlight Trio;Ronan,jazz,0.668,0.643,0.594,166.004,happy
 Misty,Sarah Vaughan,jazz,0.143,0.288,0.194,66.13,sad
 The Way You Make Me Feel,Nenei;Jazzystics,jazz,0.307,0.309,0.551,87.99,sad
@@ -675,27 +1836,41 @@ Christmas Time Is Here,Vince Guaraldi Trio,jazz,0.104,0.122,0.367,75.271,sad
 In The Wee Small Hours Of The Morning,Chris Botti;Sting,jazz,0.304,0.385,0.535,124.874,sad
 The Christmas Song,Vince Guaraldi Trio,jazz,0.193,0.154,0.342,170.063,sad
 Away In A Manger,Dave Brubeck,jazz,0.17,0.00947,0.55,109.255,sad
+The Girl From Ipanema - Single Version,Stan Getz;João Gilberto;Astrud Gilberto;Antônio Carlos Jobim,jazz,0.486,0.178,0.695,130.415,sad
 O Tannenbaum,Dave Brubeck,jazz,0.0873,0.0134,0.572,113.888,sad
 (You Don't Know) How Glad I Am,Nancy Wilson,jazz,0.611,0.44,0.511,103.965,chill
 Just the Two of Us,"Grover Washington, Jr.;Bill Withers",jazz,0.624,0.488,0.802,95.77,chill
 Inner Courage,Mr. Käfer;Eu93ne,jazz,0.964,0.321,0.716,144.041,chill
 Goiaba,Oaty.,jazz,0.374,0.679,0.757,103.016,angry
 The Beauty of Everyday Things,Hara Noda,jazz,0.0865,0.28,0.643,108.046,sad
-Flamingos,Leo Gandelman;Baco Exu do Blues;Machine Series,jazz,0.65,0.507,0.562,73.313,chill
+Blue Train,John Coltrane,jazz,0.569,0.286,0.503,136.098,chill
+Flamingos,Leo Gandelman;Baco Exu do Blues;Machine Series,jazz,0.65,0.507,0.562,73.313,happy
 Você e Eu (You and Me),Carlos Lyra,jazz,0.767,0.253,0.681,94.867,chill
-Don't You Want Me - Ronan Remix,Stella Starlight Trio,jazz,0.684,0.54,0.706,154.46,chill
+Body and Soul,Anita Baker,jazz,0.219,0.432,0.532,109.112,sad
+Levitating,Jazzystics;Nenei,jazz,0.523,0.468,0.748,80.043,chill
+All I Want For Christmas (Is My Two Front Teeth),Nat King Cole Trio,jazz,0.504,0.158,0.771,130.072,chill
+Don't You Want Me - Ronan Remix,Stella Starlight Trio,jazz,0.684,0.54,0.706,154.46,happy
 The Christmas Song (Chestnuts Roasting On An Open Fire),Nat King Cole Trio,jazz,0.163,0.182,0.297,58.201,sad
 The Little Christmas Tree - Remastered,Nat King Cole Trio,jazz,0.309,0.11,0.303,77.842,sad
+Happen,Nick Hakim,jazz,0.278,0.403,0.647,122.009,sad
 Strange (feat. Hillary Smith),Kris Bowers;Hillary Smith,jazz,0.0727,0.15,0.251,70.453,sad
 Unforgettable,Nat King Cole,jazz,0.178,0.182,0.349,136.094,sad
+Adıyaman,Kızılırmak,jazz,0.459,0.365,0.599,127.962,sad
 Nuit Douce,Phlocalyst;Myríad,jazz,0.158,0.221,0.661,127.994,sad
+"Hello, Dolly!",Louis Armstrong,jazz,0.0,0.405,0.0,0.0,sad
 All of the Time,Project Grand Slam,jazz,0.608,0.613,0.64,130.019,happy
+Afterglow,Dinah Eastwood,jazz,0.544,0.489,0.859,119.991,chill
 If I Had You,Etta Jones,jazz,0.152,0.105,0.501,136.885,sad
-Winter Weather,Benny Goodman,jazz,0.83,0.535,0.74,153.63,chill
+"Dois Pra Lá, Dois Pra Cá",Elis Regina,jazz,0.478,0.363,0.652,96.644,sad
+Winter Weather,Benny Goodman,jazz,0.83,0.535,0.74,153.63,happy
+That's Amore,Dean Martin;Dick Stabile And His Orchestra,jazz,0.577,0.17,0.407,124.047,chill
+You're Beautiful,Kenny G,jazz,0.298,0.539,0.53,81.686,angry
 Daylight,Phlocalyst,jazz,0.383,0.334,0.78,91.079,sad
 The Moment,Kenny G,jazz,0.194,0.31,0.265,181.174,sad
 I Get Along Without You Very Well (Except Sometimes) - Vocal Version,Chet Baker,jazz,0.21,0.033,0.442,103.34,sad
 "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Miles Davis;John Coltrane;Cannonball Adderley;Bill Evans,jazz,0.211,0.151,0.532,136.759,sad
+Winter Wonderland,Tony Bennett,jazz,0.448,0.495,0.653,126.58,sad
+Jingle Bells,Brian Culbertson,jazz,0.463,0.744,0.664,95.138,angry
 Uyan Sunam Uyan,Sukriye Tutkun,jazz,0.676,0.436,0.688,115.923,chill
 Tiro Ao Álvaro,Elis Regina;Adoniran Barbosa,jazz,0.957,0.649,0.603,93.781,happy
 Nýtt líf,Friðrik Karlsson,jazz,0.0386,0.0715,0.509,119.85,sad
@@ -704,143 +1879,402 @@ Nýtt líf,Friðrik Karlsson,jazz,0.0386,0.0715,0.509,119.85,sad
 Comin' Home Baby,Mel Tormé,jazz,0.789,0.429,0.632,143.174,chill
 Games People Play,Mel Tormé,jazz,0.881,0.462,0.576,119.718,chill
 Happy Together,Mel Tormé,jazz,0.787,0.413,0.624,121.048,chill
+These Foolish Things - Remastered 1995,Lester Young,jazz,0.443,0.103,0.593,66.283,sad
 Maze of Tranquility,Martin Landström,jazz,0.0507,0.134,0.488,112.892,sad
 "It's Been a Long, Long Time",Harry James;Kitty Kallan,jazz,0.369,0.221,0.328,77.147,sad
+Aftermath,Caravan Palace,jazz,0.403,0.663,0.614,140.015,angry
+Sway (Quien Sera),Dean Martin,jazz,0.569,0.239,0.601,120.036,chill
 Blue in Green (feat. John Coltrane & Bill Evans),Miles Davis;John Coltrane;Bill Evans,jazz,0.154,0.0162,0.421,110.479,sad
+Carinhoso,Elis Regina,jazz,0.435,0.312,0.464,90.939,sad
 Salsera,The Echo Park Project,jazz,0.96,0.717,0.738,105.022,happy
 Merdu Untukmu - Outro,Tulus,jazz,0.796,0.124,0.629,85.258,chill
 Time After Time - Vocal Version,Chet Baker,jazz,0.255,0.0454,0.501,99.783,sad
+I've Got My Love to Keep Me Warm (with Antonia Bennett),Tony Bennett;Antonia Bennett,jazz,0.42,0.399,0.486,129.849,sad
+Sobre Nós,Leo Gandelman;Delacruz;Machine Series,jazz,0.457,0.534,0.366,88.382,angry
 Rising,Phlocalyst;Hoogway;Akīn,jazz,0.0399,0.398,0.366,70.915,sad
 Something's Gotta Give - Single Version,Sammy Davis Jr.,jazz,0.638,0.341,0.558,138.656,chill
 The Christmas Song (Chestnuts Roasting on an Open Fire),Sammy Davis Jr.,jazz,0.201,0.0915,0.297,82.484,sad
+Idas sommarvisa,Georg Riedel;Lisa Nilsson,jazz,0.428,0.222,0.667,106.15,sad
 It Came Upon The Midnight Clear,Charlie Haden;Hank Jones,jazz,0.264,0.0421,0.494,112.015,sad
 God Rest Ye Merry Gentlemen,Charlie Haden;Hank Jones,jazz,0.628,0.0507,0.532,112.746,chill
-Sunflakes,RLLBTS;Run Wallace;Golden Ticket Tapes,jazz,0.685,0.575,0.697,88.014,chill
+La Taillade,Club des Belugas,jazz,0.195,0.555,0.603,124.048,angry
+Sunflakes,RLLBTS;Run Wallace;Golden Ticket Tapes,jazz,0.685,0.575,0.697,88.014,happy
+Habits,Scott Bradlee's Postmodern Jukebox;Haley Reinhart,jazz,0.506,0.364,0.548,116.556,chill
 Levitation,Hoffy Beats;Iamcloud,jazz,0.0364,0.015,0.701,125.019,sad
 Songbird,Kenny G,jazz,0.125,0.292,0.453,135.387,sad
 Evening Silence,Three Four Trio,jazz,0.111,0.137,0.432,89.117,sad
 Summertime,Louis Armstrong;Ella Fitzgerald,jazz,0.103,0.0696,0.172,167.974,sad
 My Foolish Heart,Bill Evans Trio,jazz,0.139,0.121,0.395,114.521,sad
+Material Girl,Kris Bowers,jazz,0.404,0.155,0.588,136.482,sad
+That's Amore - Remastered,Dean Martin,jazz,0.571,0.157,0.352,157.895,chill
+Christmas Time Is Here,Tony Bennett,jazz,0.115,0.235,0.249,116.38,sad
+Night Spot,Scott Hamilton;Hans Backenroth;Kristian Leth;Jan Lundgren,jazz,0.561,0.271,0.551,101.771,chill
+Castigala,Maraca,jazz,0.967,0.886,0.762,102.059,happy
+Kime Kin Ettin,Kızılırmak,jazz,0.627,0.318,0.619,140.725,chill
+A Time For Love,Jane Monheit,jazz,0.0738,0.284,0.249,116.665,sad
+Viajera,Luis Arcaraz Y Su Orquesta,jazz,0.429,0.332,0.334,97.086,sad
+Love is in the Air,48th St. Collective,jazz,0.439,0.395,0.64,108.062,sad
+Alien,Gil Scott-Heron,jazz,0.596,0.727,0.459,107.96,happy
+Half The Perfect World,Madeleine Peyroux,jazz,0.355,0.222,0.611,109.163,sad
+Some Kind Of Wonderful,Peter Cincotti,jazz,0.434,0.293,0.769,105.992,sad
+The Christmas Song (arr. piano),Mel Tormé;Stephan Moccio,jazz,0.0717,0.0156,0.361,123.646,sad
+O Trem Azul,Elis Regina,jazz,0.401,0.716,0.373,139.556,angry
+Bomba en Navidad,"Bobby Cruz;Ricardo ""Richie"" Ray",jazz,0.95,0.748,0.648,109.384,happy
+Santa Baby,Eartha Kitt,jazz,0.388,0.237,0.467,101.759,sad
+Have Yourself A Merry Little Christmas,Judy Garland,jazz,0.102,0.163,0.23,102.777,sad
+Little Drummer Boy,Scott Hamilton,jazz,0.341,0.383,0.509,91.564,sad
 Blinding Lights,The Weeknd,pop,0.334,0.73,0.514,171.005,angry
+Starboy,The Weeknd;Daft Punk,pop,0.486,0.587,0.679,186.003,angry
 Akhiyaan,Mitraz,pop,0.0683,0.618,0.724,100.021,angry
 Na Ja,Pav Dharia,pop,0.824,0.649,0.772,90.072,happy
 MIDDLE OF THE NIGHT,Elley Duhé,pop,0.0899,0.611,0.41,185.727,angry
+Night Changes,One Direction,pop,0.37,0.52,0.672,120.001,angry
+Dandelions,Ruth B.,pop,0.454,0.692,0.609,116.959,angry
 "Maiyya Mainu (From ""Jersey"")",Sachet-Parampara;Sachet Tandon,pop,0.224,0.739,0.63,109.985,angry
 Bijlee Bijlee,Harrdy Sandhu,pop,0.643,0.67,0.795,100.004,happy
+Perfect,Ed Sheeran,pop,0.168,0.448,0.599,95.05,sad
 Lemonade,Diljit Dosanjh,pop,0.783,0.744,0.789,143.998,happy
 Shape of You,Ed Sheeran,pop,0.931,0.652,0.825,95.977,happy
 Channa Ve,Akhil Sachdeva;Mansheel Gujral,pop,0.606,0.696,0.676,94.945,happy
+Kali Kali Zulfon Ke (Lo-Fi),Madhur Sharma,pop,0.106,0.491,0.464,76.739,sad
+"Raataan Lambiyan (From ""Shershaah"")",Tanishk Bagchi;Jubin Nautiyal;Asees Kaur,pop,0.512,0.63,0.72,81.009,happy
+"Adiye - From ""Bachelor""",Dhibu Ninan Thomas;Kapil Kapilan,pop,0.548,0.454,0.709,90.038,chill
 "Inthandham (From ""Sita Ramam (Telugu)"")",Vishal Chandrashekhar;S.P. Charan,pop,0.662,0.37,0.652,99.894,chill
+Until I Found You,Stephen Sanchez,pop,0.227,0.508,0.539,101.358,angry
 As It Was,Harry Styles,pop,0.662,0.731,0.52,173.93,happy
 lovely (with Khalid),Billie Eilish;Khalid,pop,0.12,0.296,0.351,115.284,sad
+Infinity,Jaymes Young,pop,0.494,0.673,0.671,121.963,angry
 Dandelions - slowed + reverb,Ruth B.;slater,pop,0.258,0.715,0.573,101.699,angry
+Jo Tu Na Mila,Asim Azhar,pop,0.218,0.507,0.508,159.68,angry
+Hawa Banke,Darshan Raval,pop,0.5,0.598,0.625,90.078,happy
+Makhna,Tanishk Bagchi;Yasser Desai;Asees Kaur,pop,0.426,0.704,0.696,124.972,angry
+The Hills,The Weeknd,pop,0.125,0.551,0.565,112.98,angry
+Kali Kali Zulfon Ke,Madhur Sharma,pop,0.433,0.495,0.612,154.03,sad
+Thoda Thoda Pyaar,Stebin Ben;Nilesh Ahuja;Kumaar,pop,0.144,0.527,0.706,103.008,angry
 Aziyat 2.0 - Reprise Version,Pratsofficial,pop,0.299,0.28,0.445,104.743,sad
+Tera Ban Jaunga,Akhil Sachdeva;Tulsi Kumar,pop,0.397,0.53,0.605,93.95,angry
+You Belong With Me (Taylor’s Version),Taylor Swift,pop,0.474,0.773,0.632,130.033,angry
+Lover,Taylor Swift,pop,0.453,0.543,0.359,68.505,angry
+"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",Rochak Kohli;Arijit Singh;Neha Kakkar,pop,0.499,0.382,0.718,87.029,sad
+willow,Taylor Swift,pop,0.549,0.579,0.392,80.961,happy
+cardigan,Taylor Swift,pop,0.534,0.58,0.612,130.045,happy
 "Kaanunna Kalyanam (From ""Sita Ramam (Telugu)"")",Vishal Chandrashekhar;Anurag Kulkarni;Sinduri Vishal,pop,0.72,0.425,0.502,180.2,chill
 Calm Down (with Selena Gomez),Rema;Selena Gomez,pop,0.802,0.806,0.801,106.999,happy
 I Was Never There,The Weeknd;Gesaffelstein,pop,0.155,0.737,0.323,113.26,angry
 Glimpse of Us,Joji,pop,0.268,0.317,0.44,169.914,sad
+After Hours,The Weeknd,pop,0.138,0.567,0.651,108.953,angry
 Out of Time,The Weeknd,pop,0.809,0.763,0.629,93.023,happy
+Pal,Javed-Mohsin;Arijit Singh;Shreya Ghoshal,pop,0.321,0.502,0.51,133.885,angry
+Kaise Hua,Vishal Mishra,pop,0.162,0.467,0.37,137.796,sad
+Ghost,Justin Bieber,pop,0.441,0.741,0.601,153.96,angry
+Manjha,Vishal Mishra,pop,0.368,0.515,0.524,169.882,angry
+OG,Prem Dhillon,pop,0.517,0.625,0.594,96.706,happy
+Parshawan,Harnoor,pop,0.43,0.44,0.799,90.006,sad
+I Feel It Coming,The Weeknd;Daft Punk,pop,0.555,0.82,0.773,92.996,happy
+Take My Breath - Single Version,The Weeknd,pop,0.523,0.739,0.747,120.996,happy
+Asal Mein,Darshan Raval,pop,0.329,0.551,0.656,114.106,angry
+Blank Space,Taylor Swift,pop,0.57,0.703,0.76,95.997,happy
+Barbaadiyan,Sachet Tandon;Nikhita Gandhi;Madhubanti Bagchi;Sachin-Jigar,pop,0.567,0.57,0.758,126.966,happy
+Gulabi Aankhen,Sanam,pop,0.44,0.647,0.636,105.914,angry
+"Kaise Hua (From ""Kabir Singh"")",Vishal Mishra,pop,0.15,0.464,0.385,137.839,sad
 Nah They Can’t,Prem Dhillon,pop,0.266,0.623,0.615,92.937,angry
+Let Me Down Slowly / Mai Dhoondhne Ko Zamaney / Kabhi Jo Badal Barsey (Medley),ShaSings;Xtreeemit,pop,0.496,0.371,0.605,149.566,sad
+"Oh Sita Hey Rama (From ""Sita Ramam (Telugu)"")",Vishal Chandrashekhar;S.P. Charan;Ramya Behra,pop,0.548,0.425,0.636,170.013,chill
+Call Out My Name,The Weeknd,pop,0.175,0.593,0.461,134.17,angry
+Ik Lamha,Azaan Sami Khan,pop,0.333,0.557,0.581,140.047,angry
+Watermelon Sugar,Harry Styles,pop,0.557,0.816,0.548,95.39,happy
+Hasi - Male Version,Ami Mishra,pop,0.231,0.581,0.296,147.935,angry
+Dusk Till Dawn (feat. Sia) - Radio Edit,ZAYN;Sia,pop,0.0951,0.437,0.259,180.042,sad
 "Najaa (From ""Sooryavanshi"")",Tanishk Bagchi;Pav Dharia;Nikhita Gandhi,pop,0.697,0.727,0.786,93.97,happy
 Sun Saathiya,Priya Saraiya;Divya Kumar,pop,0.263,0.668,0.456,144.062,angry
 Ainak,Gulab Sidhu;Sukh Lotey,pop,0.605,0.682,0.817,90.039,happy
 Baarishon Mein,Darshan Raval,pop,0.314,0.34,0.352,179.865,sad
 "Kusu Kusu (From ""Satyameva Jayate 2"")",Tanishk Bagchi;Zahrah S Khan;Dev Negi,pop,0.78,0.911,0.742,101.0,happy
+Ek Ladki Ko Dekha Toh Aisa Laga - Title Track,Darshan Raval;Rochak Kohli;R. D. Burman,pop,0.431,0.603,0.532,173.955,angry
+Raataan Lambiyan,Tanishk Bagchi;Jubin Nautiyal;Asees Kaur,pop,0.514,0.628,0.721,81.008,happy
+26 Blvd,Prem Dhillon,pop,0.558,0.799,0.649,173.913,happy
 Mera Dil Bhi Kitna Pagal Hai - Recreated Version,Stebin Ben,pop,0.375,0.733,0.601,94.017,angry
 Save Your Tears,The Weeknd,pop,0.644,0.826,0.68,118.051,happy
+Junoon,Mitraz,pop,0.211,0.593,0.607,107.988,angry
+Peaches (feat. Daniel Caesar & Giveon),Justin Bieber;Daniel Caesar;Giveon,pop,0.464,0.696,0.677,90.03,angry
+Hymn for the Weekend,Coldplay,pop,0.412,0.693,0.491,90.027,angry
+Baby,Justin Bieber;Ludacris,pop,0.535,0.859,0.728,65.043,happy
 Into Your Arms (feat. Ava Max),Witt Lowry;Ava Max,pop,0.228,0.788,0.504,170.039,angry
+2step,Ed Sheeran;Lil Baby,pop,0.477,0.643,0.693,95.055,angry
+"Tum Hi Aana (From ""Marjaavaan"")",Payal Dev;Jubin Nautiyal,pop,0.345,0.401,0.473,90.076,sad
 What Makes You Beautiful,One Direction,pop,0.888,0.787,0.726,124.99,happy
+"Mann Bharryaa 2.0 (From ""Shershaah"")",B Praak,pop,0.193,0.467,0.428,90.831,sad
 Jug Jug Jeeve,Sachet Tandon;Parampara Tandon;Sachin-Jigar,pop,0.699,0.632,0.559,90.097,happy
 Merry Christmas,Ed Sheeran;Elton John,pop,0.602,0.935,0.594,113.99,happy
+Autumn Leaves,Ed Sheeran,pop,0.431,0.257,0.555,89.013,sad
 Shivers,Ed Sheeran,pop,0.822,0.859,0.788,141.02,happy
+How Would You Feel (Paean),Ed Sheeran,pop,0.242,0.439,0.618,139.983,sad
 Visiting Hours,Ed Sheeran,pop,0.263,0.396,0.471,149.609,sad
 Overpass Graffiti,Ed Sheeran,pop,0.774,0.849,0.52,175.908,happy
 Castle On the Hill - Throttle Remix,Ed Sheeran;Throttle,pop,0.203,0.86,0.586,138.03,angry
 Bad Habits - Joel Corry Remix,Ed Sheeran;Joel Corry,pop,0.8,0.935,0.768,125.971,happy
 "Meri Jaan Meri Jaan (From ""Bachchhan Paandey"")",B Praak,pop,0.242,0.692,0.607,114.789,angry
 The Joker and the Queen,Ed Sheeran,pop,0.289,0.211,0.567,134.019,sad
-Kya Baat Ay,Harrdy Sandhu,pop,0.652,0.592,0.849,89.966,chill
+Mere Humsafar (Original Score) [Female Version],Yashal Shahid,pop,0.386,0.444,0.442,143.691,sad
+Kya Baat Ay,Harrdy Sandhu,pop,0.652,0.592,0.849,89.966,happy
+"Tip Tip (From ""Sooryavanshi"")",Tanishk Bagchi;Udit Narayan;Alka Yagnik,pop,0.477,0.929,0.709,103.01,angry
 "The Punjaabban Song (From ""Jugjugg Jeeyo"")",Tanishk Bagchi;Gippy Grewal;Zahrah S Khan;Romy;Abrar Ul Haq,pop,0.613,0.964,0.779,139.241,happy
+Memories,Maroon 5,pop,0.595,0.327,0.775,91.05,chill
 Pta Mainu,Harvi,pop,0.631,0.825,0.678,90.047,happy
-Intentions,Justin Bieber;Quavo,pop,0.86,0.554,0.813,148.011,chill
+Intentions,Justin Bieber;Quavo,pop,0.86,0.554,0.813,148.011,happy
 We’re In This Together,Justin Bieber,pop,0.624,0.644,0.706,149.452,happy
 Mistletoe,Justin Bieber,pop,0.823,0.668,0.623,161.948,happy
 Unstable,Justin Bieber;The Kid LAROI,pop,0.37,0.333,0.495,99.757,sad
 Loved By You,Justin Bieber;Burna Boy,pop,0.642,0.724,0.79,101.04,happy
 Rockin' Around The Christmas Tree,Justin Bieber,pop,0.828,0.642,0.464,151.592,happy
+The Christmas Song (Chestnuts Roasting On An Open Fire),Justin Bieber;Usher,pop,0.152,0.426,0.533,103.267,sad
+Christmas Eve,Justin Bieber,pop,0.336,0.57,0.409,128.657,angry
 Friends,Justin Bieber;BloodPop®,pop,0.631,0.735,0.743,104.979,happy
 Santa Claus Is Coming To Town,Justin Bieber,pop,0.814,0.836,0.639,104.998,happy
+Drummer Boy,Justin Bieber;Busta Rhymes,pop,0.491,0.85,0.752,122.991,angry
+Jawani,Arjan Dhillon,pop,0.429,0.69,0.782,99.944,angry
+Vaaste,Dhvani Bhanushali;Nikhil D'Souza;Tanishk Bagchi,pop,0.315,0.479,0.444,89.892,sad
 Hold On,Justin Bieber,pop,0.29,0.634,0.658,139.98,angry
 Come Around Me,Justin Bieber,pop,0.766,0.681,0.648,157.944,happy
+Fa La La,Justin Bieber;Boyz II Men,pop,0.42,0.679,0.658,94.489,angry
+Teri Hogaiyaan,Vishal Mishra,pop,0.51,0.43,0.404,106.322,chill
 All Around Me,Justin Bieber,pop,0.694,0.438,0.53,117.148,chill
 One Time,Justin Bieber,pop,0.74,0.856,0.69,145.966,happy
+Yummy,Justin Bieber,pop,0.497,0.506,0.677,145.843,angry
+Sorry,Justin Bieber,pop,0.438,0.748,0.679,100.035,angry
 Only Thing I Ever Get For Christmas,Justin Bieber,pop,0.321,0.63,0.54,85.648,angry
 All Around The World,Justin Bieber;Ludacris,pop,0.798,0.816,0.694,128.009,happy
+Bad Habits,Ed Sheeran,pop,0.537,0.893,0.807,126.011,happy
 Old Skool,Prem Dhillon;Sidhu Moose Wala,pop,0.905,0.601,0.764,87.926,happy
 Nashe Si Chadh Gayi,Vishal-Shekhar;Arijit Singh;Jaideep Sahni,pop,0.26,0.784,0.799,96.953,angry
+Steal My Girl,One Direction,pop,0.545,0.768,0.536,77.217,happy
 Daru Badnaam,Param Singh;Kamal Kahlon;Pratik Studio,pop,0.845,0.676,0.541,90.037,happy
 Mitti De Tibbe,Kaka,pop,0.794,0.853,0.849,129.966,happy
-Tauba (feat. Badshah),Payal Dev;Badshah,pop,0.684,0.56,0.727,86.993,chill
+Tauba (feat. Badshah),Payal Dev;Badshah,pop,0.684,0.56,0.727,86.993,happy
+Plug Talk,Navaan Sandhu,pop,0.474,0.815,0.678,95.969,angry
+"Meri Zindagi Hai Tu (From ""Satyameva Jayate 2"")",Rochak Kohli;Jubin Nautiyal;Neeti Mohan,pop,0.585,0.86,0.649,96.025,happy
+"Chogada (From ""Loveyatri"")",Darshan Raval;Asees Kaur;Lijo George-Dj Chetas,pop,0.595,0.972,0.359,62.914,happy
+Yaari,Nikk;Avneet Kaur,pop,0.395,0.557,0.587,159.914,angry
+Chitta,Manan Bhardwaj,pop,0.496,0.494,0.412,169.93,sad
+"Kurumugil (From ""Sita Ramam (Tamil)"")",Vishal Chandrashekhar;Sai Vignesh,pop,0.578,0.343,0.416,149.791,chill
+"Kadhaippoma (From ""Oh My Kadavule"")",Leon James;Sid Sriram,pop,0.157,0.577,0.575,90.012,angry
+"Mudhal Nee Mudivum Nee Title Track (From ""Mudhal Nee Mudivum Nee"")",Darbuka Siva;Sid Sriram,pop,0.355,0.521,0.556,127.956,angry
 Otha Thamarai - Original Soundtrack,Bala;Nixen;Sandy Sandellow,pop,0.877,0.744,0.541,194.976,happy
+Firefly - Bravado Dubstep Remix,Ed Sheeran;Bravado,pop,0.491,0.664,0.629,139.975,angry
+Love Yourself,Justin Bieber,pop,0.515,0.378,0.609,100.418,chill
+drivers license,Olivia Rodrigo,pop,0.137,0.431,0.561,143.875,sad
 GODSPEED,Tyson Sidhu,pop,0.759,0.673,0.887,100.012,happy
+Tera Zikr,Darshan Raval,pop,0.459,0.47,0.613,102.944,sad
+"Bekhayali (From ""Kabir Singh"")",Sachet Tandon;Sachet-Parampara,pop,0.345,0.585,0.308,171.843,angry
 "Naacho Naacho (From ""Rrr"")",Vishal Mishra;Rahul Sipligunj;M. M. Keeravani,pop,0.736,0.986,0.438,159.894,happy
 "Aafat (From ""Liger"") - Remix By DJ Aqeel",Tanishk Bagchi;Zahrah S Khan;Dj Aqeel,pop,0.683,0.892,0.738,127.974,happy
 Ek Tarfa,Darshan Raval,pop,0.33,0.615,0.48,79.948,angry
-Numb,Khan Bhaini,pop,0.625,0.6,0.549,80.634,chill
+Someone You Loved,Lewis Capaldi,pop,0.446,0.405,0.501,109.891,sad
+Numb,Khan Bhaini,pop,0.625,0.6,0.549,80.634,happy
 Mere Dil Gaaye Ja (Zooby Zooby),Tanishk Bagchi;Zahrah S Khan;Yash Narvekar;Bappi Lahiri,pop,0.618,0.902,0.673,129.024,happy
 "Jolly O Gymkhana (From ""Beast"")",Thalapathy Vijay;Anirudh Ravichander,pop,0.776,0.653,0.652,185.931,happy
 "Kannil Kannil (From ""Sita Ramam (Malayalam)"")",Vishal Chandrashekhar;K. S. Harisankar;Sinduri Vishal,pop,0.731,0.409,0.516,179.852,chill
+Filhaal2 Mohabbat,B Praak;Akshay Kumar;Nupur Sanon;Ammy Virk,pop,0.274,0.578,0.574,85.186,angry
+"Bodhai Kaname - From ""Oh Manapenne""",Vishal Chandrashekhar;Anirudh Ravichander;Shashaa Tirupati,pop,0.267,0.405,0.516,160.047,sad
 Waalian,Harnoor,pop,0.266,0.335,0.722,85.034,sad
 Arcade,Duncan Laurence,pop,0.266,0.329,0.45,71.884,sad
+Falling,Trevor Daniel,pop,0.236,0.431,0.785,127.085,sad
+Backbone,Harrdy Sandhu,pop,0.483,0.828,0.501,84.659,angry
 Mood (feat. iann dior),24kGoldn;iann dior,pop,0.732,0.716,0.701,91.007,happy
+She's The One,JERRY;Devilo,pop,0.498,0.487,0.449,133.98,sad
+Hasi - Female Version,Ami Mishra;Shreya Ghoshal,pop,0.407,0.485,0.52,143.901,sad
+Maine Royaan (Lofi Remix),Tanveer Evan;Ahmed Shakib,pop,0.0467,0.468,0.35,71.312,sad
+"Yaanji - From ""Vikram Vedha""",Sam C.S.;Anirudh Ravichander;Shakthisree Gopalan,pop,0.487,0.624,0.692,132.896,angry
+Befikar,Tanzeel Khan;Aashna Hegde,pop,0.407,0.502,0.7,129.977,angry
 Orasaadha - Madras Gig,Vivek - Mervin,pop,0.606,0.776,0.587,159.906,happy
-JAMAICA,Feid;Sech,pop,0.669,0.542,0.52,81.131,chill
+Die For You,The Weeknd,pop,0.51,0.525,0.582,133.249,happy
+Tere Jeya Hor Disda (LoFi),Madhur Sharma,pop,0.102,0.469,0.363,171.988,sad
+Manike Mage Hithe,Chamath Sangeeth;Yohani;Satheeshan,pop,0.56,0.51,0.836,151.499,happy
+Munbe Vaa,Joshua Aaron,pop,0.22,0.407,0.51,120.085,sad
+Homesick,Dua Lipa,pop,0.401,0.224,0.431,87.122,sad
+JAMAICA,Feid;Sech,pop,0.669,0.542,0.52,81.131,happy
+Faasle,Aditya Rikhari,pop,0.493,0.324,0.645,162.037,sad
+august,Taylor Swift,pop,0.403,0.623,0.532,89.937,angry
 "Coka 2.0 (From ""Liger"")",Jaani;Lijo George-Dj Chetas;Sukh-E Muzical Doctorz;Lisa Mishra,pop,0.873,0.922,0.743,96.933,happy
+"Illegal Weapon 2.0 (From ""Street Dancer 3D"")",Jasmine Sandlas;Garry Sandhu;Tanishk Bagchi;Intense,pop,0.494,0.919,0.805,94.993,angry
+Mudhal Nee Mudivum Nee Title Track,Darbuka Siva;Sid Sriram,pop,0.353,0.521,0.556,127.947,angry
 "Coka 2.0 (From ""Liger (Telugu)"")",Jaani;Lijo George-Dj Chetas;Ram Miriyala;Geetha Madhuri;Sukh-E Muzical Doctorz,pop,0.828,0.929,0.802,96.969,happy
 Runaway,AURORA,pop,0.123,0.302,0.422,114.089,sad
 Ishq Sufiyana (Male),Kamal Khan,pop,0.387,0.622,0.511,85.349,angry
+Aziyat,Pratsofficial,pop,0.233,0.437,0.682,104.961,sad
 you broke me first,Tate McRae,pop,0.0823,0.373,0.667,124.148,sad
 Habibi - Albanian Remix,Ricky Rich;Dardan;DJ Gimi-O,pop,0.0996,0.728,0.639,103.966,angry
+Kabhii Tumhhe,Javed-Mohsin;Darshan Raval,pop,0.451,0.338,0.573,96.981,sad
 Mere Sohneya,Sachet Tandon;Parampara Tandon,pop,0.646,0.643,0.376,136.228,happy
+Bekhayali,Sachet Tandon,pop,0.365,0.582,0.296,168.4,angry
 Sufna Banke,Harvi,pop,0.308,0.626,0.449,163.826,angry
 Mere Liye,Akhil Sachdeva,pop,0.301,0.662,0.363,178.213,angry
 Libaas,Kaka,pop,0.906,0.753,0.794,159.965,happy
 traitor,Olivia Rodrigo,pop,0.0849,0.339,0.38,100.607,sad
+Wildest Dreams,Taylor Swift,pop,0.467,0.664,0.553,140.06,angry
 Animals,Maroon 5,pop,0.328,0.742,0.279,189.868,angry
+Heather,Conan Gray,pop,0.27,0.425,0.357,102.078,sad
 Top Notch Gabru,Vicky,pop,0.924,0.77,0.716,170.045,happy
+Payphone,Maroon 5;Wiz Khalifa,pop,0.545,0.752,0.743,110.015,happy
 Tareefan,QARAN;Badshah,pop,0.335,0.654,0.829,98.012,angry
 "Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,pop,0.311,0.728,0.384,156.396,angry
+Fallin for You,Shrey Singhal,pop,0.547,0.835,0.625,183.826,happy
+Doin' Time,Lana Del Rey,pop,0.523,0.559,0.641,144.982,happy
 Black Life,Navaan Sandhu,pop,0.646,0.682,0.677,89.81,happy
+Cherry,Lana Del Rey,pop,0.347,0.533,0.355,121.292,angry
+West Coast,Lana Del Rey,pop,0.427,0.611,0.359,93.05,angry
+Expert Jatt,Nawab,pop,0.647,0.948,0.765,172.038,happy
+TV,Billie Eilish,pop,0.119,0.236,0.412,140.214,sad
+"Mere Sohneya (From ""Kabir Singh"")",Sachet Tandon;Parampara Tandon;Sachet-Parampara,pop,0.646,0.643,0.376,136.224,happy
+Raanjhana Ve,Soham Naik;Antara Mitra;Uddipan Sharma,pop,0.747,0.834,0.628,78.207,happy
+Chupana Bhi Nahi Aata - Recreated Version,Stebin Ben,pop,0.274,0.249,0.602,131.814,sad
+Summertime Sadness,Lana Del Rey,pop,0.197,0.674,0.559,111.976,angry
+If You Lie Down With Me,Lana Del Rey,pop,0.187,0.346,0.641,122.101,sad
+Brooklyn Baby,Lana Del Rey,pop,0.0941,0.664,0.378,106.316,angry
+Happier Than Ever,Billie Eilish,pop,0.303,0.238,0.314,72.535,sad
+"Season Of The Witch - From The Motion Picture ""Scary Stories To Tell In The Dark""",Lana Del Rey,pop,0.352,0.205,0.674,95.987,sad
+Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey;Cedric Gervais,pop,0.106,0.81,0.572,126.045,angry
+good 4 u,Olivia Rodrigo,pop,0.688,0.664,0.563,166.928,happy
+8 Parche,Baani Sandhu;Gur Sidhu,pop,0.727,0.862,0.652,173.859,happy
+Tera Yaar Hoon Main,Rochak Kohli;Arijit Singh,pop,0.309,0.541,0.559,83.978,angry
+Nawa Nawa Pyaar,Gippy Grewal;Tanu Grewal,pop,0.958,0.757,0.811,81.972,happy
+24K Magic - R3hab Remix,Bruno Mars;R3HAB,pop,0.566,0.708,0.764,106.175,happy
+Christmas Lights,Coldplay,pop,0.237,0.418,0.315,129.116,sad
+A Sky Full of Stars - Hardwell Remix,Coldplay;Geoff Swan;Hardwell;Mark 'Spike' Stent,pop,0.0861,0.657,0.652,127.997,angry
+Samjho Na,Aditya Rikhari,pop,0.532,0.328,0.744,98.923,chill
+Samjhawan,Jawad Ahmad;Shaarib Toshi;Arijit Singh;Shreya Ghoshal,pop,0.517,0.482,0.65,106.994,chill
+deja vu,Olivia Rodrigo,pop,0.178,0.612,0.442,180.917,angry
+Haaye Oye (feat. Ash King),QARAN;Ash King,pop,0.543,0.727,0.633,123.959,happy
+In The Stars,Benson Boone,pop,0.3,0.54,0.362,78.007,angry
+"Humraah (From ""Malang - Unleash The Madness"")",Sachet Tandon;The Fusion Project,pop,0.277,0.854,0.468,155.867,angry
+Temporary pyar,Kaka,pop,0.339,0.79,0.531,79.942,angry
+Photograph,Ed Sheeran,pop,0.201,0.379,0.614,107.989,sad
+Bamb Agya,Gur Sidhu;Jasmine Sandlas;Kaptaan,pop,0.499,0.709,0.823,93.012,angry
+Mujhe Peene Do,Darshan Raval,pop,0.175,0.334,0.268,55.832,sad
+"Aafat (From ""Liger"")",Tanishk Bagchi;Rashmi Virag;Zahrah S Khan,pop,0.433,0.805,0.834,119.947,angry
+"Gali Gali (From ""Kgf Chapter 1"")",Neha Kakkar;Tanishk Bagchi,pop,0.746,0.95,0.789,126.013,happy
+Yellow,Coldplay,pop,0.285,0.661,0.429,173.372,angry
+Baarish Lete Aana,Darshan Raval,pop,0.318,0.35,0.537,67.018,sad
+Green Eyes,Coldplay,pop,0.233,0.405,0.607,129.543,sad
+The Scientist,Coldplay,pop,0.213,0.442,0.557,146.277,sad
+Higher Power,Coldplay,pop,0.489,0.828,0.507,178.032,angry
+Everyday Life,Coldplay,pop,0.235,0.452,0.512,124.103,sad
+Adventure of a Lifetime - Matoma Remix,Coldplay;Matoma,pop,0.456,0.771,0.651,112.015,angry
+Heartbreak Anniversary,Giveon,pop,0.543,0.465,0.449,89.087,chill
+"Ghalat Fehmi - From ""Superstar""",Asim Azhar;Zenab Fatimah Sultan,pop,0.796,0.588,0.758,134.014,happy
+The Lighthouse Keeper,Sam Smith,pop,0.315,0.17,0.394,130.721,sad
+Halki Si Barsaat,Saaj Bhatt,pop,0.767,0.606,0.591,82.185,happy
+Drag Me Down,One Direction,pop,0.595,0.703,0.73,138.113,happy
+Compulsory,Gur Sidhu;Kaptaan,pop,0.688,0.76,0.778,144.026,happy
+Shiddat Title Track,Manan Bhardwaj,pop,0.439,0.625,0.489,149.921,angry
+"Bolna (From ""Kapoor & Sons (Since 1921)"")",Tanishk Bagchi;Arijit Singh;Asees Kaur,pop,0.497,0.403,0.488,131.489,sad
+Have Yourself A Merry Little Christmas,Sam Smith,pop,0.344,0.178,0.438,75.25,sad
+Jiske Aane Se Mukammal,Prashant Katheriya,pop,0.88,0.277,0.631,139.733,chill
+Kurumugil,Vishal Chandrashekhar;Sai Vignesh,pop,0.599,0.342,0.419,149.798,chill
+"River - Recorded At RAK Studios, London",Sam Smith,pop,0.196,0.181,0.45,115.443,sad
+Don’t Blame Me,Taylor Swift,pop,0.193,0.534,0.615,135.917,angry
+Kala Chashma,Amar Arshi;Badshah;Neha Kakkar;Indeep Bakshi;Prem & Hardeep,pop,0.919,0.856,0.801,106.026,happy
+Paniyon Sa,Rochak Kohli;Atif Aslam;Tulsi Kumar,pop,0.669,0.768,0.523,75.03,happy
+Daryaa,Ammy Virk;Shahid Mallya,pop,0.231,0.526,0.567,91.999,angry
+"Naah Goriye (From ""Bala"")",B Praak;Harrdy Sandhu;Swasti Mehul,pop,0.715,0.765,0.823,99.96,happy
+Ek Tarfa - Reprise,Darshan Raval,pop,0.444,0.453,0.32,72.424,sad
+Happiness is a butterfly,Lana Del Rey,pop,0.156,0.119,0.467,70.499,sad
+Little Do You Know,Alex & Sierra,pop,0.37,0.292,0.5,145.879,sad
+Tum Chhupa Na Sakogi,Prashant Katheriya,pop,0.641,0.229,0.471,80.99,chill
+Savage Love (Laxed – Siren Beat) [BTS Remix],Jawsh 685;Jason Derulo;BTS,pop,0.658,0.598,0.758,149.836,happy
+Blue Banisters,Lana Del Rey,pop,0.172,0.114,0.373,90.945,sad
+"Kannukkulle (From ""Sita Ramam (Tamil)"")",Vishal Chandrashekhar;Haricharan;Sinduri Vishal,pop,0.82,0.404,0.493,179.992,chill
+Haare Haare Hum To Dil Se Haare - Unplugged Version,Siddharth Slathia,pop,0.548,0.369,0.48,159.687,chill
+Born To Die,Lana Del Rey,pop,0.394,0.636,0.206,77.797,angry
+Wait a Minute!,WILLOW,pop,0.672,0.705,0.764,101.003,happy
+Mitti Di Khushboo,Rochak Kohli;Ayushmann Khurrana,pop,0.355,0.754,0.64,94.989,angry
+DEAD ZONE,Gulab Sidhu;Jay Dee,pop,0.538,0.644,0.634,163.628,happy
+Love Story,Taylor Swift,pop,0.306,0.741,0.617,118.984,angry
+everything sucks,vaultboy,pop,0.653,0.371,0.76,138.023,chill
+Deewane Hum Nahi - Version 1.0,Aditya Yadav,pop,0.238,0.498,0.553,180.011,sad
+Baarish Ki Jaaye,B Praak;Nawazuddin Siddiqui;Sunanda Sharma,pop,0.475,0.765,0.524,157.487,angry
+Phulkari,Karan Randhawa,pop,0.764,0.785,0.547,81.781,happy
+Story of My Life,One Direction,pop,0.286,0.663,0.6,121.07,angry
+Dooriyan (feat. Kaprila),Dino James;Kaprila,pop,0.219,0.474,0.778,91.969,sad
+Tere Bin Nahi Laage (Male Version),Uzair Jaswal,pop,0.429,0.577,0.294,83.171,angry
+"Naa Tere Bin (From ""Ek Villain Returns"")",Tanishk Bagchi;Altamash Faridi,pop,0.384,0.453,0.603,135.028,sad
+Laagi Lagan Shankara,Hansraj Raghuwanshi,pop,0.523,0.903,0.468,152.383,happy
+Feelinga,Garry Sandhu,pop,0.386,0.518,0.71,96.059,angry
+Medley: Kehna Galat Galat / Halka Halka Suroor,Madhur Sharma;Nusrat Fateh Ali Khan,pop,0.703,0.506,0.731,114.986,happy
+Mere Baad Kisko Sataoge (Lo-Fi),Madhur Sharma;Nusrat Fateh Ali Khan,pop,0.33,0.495,0.346,203.983,sad
+"Adipoli (From ""Think Originals"")",Siddhu Kumar;Vineeth Sreenivasan;K. Sivaangi,pop,0.706,0.6,0.573,149.982,happy
+Kutty Pattas,Santhosh Dhayanidhi;Rakshita Suresh,pop,0.742,0.467,0.895,132.955,chill
+June Ponal,Krishh;Arun,pop,0.667,0.489,0.741,113.028,chill
+Naah,Harrdy Sandhu,pop,0.828,0.863,0.715,99.981,happy
+happier,Olivia Rodrigo,pop,0.338,0.443,0.395,168.924,sad
+Qismat,Ammy Virk,pop,0.736,0.744,0.43,87.726,happy
+Say You Won't Let Go,James Arthur,pop,0.494,0.557,0.358,85.043,angry
+Humsafar,Akhil Sachdeva;Mansheel Gujral,pop,0.221,0.552,0.319,93.991,angry
+Kamariya,Aastha Gill;Sachin Sanghvi;Jigar Saraiya;Divya Kumar,pop,0.763,0.666,0.825,96.987,happy
+Tumse Milke Dil Ka,Sonu Nigam;Sabri Brothers,pop,0.882,0.745,0.853,107.985,happy
+Zara Zara - MTV Unwind,Arjun Kanungo,pop,0.286,0.23,0.588,135.978,sad
+Yeh Jism,Ali Azmat,pop,0.223,0.451,0.6,78.023,sad
+Dil Na Jaaneya,Rochak Kohli;Lauv;AKASA,pop,0.49,0.348,0.791,131.972,sad
+Street Style,JERRY,pop,0.445,0.743,0.516,81.335,angry
+Judge,Mankirt Aulakh,pop,0.61,0.721,0.66,181.842,happy
+Main Royaan,Tanveer Evan;Yasser Desai;Rajat Nagpal,pop,0.255,0.478,0.599,77.985,sad
+Kya Karein,Aditya Rikhari,pop,0.457,0.334,0.668,109.604,sad
+Enna Solla Pogirai,Shankar Mahadevan,pop,0.331,0.438,0.766,82.013,sad
+Eppudo Ninnu,Vishal Chandrashekhar;Yazin Nizar,pop,0.619,0.447,0.741,89.993,chill
+Adada Adada,Chitharth,pop,0.788,0.834,0.876,103.012,happy
+"Sex, Drugs, Etc.",Beach Weather,rock,0.465,0.839,0.572,143.969,angry
 Thunder,Imagine Dragons,rock,0.288,0.822,0.605,167.997,angry
 Believer,Imagine Dragons,rock,0.666,0.78,0.776,124.949,happy
+Bones,Imagine Dragons,rock,0.571,0.742,0.773,114.071,happy
 World's Smallest Violin,AJR,rock,0.684,0.697,0.68,116.033,happy
+Whatever It Takes,Imagine Dragons,rock,0.556,0.655,0.672,134.945,happy
+Demons,Imagine Dragons,rock,0.428,0.71,0.505,89.938,angry
 Bad Liar,Imagine Dragons,rock,0.0827,0.637,0.383,177.913,angry
+House of Memories,Panic! At The Disco,rock,0.506,0.817,0.506,109.952,happy
+Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons;JID;Arcane;League of Legends,rock,0.555,0.783,0.728,77.011,happy
+Wrecked,Imagine Dragons,rock,0.229,0.562,0.625,93.998,angry
+Follow You,Imagine Dragons,rock,0.489,0.732,0.542,124.912,angry
+Scandal - Remastered 2011,Queen,rock,0.507,0.805,0.639,103.451,happy
+Enemy - from the series Arcane League of Legends,Imagine Dragons;JID;Arcane;League of Legends,rock,0.555,0.783,0.728,77.011,happy
 On Top Of The World,Imagine Dragons,rock,0.759,0.925,0.588,99.83,happy
+I Want It All - Remastered 2011,Queen,rock,0.43,0.835,0.402,92.029,angry
 Was It All Worth It - Remastered 2011,Queen,rock,0.13,0.866,0.16,179.739,angry
 Hall of Fame (feat. will.i.am),The Script;will.i.am,rock,0.629,0.873,0.421,84.786,happy
+Enemy - From the series Arcane League of Legends,Imagine Dragons;Arcane;League of Legends,rock,0.52,0.745,0.722,77.029,happy
 My Friends,Red Hot Chili Peppers,rock,0.327,0.71,0.303,162.657,angry
+Electric Love,BØRNS,rock,0.518,0.797,0.611,120.041,happy
+Heathens,Twenty One Pilots,rock,0.548,0.396,0.732,90.024,chill
+Ride,Twenty One Pilots,rock,0.566,0.713,0.645,74.989,happy
 Stressed Out,Twenty One Pilots,rock,0.648,0.637,0.734,169.977,happy
 Radioactive,Imagine Dragons,rock,0.236,0.784,0.448,136.245,angry
 Natural,Imagine Dragons,rock,0.22,0.611,0.704,100.0,angry
+Don't Let the Light Go Out,Panic! At The Disco,rock,0.179,0.59,0.492,117.637,angry
 Leave the City,Twenty One Pilots,rock,0.297,0.378,0.506,134.99,sad
 Viva Las Vengeance,Panic! At The Disco,rock,0.371,0.821,0.211,153.742,angry
 I Write Sins Not Tragedies,Panic! At The Disco,rock,0.639,0.792,0.565,170.076,happy
 House of Gold,Twenty One Pilots,rock,0.851,0.694,0.68,114.945,happy
+"Hey Look Ma, I Made It",Panic! At The Disco,rock,0.575,0.834,0.577,107.936,happy
 The Hype,Twenty One Pilots,rock,0.371,0.816,0.53,87.019,angry
+Landslide - 2018 Remaster,Fleetwood Mac,rock,0.508,0.292,0.428,159.757,chill
 Big Love - 2018 Remaster,Fleetwood Mac,rock,0.619,0.748,0.71,125.374,happy
 Little Lies - 2018 Remaster,Fleetwood Mac,rock,0.878,0.655,0.643,124.731,happy
 Go Your Own Way - 2018 Remaster,Fleetwood Mac,rock,0.657,0.932,0.572,136.029,happy
 Everywhere - 2018 Remaster,Fleetwood Mac,rock,0.682,0.465,0.74,114.957,chill
 Tusk - 2018 Remaster,Fleetwood Mac,rock,0.917,0.786,0.611,180.773,happy
+All I Want,Kodaline,rock,0.159,0.411,0.188,187.376,sad
 Cold Heart - PNAU Remix,Elton John;Dua Lipa;PNAU,rock,0.934,0.8,0.795,116.032,happy
+Local God,Panic! At The Disco,rock,0.584,0.849,0.379,146.841,happy
 Middle of a Breakup,Panic! At The Disco,rock,0.735,0.803,0.437,147.507,happy
 Safe And Sound,Capital Cities,rock,0.766,0.819,0.655,117.956,happy
 High Hopes,Panic! At The Disco,rock,0.681,0.904,0.579,82.014,happy
 Every Breath You Take,The Police,rock,0.74,0.452,0.82,117.401,chill
+We Will Rock You - Remastered 2011,Queen,rock,0.475,0.497,0.692,81.308,sad
 Summer Of '69,Bryan Adams,rock,0.774,0.834,0.508,139.131,happy
 I Won't,AJR,rock,0.382,0.721,0.423,161.926,angry
+Hope For The Future,Bastille,rock,0.109,0.411,0.449,149.911,sad
 Revolution,Bastille,rock,0.78,0.755,0.629,110.016,happy
 Thelma + Louise,Bastille,rock,0.756,0.83,0.766,121.948,happy
+Snakes,Bastille,rock,0.486,0.812,0.635,137.976,angry
 Bad Blood,Bastille,rock,0.933,0.794,0.664,143.013,happy
 Shut Off The Lights,Bastille,rock,0.659,0.908,0.624,105.048,happy
 Merry Xmas Everybody - For Nest Audio Sessions,Bastille,rock,0.382,0.394,0.56,122.878,sad
@@ -853,51 +2287,79 @@ Warriors,Imagine Dragons,rock,0.309,0.851,0.365,78.086,angry
 Superheroes,The Script,rock,0.64,0.885,0.49,166.996,happy
 Remind Me,Bastille,rock,0.662,0.744,0.744,104.007,happy
 Fight Song,Rachel Platten,rock,0.33,0.714,0.564,175.924,angry
+Pompeii,Bastille,rock,0.571,0.711,0.68,127.436,happy
+Christmas Time,Bryan Adams,rock,0.326,0.582,0.503,77.321,angry
+Merry Christmas,Bryan Adams,rock,0.598,0.511,0.683,109.991,happy
 Joe And Mary,Bryan Adams,rock,0.966,0.896,0.639,143.989,happy
 Can't Stand Losing You - Remastered 2003,The Police,rock,0.912,0.793,0.736,141.96,happy
 Hey There Delilah,Plain White T's,rock,0.298,0.291,0.656,103.971,sad
 Chlorine,Twenty One Pilots,rock,0.315,0.674,0.609,90.009,angry
+The Good Part,AJR,rock,0.577,0.473,0.287,186.283,chill
 Brother,Kodaline,rock,0.21,0.625,0.519,120.103,angry
+Bohemian Rhapsody - Remastered 2011,Queen,rock,0.224,0.404,0.414,71.105,sad
 Run To You,Bryan Adams,rock,0.646,0.863,0.559,126.417,happy
 (Everything I Do) I Do It For You,Bryan Adams,rock,0.254,0.365,0.526,131.251,sad
 Let's Make A Night To Remember,Bryan Adams,rock,0.396,0.621,0.47,175.906,angry
+Glad You Came,The Wanted,rock,0.452,0.851,0.722,126.885,angry
+Don’t Give Up On Me,Andy Grammer,rock,0.0676,0.537,0.64,112.868,angry
 We Are Young (feat. Janelle Monáe),fun.;Janelle Monáe,rock,0.735,0.638,0.378,184.086,happy
+Eye of the Tiger,Survivor,rock,0.548,0.599,0.817,108.873,happy
 Classic,MKTO,rock,0.756,0.791,0.72,102.071,happy
 "Hey, Soul Sister",Train,rock,0.795,0.886,0.673,97.012,happy
 Zombie,The Cranberries,rock,0.256,0.738,0.252,165.187,angry
+Ode To My Family,The Cranberries,rock,0.0777,0.517,0.365,93.862,angry
 Linger,The Cranberries,rock,0.131,0.762,0.201,94.832,angry
+Chasing Cars,Snow Patrol,rock,0.144,0.595,0.56,104.011,angry
+Birds,Imagine Dragons,rock,0.35,0.517,0.649,119.997,angry
 Imagine - Remastered 2010,John Lennon,rock,0.169,0.257,0.547,75.752,sad
 Don't Stop Me Now - Remastered 2011,Queen,rock,0.609,0.868,0.559,156.295,happy
 It's Uncanny,Daryl Hall & John Oates,rock,0.964,0.849,0.742,107.188,happy
+Maggie May,Rod Stewart,rock,0.494,0.719,0.594,129.337,angry
 Run Back Into Your Arms,Rod Stewart,rock,0.893,0.92,0.589,146.439,happy
 What Are You Doing New Year's Eve?,Rod Stewart;Ella Fitzgerald;Chris Botti,rock,0.224,0.265,0.362,76.404,sad
 If I Had You,Rod Stewart,rock,0.612,0.635,0.579,139.456,happy
 Santa Claus Is Coming To Town,Rod Stewart,rock,0.679,0.451,0.759,112.099,chill
+Winter Wonderland,Rod Stewart;Michael Bublé,rock,0.4,0.491,0.684,117.916,sad
 Have Yourself A Merry Little Christmas,Rod Stewart,rock,0.29,0.175,0.401,68.049,sad
 Bohemian Rhapsody,Queen,rock,0.246,0.397,0.39,144.031,sad
+Heaven,Bryan Adams,rock,0.335,0.589,0.382,140.059,angry
 Baby Jane,Rod Stewart,rock,0.732,0.798,0.641,123.229,happy
 Sailing,Rod Stewart,rock,0.189,0.375,0.43,128.791,sad
 Street Fighting Man,Rod Stewart,rock,0.611,0.77,0.537,136.82,happy
+Let It Snow! Let It Snow! Let It Snow!,Rod Stewart;Dave Koz,rock,0.49,0.4,0.549,106.998,sad
 You Wear It Well,Rod Stewart,rock,0.865,0.682,0.543,127.31,happy
 "Merry Christmas, Baby",Rod Stewart;CeeLo Green;Trombone Shorty,rock,0.782,0.677,0.463,202.05,happy
+Everyday I Love You Less And Less,Kaiser Chiefs,rock,0.577,0.956,0.49,160.028,happy
+Habits of My Heart,Jaymes Young,rock,0.589,0.496,0.392,72.024,chill
 It's Time,Imagine Dragons,rock,0.86,0.884,0.656,105.009,happy
 Sweet Dreams (Are Made of This) - Remastered,Eurythmics;Annie Lennox;Dave Stewart,rock,0.875,0.711,0.692,125.135,happy
 I'll Be Good,Jaymes Young,rock,0.123,0.277,0.393,89.334,sad
 Sultans Of Swing,Dire Straits,rock,0.931,0.794,0.733,148.174,happy
+Infinity - PRETTY YOUNG Remix,Jaymes Young;PRETTY YOUNG,rock,0.338,0.595,0.543,122.052,angry
 A Thousand Years (feat. Steve Kazee) - Pt. 2; The Twilight Saga: Breaking Dawn Soundtrack,Christina Perri;Steve Kazee,rock,0.152,0.281,0.272,138.856,sad
-Thank You,Dido,rock,0.762,0.583,0.725,79.984,chill
+Thank You,Dido,rock,0.762,0.583,0.725,79.984,happy
+You're Beautiful,James Blunt,rock,0.454,0.479,0.675,81.998,sad
 The Man Who Can't Be Moved,The Script,rock,0.308,0.629,0.605,99.894,angry
+"Honey, I'm Good.",Andy Grammer,rock,0.583,0.802,0.754,122.026,happy
 i'll be home for christmas,Christina Perri,rock,0.327,0.0931,0.407,117.512,sad
 the lonely,Christina Perri,rock,0.0681,0.269,0.236,81.254,sad
+Happy Christmas (War Is Over),John Lennon;Yoko Ono;Wiener Sängerknaben;WienerWunderAllerlei;Gerald Wirth,rock,0.503,0.307,0.211,177.363,chill
 In The Bleak Midwinter,Annie Lennox,rock,0.158,0.189,0.322,141.791,sad
+I Want To Break Free,Queen,rock,0.502,0.414,0.807,108.944,chill
+Hall of Fame,The Script,rock,0.511,0.872,0.511,84.953,happy
 My Demons,STARSET,rock,0.1,0.652,0.274,173.008,angry
+Iris - Acoustic,The Goo Goo Dolls,rock,0.559,0.292,0.446,157.831,chill
+Iris,The Goo Goo Dolls,rock,0.511,0.791,0.291,155.669,happy
+"Yeah, I Like You",The Goo Goo Dolls,rock,0.431,0.938,0.479,140.056,angry
 Jar of Hearts,Christina Perri,rock,0.0899,0.348,0.373,74.885,sad
 Superlove,Lenny Kravitz,rock,0.976,0.783,0.664,100.204,happy
 It Ain't Over 'Til It's Over,Lenny Kravitz,rock,0.934,0.752,0.66,159.684,happy
 Black Balloon,The Goo Goo Dolls,rock,0.334,0.625,0.339,104.679,angry
+Christmas All Over Again,The Goo Goo Dolls,rock,0.554,0.768,0.457,133.788,happy
 Push,Lenny Kravitz,rock,0.716,0.797,0.577,149.725,happy
 "I Put A Spell On You (Fifty Shades of Grey) - From ""Fifty Shades Of Grey"" Soundtrack",Annie Lennox,rock,0.358,0.383,0.563,173.98,sad
 Zombie Zoo,Tom Petty,rock,0.819,0.886,0.685,116.222,happy
+Give a Little Bit,The Goo Goo Dolls,rock,0.528,0.951,0.557,93.97,happy
 American Woman,Lenny Kravitz,rock,0.605,0.709,0.649,83.975,happy
 Angels From The Realms of Glory,Annie Lennox,rock,0.3,0.322,0.523,126.002,sad
 I Won't Back Down,Tom Petty,rock,0.963,0.63,0.765,113.967,happy
@@ -909,15 +2371,21 @@ I Belong To You,Lenny Kravitz,rock,0.666,0.686,0.691,87.312,happy
 Postcards,James Blunt,rock,0.677,0.617,0.723,100.015,happy
 Joy,Andy Grammer,rock,0.233,0.793,0.675,111.907,angry
 Wisemen,James Blunt,rock,0.633,0.701,0.635,151.894,happy
+Bonfire Heart,James Blunt,rock,0.473,0.821,0.575,118.025,angry
 Love Under Pressure,James Blunt,rock,0.703,0.754,0.613,110.017,happy
 Fly Away,Lenny Kravitz,rock,0.709,0.868,0.597,160.021,happy
 Africa,TOTO,rock,0.732,0.373,0.671,92.718,chill
 Be My Mistake,The 1975,rock,0.0949,0.155,0.572,109.923,sad
+Burn the House Down,AJR,rock,0.568,0.66,0.454,184.353,happy
+Wonderwall - Remastered,Oasis,rock,0.469,0.896,0.378,174.302,angry
 "Danger Zone - From ""Top Gun"" Original Soundtrack",Kenny Loggins,rock,0.647,0.897,0.544,157.17,happy
 Believer - Kaskade Remix,Imagine Dragons;Kaskade,rock,0.182,0.634,0.73,126.022,angry
 Merry Christmas Darling,Christina Perri,rock,0.168,0.291,0.544,75.945,sad
 arms,Christina Perri,rock,0.252,0.755,0.463,145.312,angry
+human - Passion Pit Remix,Christina Perri;Passion Pit,rock,0.401,0.791,0.721,120.009,angry
 Modern Way,Kaiser Chiefs,rock,0.294,0.764,0.536,147.585,angry
 burning gold - Addal Remix,Christina Perri;Addal,rock,0.261,0.667,0.754,117.975,angry
 (Because) It's Christmastime,Chicago,rock,0.73,0.742,0.711,100.053,happy
+Under Pressure - Remastered 2011,Queen;David Bowie,rock,0.462,0.712,0.671,113.805,angry
+Stay On These Roads,a-ha,rock,0.15,0.527,0.573,103.985,angry
 Take On Me - Kygo Remix,a-ha;Kygo,rock,0.622,0.78,0.536,179.971,happy
