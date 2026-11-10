@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Music Buddy</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="chat">
+    <h1>🎵 Music Buddy</h1>
+    <div id="messages"></div>
+    <form id="form">
+      <input id="input" placeholder="How are you feeling today?" autocomplete="off" required>
+      <button>Send</button>
+    </form>
+  </div>
+  <script>
+    const msgs = document.getElementById("messages");
+    const history = [];
+    function add(text, cls) {
+      const d = document.createElement("div");
+      d.className = "msg " + cls;
+      d.textContent = text;
+      msgs.appendChild(d);
+      msgs.scrollTop = msgs.scrollHeight;
+    }
+    add("Hi! Tell me your mood or a genre and I'll find you songs.", "bot");
+    document.getElementById("form").onsubmit = async (e) => {
+      e.preventDefault();
+      const input = document.getElementById("input");
+      const text = input.value; input.value = "";
+      add(text, "user");
+      const res = await fetch("/chat", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({message: text, history})
+      });
+      const data = await res.json();
+      add(data.reply, "bot");
+      history.push({role: "user", content: text}, {role: "assistant", content: data.reply});
+    };
+  </script>
+</body>
+</html>

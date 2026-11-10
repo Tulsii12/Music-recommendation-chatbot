@@ -1,0 +1,13 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, sans-serif; background: #121212; color: #fff;
+       display: flex; justify-content: center; min-height: 100vh; }
+.chat { width: 100%; max-width: 600px; display: flex; flex-direction: column; padding: 16px; height: 100vh; }
+h1 { text-align: center; }
+#messages { flex: 1; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; padding: 8px; }
+.msg { padding: 10px 14px; border-radius: 14px; max-width: 85%; white-space: pre-wrap; line-height: 1.4; }
+.user { background: #1db954; align-self: flex-end; color: #000; }
+.bot { background: #282828; align-self: flex-start; }
+form { display: flex; gap: 8px; margin-top: 10px; }
+input { flex: 1; padding: 12px; border-radius: 24px; border: none; background: #282828; color: #fff; }
+button { padding: 12px 20px; border-radius: 24px; border: none; background: #1db954; font-weight: 600; cursor: pointer; }
+@media (max-width: 480px) { .msg { max-width: 95%; } }
