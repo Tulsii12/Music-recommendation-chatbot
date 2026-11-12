@@ -14,17 +14,43 @@ EXTRACT_PROMPT = """Extract the user's music intent. Reply ONLY with JSON:
 {"mood": one of ["happy","sad","chill","angry",null],
  "genre": one of ["pop","rock","hip-hop","classical","jazz","edm","acoustic","indie",null]}
 Map feelings to the closest mood (e.g. stressed/relaxed -> chill, heartbroken/lonely -> sad,
-excited/party -> happy, frustrated -> angry). Use null if not mentioned."""
+excited/party/workout/gym -> happy, frustrated -> angry). Use null if not mentioned."""
 
 REPLY_PROMPT = """You are a friendly music buddy. Recommend ONLY the tracks provided below.
 Do not invent songs. Write a short, warm reply (max 4 sentences) that acknowledges the
 user's mood, then list the tracks as 'Title - Artist'. If the list is empty, ask the user
 to tell you their mood or a genre."""
 
+# Keyword lists used by the fallback when Gemini is unavailable
+MOOD_KEYWORDS = {
+    "happy": ["happy", "party", "upbeat", "energetic", "energy", "workout", "work out",
+              "gym", "dance", "excited", "pump"],
+    "sad": ["sad", "cry", "heartbroken", "lonely", "down", "depressed", "breakup"],
+    "chill": ["relax", "chill", "calm", "study", "sleep", "stress", "peaceful"],
+    "angry": ["angry", "rage", "frustrated", "aggressive", "mad"],
+}
+GENRE_KEYWORDS = ["pop", "rock", "hip-hop", "classical", "jazz", "edm", "acoustic", "indie"]
+
+
+def guess_mood(text):
+    text = text.lower()
+    for mood, words in MOOD_KEYWORDS.items():
+        if any(w in text for w in words):
+            return mood
+    return None
+
+
+def guess_genre(text):
+    text = text.lower()
+    for g in GENRE_KEYWORDS:
+        if g in text:
+            return g
+    return None
+
 
 def call_gemini(prompt, system, temperature, json_mode=False):
-    """Call Gemini with up to 3 attempts, so temporary 503 errors don't break the chat."""
-    for attempt in range(3):
+    """Call Gemini with up to 2 attempts, so temporary errors don't break the chat."""
+    for attempt in range(2):
         try:
             config = types.GenerateContentConfig(
                 system_instruction=system,
@@ -34,9 +60,9 @@ def call_gemini(prompt, system, temperature, json_mode=False):
             return client.models.generate_content(model=MODEL, contents=prompt, config=config)
         except Exception as e:
             print(f"Attempt {attempt + 1} failed:", e)
-            if attempt == 2:
+            if attempt == 1:
                 raise
-            time.sleep(2 * (attempt + 1))   # wait 2s, then 4s
+            time.sleep(3)
 
 
 @app.route("/")
@@ -70,11 +96,11 @@ def chat():
 
     except Exception as e:
         print("ERROR:", e)
-        # Fallback: still show songs from the dataset if the AI is unavailable
-        tracks = recommend(None, None)
+        # Fallback: no AI needed. Guess mood/genre from keywords and use the dataset.
+        tracks = recommend(guess_mood(user_msg), guess_genre(user_msg))
         text = "\n".join(f"{t['track_name']} - {t['artists']}" for t in tracks)
         return jsonify({
-            "reply": "My AI is busy right now, but here are some tracks you might like:\n" + text
+            "reply": "My AI is busy right now, but based on your message, here are some tracks:\n" + text
         })
 
 
